@@ -1052,3 +1052,105 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [30Jun2024 22:23:13.355] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
 [30Jun2024 22:23:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> PUEDEN NADAR
 [30Jun2024 22:23:19.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> q
+[30Jun2024 22:23:34.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9780ms or 195 ticks behind
+[30Jun2024 22:23:45.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ucelzin'/155923, l='ServerLevel[world]', x=-548.92, y=63.00, z=1207.16] died: ucelzin was slain by Zombie
+[30Jun2024 22:23:46.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> sale tpsito
+[30Jun2024 22:23:49.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported ucelzin to reik]
+[30Jun2024 22:23:53.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 6.74875197447426,3.9298753557311414,-6.680740556501831
+[30Jun2024 22:24:04.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14836ms or 296 ticks behind
+[30Jun2024 22:24:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> prometo no morir :3
+[30Jun2024 22:24:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported NoJz3 to reik]
+[30Jun2024 22:24:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has reached the goal [Chain Death]
+[30Jun2024 22:24:13.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin forgot Infected Wandering Trader was a bioweapon
+[30Jun2024 22:24:13.398] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
+[30Jun2024 22:24:16.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
+[30Jun2024 22:24:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> OPK
+[30Jun2024 22:24:19.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/156302, l='ServerLevel[world]', x=-676.53, y=11.00, z=1207.97] died: Deyvid was slain by Zombie
+[30Jun2024 22:24:27.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported ucelzin to reik]
+[30Jun2024 22:24:46.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[30Jun2024 22:24:50.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was eaten alive by ucelzin
+[30Jun2024 22:24:50.476] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[30Jun2024 22:24:55.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
+[30Jun2024 22:25:01.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NoJz3'/151522, l='ServerLevel[world]', x=-479.47, y=62.52, z=1199.35] died: NoJz3 was slain by NoJz3
+[30Jun2024 22:25:27.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ucelzin'/157441, l='ServerLevel[world]', x=-567.86, y=62.54, z=1205.45] died: ucelzin was slain by reik
+[30Jun2024 22:25:43.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/158183, l='ServerLevel[world]', x=-551.51, y=63.10, z=1211.48] died: reik was slain by ucelzin
+[30Jun2024 22:25:44.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was shot by Spitter
+[30Jun2024 22:25:44.742] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[30Jun2024 22:25:52.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/159239, l='ServerLevel[world]', x=-658.88, y=-17.00, z=1191.85] died: Mademoiselle2016 was slain by Selenite Crystal Slime
+[30Jun2024 22:26:10.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was fungi-fied by reik
+[30Jun2024 22:26:11.019] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[30Jun2024 22:26:15.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tque huevada
+[30Jun2024 22:26:19.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin was shot by Spitter
+[30Jun2024 22:26:19.760] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
+[30Jun2024 22:26:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> OPK
+[30Jun2024 22:26:25.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 22:26:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Stone Age]
+[30Jun2024 22:27:04.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/159183, l='ServerLevel[world]', x=-556.43, y=62.76, z=1206.20] died: reik has been incinerated.
+[30Jun2024 22:27:08.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ucelzin'/160343, l='ServerLevel[world]', x=-561.29, y=62.47, z=1208.97] died: ucelzin has been incinerated.
+[30Jun2024 22:27:11.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[30Jun2024 22:27:18.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 10.214216189290028,-0.7967356006687112,0.3281167371881111
+[30Jun2024 22:27:18.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> qe
+[30Jun2024 22:27:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mi furia
+[30Jun2024 22:27:30.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3563ms or 71 ticks behind
+[30Jun2024 22:27:34.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 8.533441116716517,0.8322033533667508,5.604010385568017
+[30Jun2024 22:27:40.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> listo
+[30Jun2024 22:27:45.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 10.243625374415274,-0.7531999805212024,-0.6288029600734717
+[30Jun2024 22:27:45.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tienes cuero?
+[30Jun2024 22:27:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> van a aparecer mas
+[30Jun2024 22:27:53.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se
+[30Jun2024 22:28:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> :
+[30Jun2024 22:28:06.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> v
+[30Jun2024 22:28:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> y eso
+[30Jun2024 22:28:12.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> yo cuando estoy en la secu
+[30Jun2024 22:28:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> eso es todo
+[30Jun2024 22:28:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> y eso
+[30Jun2024 22:28:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tienes cuero
+[30Jun2024 22:28:58.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> es un esto op
+[30Jun2024 22:28:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se
+[30Jun2024 22:29:10.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
+[30Jun2024 22:29:13.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tienes el crafteo
+[30Jun2024 22:29:18.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> mandamelo por dc si lo tienes
+[30Jun2024 22:29:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ok
+[30Jun2024 22:29:38.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> es un jefe te lo da
+[30Jun2024 22:29:43.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> debes buscarlo
+[30Jun2024 22:29:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[30Jun2024 22:30:16.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved too quickly! -9.730962858122894,-2.2247629905309907,1.1923216530392438
+[30Jun2024 22:30:16.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[30Jun2024 22:30:25.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> aaa escape tactico
+[30Jun2024 22:30:28.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 lost connection: Disconnected
+[30Jun2024 22:30:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 left the game
+[30Jun2024 22:30:35.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
+[30Jun2024 22:30:45.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> empiza a dar lag o algo
+[30Jun2024 22:30:48.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoJz3[/127.79.221.79:54923] logged in with entity id 165749 at (-603.6518609895487, 64.0, 1236.7535491139977)
+[30Jun2024 22:30:48.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 joined the game
+[30Jun2024 22:30:48.870] [Server thread/INFO] [Jade/]: Syncing config to NoJz3 (d0a0e26c-a16a-37ee-a300-f8395691dc77)
+[30Jun2024 22:30:49.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/165658, l='ServerLevel[world]', x=-535.30, y=-24.75, z=1263.30] died: WhisperFire26 was slain by Selenite Crystal Slime
+[30Jun2024 22:30:53.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se
+[30Jun2024 22:30:58.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> q
+[30Jun2024 22:31:01.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11418ms or 228 ticks behind
+[30Jun2024 22:31:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se volvio un spawn de lag por los zombies
+[30Jun2024 22:31:17.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 22:31:33.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved too quickly! -0.4071792951193629,-11.229766626350767,0.5337057108015415
+[30Jun2024 22:31:40.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved too quickly! -8.516967303310821,1.252203340253729,5.572443933345539
+[30Jun2024 22:31:41.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24748ms or 494 ticks behind
+[30Jun2024 22:31:43.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved too quickly! -3.1519315375155657,0.15055418823601485,-9.60753549582978
+[30Jun2024 22:31:56.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> debo eliminar este humo porque esta causando lag
+[30Jun2024 22:32:04.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> mi pinga
+[30Jun2024 22:32:07.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> ya vamos por el dragon
+[30Jun2024 22:32:14.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 lost connection: Disconnected
+[30Jun2024 22:32:14.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 left the game
+[30Jun2024 22:32:19.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoJz3[/127.79.221.79:45815] logged in with entity id 166272 at (-590.0826048674746, 63.0, 1234.4813158435504)
+[30Jun2024 22:32:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 joined the game
+[30Jun2024 22:32:20.101] [Server thread/INFO] [Jade/]: Syncing config to NoJz3 (d0a0e26c-a16a-37ee-a300-f8395691dc77)
+[30Jun2024 22:32:20.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24536ms or 490 ticks behind
+[30Jun2024 22:32:50.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> QE
+[30Jun2024 22:32:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> AYUDA
+[30Jun2024 22:33:00.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> cogistes cristal?
+[30Jun2024 22:33:00.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24911ms or 498 ticks behind
+[30Jun2024 22:33:05.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! 9.457296854750894,-2.4638603916895505,-2.7160512712489435
+[30Jun2024 22:33:08.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> me cogi a tu mama
+[30Jun2024 22:33:09.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> y no
+[30Jun2024 22:33:11.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! 5.603847355500534,0.0,8.520639016743644
+[30Jun2024 22:33:14.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -8.869690793109612,0.0,4.651395766628866
+[30Jun2024 22:33:17.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -10.013298902371162,0.0,-2.724367189161512
+[30Jun2024 22:33:25.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> X
