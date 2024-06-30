@@ -496,3 +496,94 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [30Jun2024 16:21:50.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported reik to ucelzin]
 [30Jun2024 16:21:52.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> GUARDIANAES
 [30Jun2024 16:21:59.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
+[30Jun2024 16:22:06.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[30Jun2024 16:22:23.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> me bugeee
+[30Jun2024 16:22:24.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik drowned whilst trying to escape Guardian
+[30Jun2024 16:22:24.211] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[30Jun2024 16:22:28.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[30Jun2024 16:22:28.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[30Jun2024 16:22:29.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8115ms or 162 ticks behind
+[30Jun2024 16:22:34.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:34167] logged in with entity id 47307 at (-804.1586207719998, 42.121575489221364, 90.18292116839682)
+[30Jun2024 16:22:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[30Jun2024 16:22:35.334] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[30Jun2024 16:22:54.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10046ms or 200 ticks behind
+[30Jun2024 16:22:58.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> me llega a la
+[30Jun2024 16:23:06.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jun2024 16:23:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[30Jun2024 16:23:12.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin drowned
+[30Jun2024 16:23:12.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Your First Grave]
+[30Jun2024 16:23:12.840] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
+[30Jun2024 16:23:13.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4019ms or 80 ticks behind
+[30Jun2024 16:23:15.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> pta
+[30Jun2024 16:23:17.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> MISCOSAS
+[30Jun2024 16:23:20.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Timed out
+[30Jun2024 16:23:20.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[30Jun2024 16:23:20.163] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2024 16:23:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has reached the goal [Here They Come]
+[30Jun2024 16:23:39.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:43289] logged in with entity id 50190 at (264.5, 64.0, -358.5)
+[30Jun2024 16:23:40.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[30Jun2024 16:23:40.416] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[30Jun2024 16:23:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> ice and fire mod
+[30Jun2024 16:23:53.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Jun2024 16:24:09.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Timed out
+[30Jun2024 16:24:09.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[30Jun2024 16:24:09.928] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2024 16:25:04.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[30Jun2024 16:25:11.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[30Jun2024 16:25:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jun2024 16:25:24.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[30Jun2024 16:25:32.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:49501] logged in with entity id 53770 at (264.5, 64.0, -358.5)
+[30Jun2024 16:25:32.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[30Jun2024 16:25:33.149] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[30Jun2024 16:25:33.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[30Jun2024 16:25:51.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2771ms or 55 ticks behind
+[30Jun2024 16:26:07.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 16:26:11.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4556ms or 91 ticks behind
+[30Jun2024 16:26:34.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8247ms or 164 ticks behind
+[30Jun2024 16:26:50.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/55132, l='ServerLevel[world]', x=453.70, y=-39.00, z=-492.80] died: Technoblade was doomed to fall by Skeleton
+[30Jun2024 16:26:52.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[30Jun2024 16:26:57.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7890ms or 157 ticks behind
+[30Jun2024 16:27:17.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5574ms or 111 ticks behind
+[30Jun2024 16:27:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Discreet Search]
+[30Jun2024 16:27:34.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[30Jun2024 16:27:34.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[30Jun2024 16:27:46.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jun2024 16:27:46.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[30Jun2024 16:27:47.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jun2024 16:27:47.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[30Jun2024 16:27:48.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jun2024 16:27:48.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[30Jun2024 16:27:59.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jun2024 16:27:59.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[30Jun2024 16:32:32.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> SEKI SUCKEA
+[30Jun2024 16:32:45.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> LEON?=
+[30Jun2024 16:34:13.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[30Jun2024 16:35:32.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Sweet Dreams]
+[30Jun2024 16:35:36.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> duerme soirra
+[30Jun2024 16:35:43.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> sal del serve
+[30Jun2024 16:35:46.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx lost connection: Disconnected
+[30Jun2024 16:35:46.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx left the game
+[30Jun2024 16:35:55.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sekiiizcx[/127.93.189.9:40841] logged in with entity id 71652 at (-560.3000000119209, 63.0, 176.23206839510206)
+[30Jun2024 16:35:55.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx joined the game
+[30Jun2024 16:35:55.742] [Server thread/INFO] [Jade/]: Syncing config to Sekiiizcx (0c6c3754-3892-3070-a180-0c43238d590b)
+[30Jun2024 16:36:00.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3637ms or 72 ticks behind
+[30Jun2024 16:36:27.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[30Jun2024 16:36:45.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
+[30Jun2024 16:37:29.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[30Jun2024 16:37:42.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Diamonds!]
+[30Jun2024 16:37:46.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Amateur Archaeologist]
+[30Jun2024 16:37:50.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5418ms or 108 ticks behind
+[30Jun2024 16:38:09.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4563ms or 91 ticks behind
+[30Jun2024 16:38:30.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6237ms or 124 ticks behind
+[30Jun2024 16:38:50.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
+[30Jun2024 16:39:01.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> -597 63 581
+[30Jun2024 16:39:10.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4738ms or 94 ticks behind
+[30Jun2024 16:39:36.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[30Jun2024 16:39:54.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3629ms or 72 ticks behind
+[30Jun2024 16:41:12.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[30Jun2024 16:41:36.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8612ms or 172 ticks behind
+[30Jun2024 16:41:52.230] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Jun2024 16:41:59.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8269ms or 165 ticks behind
+[30Jun2024 16:42:23.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9108ms or 182 ticks behind
+[30Jun2024 16:42:44.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [What a Deal!]
+[30Jun2024 16:42:44.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5306ms or 106 ticks behind
