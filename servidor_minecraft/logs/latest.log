@@ -560,3 +560,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [30Jun2024 21:12:16.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tenes cobre?
 [30Jun2024 21:12:21.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> aveces suelta algo
 [30Jun2024 21:12:29.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> metete a vc
+[30Jun2024 21:12:31.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ok
+[30Jun2024 21:14:56.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no tengoa rena
+[30Jun2024 21:15:12.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ucelzin[/127.163.142.170:34141] logged in with entity id 51455 at (-575.3202235675788, 63.4375, 607.4515640052882)
+[30Jun2024 21:15:12.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin joined the game
+[30Jun2024 21:15:13.088] [Server thread/INFO] [Jade/]: Syncing config to ucelzin (3f085825-736d-3f09-933e-886503371210)
+[30Jun2024 21:15:27.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin lost connection: Disconnected
+[30Jun2024 21:15:27.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin left the game
+[30Jun2024 21:16:10.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no oe
+[30Jun2024 21:16:49.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> checa
+[30Jun2024 21:16:56.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> voy a crear una avioneta
+[30Jun2024 21:17:11.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoJz3[/127.79.221.79:47325] logged in with entity id 55085 at (266.5, 64.0, -359.5)
+[30Jun2024 21:17:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 joined the game
+[30Jun2024 21:17:11.688] [Server thread/INFO] [Jade/]: Syncing config to NoJz3 (d0a0e26c-a16a-37ee-a300-f8395691dc77)
+[30Jun2024 21:17:11.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has completed the challenge [Choup's Drakvyrn Mod !]
+[30Jun2024 21:17:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> pe
+[30Jun2024 21:17:35.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> pe
+[30Jun2024 21:17:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> deja te tp
+[30Jun2024 21:18:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported NoJz3 to reik]
+[30Jun2024 21:18:01.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> chaval hay ojos rojos que me siguen
+[30Jun2024 21:18:07.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> X
+[30Jun2024 21:18:41.127] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a62c516[id=<null>,name=ucelzin,properties={},legacy=false] (/127.163.142.170:54011) lost connection: Disconnected
+[30Jun2024 21:18:46.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> se parece a pokemon esmeralda
+[30Jun2024 21:19:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> q lindo vro
+[30Jun2024 21:19:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> gracias
+[30Jun2024 21:19:15.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> qqq
+[30Jun2024 21:19:17.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 21:20:06.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> pera deja lo creo
+[30Jun2024 21:20:11.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[30Jun2024 21:20:43.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
+[30Jun2024 21:21:02.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was killed trying to hurt Lionfish
+[30Jun2024 21:21:02.450] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
+[30Jun2024 21:21:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
+[30Jun2024 21:21:09.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> cfff
+[30Jun2024 21:21:17.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has reached the goal [Here They Come]
+[30Jun2024 21:21:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported NoJz3 to reik]
+[30Jun2024 21:21:25.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mira
+[30Jun2024 21:21:33.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> diablo
+[30Jun2024 21:21:41.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> recorde que me falta la gasolina xd
+[30Jun2024 21:21:50.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 21:21:52.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> ese w
+[30Jun2024 21:22:15.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> falta gaso
+[30Jun2024 21:22:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> dame una
+[30Jun2024 21:22:26.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> yo los ayudo pibes
+[30Jun2024 21:22:26.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> esta es la unica que cree
