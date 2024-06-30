@@ -442,3 +442,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [30Jun2024 16:01:34.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/23345, l='ServerLevel[world]', x=-551.64, y=7.00, z=-141.02] died: Mademoiselle2016 was blown up by Creeper
 [30Jun2024 16:01:34.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/23346, l='ServerLevel[world]', x=-551.51, y=8.25, z=-139.02] died: Ike was blown up by Creeper
 [30Jun2024 16:09:22.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Jun2024 16:14:51.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Monster Hunter]
+[30Jun2024 16:17:44.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sekiiizcx[/127.93.189.9:46137] logged in with entity id 38054 at (-939.2565603855091, 78.18668707874468, 8.18933873252363)
+[30Jun2024 16:17:44.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx joined the game
+[30Jun2024 16:17:44.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Suit Up]
+[30Jun2024 16:17:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Isn't It Iron Pick]
+[30Jun2024 16:17:44.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Stone Age]
+[30Jun2024 16:17:44.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Acquire Hardware]
+[30Jun2024 16:17:44.443] [Server thread/INFO] [Jade/]: Syncing config to Sekiiizcx (0c6c3754-3892-3070-a180-0c43238d590b)
+[30Jun2024 16:17:44.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has completed the challenge [Choup's Drakvyrn Mod !]
+[30Jun2024 16:17:58.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[30Jun2024 16:18:30.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Jaws]
+[30Jun2024 16:18:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has reached the goal [Abyssal Conqueror]
+[30Jun2024 16:19:19.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[30Jun2024 16:19:32.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> pasa cords
+[30Jun2024 16:19:45.350] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/40130, l='ServerLevel[world]', x=-123.22, y=14.00, z=333.00] died: hacie was shot by Skeleton
+[30Jun2024 16:19:45.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> :v
+[30Jun2024 16:19:54.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
+[30Jun2024 16:19:58.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[30Jun2024 16:19:58.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[30Jun2024 16:20:03.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:46063] logged in with entity id 42028 at (-177.6777429961932, 69.0, 422.92452265514476)
+[30Jun2024 16:20:03.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[30Jun2024 16:20:03.593] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[30Jun2024 16:20:06.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
+[30Jun2024 16:20:21.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ucelzin[/127.72.63.38:38829] logged in with entity id 42854 at (-669.3224160457188, 86.0, 115.10430932257128)
+[30Jun2024 16:20:21.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin joined the game
+[30Jun2024 16:20:21.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Stone Age]
+[30Jun2024 16:20:21.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Spore]
+[30Jun2024 16:20:21.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Acquire Hardware]
+[30Jun2024 16:20:21.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Getting an Upgrade]
+[30Jun2024 16:20:21.880] [Server thread/INFO] [Jade/]: Syncing config to ucelzin (3f085825-736d-3f09-933e-886503371210)
+[30Jun2024 16:20:21.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has completed the challenge [Choup's Drakvyrn Mod !]
+[30Jun2024 16:20:27.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> -177 68 422
+[30Jun2024 16:20:28.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[30Jun2024 16:20:31.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> TEPAME
+[30Jun2024 16:20:33.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Timed out
+[30Jun2024 16:20:33.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[30Jun2024 16:20:47.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4070ms or 81 ticks behind
+[30Jun2024 16:20:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> ayuda
+[30Jun2024 16:20:58.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jun2024 16:20:58.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rr<--[HERE]
+[30Jun2024 16:20:59.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jun2024 16:20:59.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r<--[HERE]
+[30Jun2024 16:21:04.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[30Jun2024 16:21:05.699] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16fffca9[id=<null>,name=reik,properties={},legacy=false] (/127.170.184.90:58773) lost connection: Disconnected
+[30Jun2024 16:21:10.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Monster Hunter]
+[30Jun2024 16:21:13.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:57535] logged in with entity id 44433 at (-176.58949376832368, 70.0, 421.8358171473095)
+[30Jun2024 16:21:13.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[30Jun2024 16:21:13.244] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[30Jun2024 16:21:20.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> AIUD
+[30Jun2024 16:21:26.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6689ms or 133 ticks behind
+[30Jun2024 16:21:39.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> sexki
+[30Jun2024 16:21:50.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported reik to ucelzin]
+[30Jun2024 16:21:52.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> GUARDIANAES
+[30Jun2024 16:21:59.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
