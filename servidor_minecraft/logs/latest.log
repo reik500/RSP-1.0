@@ -528,3 +528,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [30Jun2024 21:01:49.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> dame las 3 esponjas
 [30Jun2024 21:01:51.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Suit Up]
 [30Jun2024 21:02:02.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 21:02:20.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin lost connection: Timed out
+[30Jun2024 21:02:20.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin left the game
+[30Jun2024 21:02:20.770] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2024 21:02:28.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
+[30Jun2024 21:03:23.534] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c18f5cf[id=<null>,name=ucelzin,properties={},legacy=false] (/127.163.142.170:56683) lost connection: Disconnected
+[30Jun2024 21:03:55.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ucelzin[/127.163.142.170:48703] logged in with entity id 31516 at (-575.3202235675788, 63.4375, 607.4515640052882)
+[30Jun2024 21:03:55.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin joined the game
+[30Jun2024 21:03:55.249] [Server thread/INFO] [Jade/]: Syncing config to ucelzin (3f085825-736d-3f09-933e-886503371210)
+[30Jun2024 21:04:35.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin lost connection: Disconnected
+[30Jun2024 21:04:35.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin left the game
+[30Jun2024 21:05:35.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[30Jun2024 21:06:14.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 21:06:39.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[30Jun2024 21:07:56.713] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e49f7b3[id=<null>,name=ucelzin,properties={},legacy=false] (/127.163.142.170:34889) lost connection: Disconnected
+[30Jun2024 21:09:18.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sekiiizcx[/127.93.189.9:53229] logged in with entity id 40951 at (-615.1394930547218, 63.5, 578.5525458425038)
+[30Jun2024 21:09:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx joined the game
+[30Jun2024 21:09:18.693] [Server thread/INFO] [Jade/]: Syncing config to Sekiiizcx (0c6c3754-3892-3070-a180-0c43238d590b)
+[30Jun2024 21:09:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> ucel
+[30Jun2024 21:09:48.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> esta arreglando su internet
+[30Jun2024 21:10:01.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/41493, l='ServerLevel[world]', x=-645.84, y=-31.00, z=647.08] died: ABucketOfFriedChicken was blown up by Creeper
+[30Jun2024 21:11:00.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> donde esas
+[30Jun2024 21:11:06.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> hazme tpo
+[30Jun2024 21:11:18.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Not Today, Thank You]
+[30Jun2024 21:11:29.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported Sekiiizcx to reik]
+[30Jun2024 21:11:32.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> noo espera
+[30Jun2024 21:11:34.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
+[30Jun2024 21:11:37.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
+[30Jun2024 21:11:59.182] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d4025c3[id=<null>,name=ucelzin,properties={},legacy=false] (/127.163.142.170:35741) lost connection: Disconnected
+[30Jun2024 21:12:14.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> no solo nada
+[30Jun2024 21:12:16.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tenes cobre?
+[30Jun2024 21:12:21.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> aveces suelta algo
+[30Jun2024 21:12:29.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> metete a vc
