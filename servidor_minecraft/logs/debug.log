@@ -3355,3 +3355,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [30Jun2024 20:51:14.256] [Worker-Main-7/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
 [30Jun2024 20:51:29.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7764ms or 155 ticks behind
 [30Jun2024 20:52:04.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[30Jun2024 20:52:43.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/5679, l='ServerLevel[world]', x=-612.70, y=-18.34, z=75.30] died: cheesepuff tried to swim in lava
+[30Jun2024 20:53:31.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[30Jun2024 20:53:49.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported reik to ucelzin]
+[30Jun2024 20:53:58.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin was slain by Deepling Brute
+[30Jun2024 20:53:58.186] [Server thread/DEBUG] [tombstone/]: A new grave of the player ucelzin was created at position [x:-544, y:62, z:574, dim:minecraft:overworld]
+[30Jun2024 20:53:58.294] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
+[30Jun2024 20:54:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> uff
+[30Jun2024 20:54:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported ucelzin to reik]
+[30Jun2024 20:55:12.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by Deepling Brute
+[30Jun2024 20:55:12.247] [Server thread/DEBUG] [tombstone/]: A new grave of the player reik was created at position [x:-567, y:62, z:582, dim:minecraft:overworld]
+[30Jun2024 20:55:12.317] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[30Jun2024 20:55:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
+[30Jun2024 20:55:25.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma user
+[30Jun2024 20:55:30.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2024 20:55:30.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2024 20:55:34.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 20:55:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> ya voy
+[30Jun2024 20:55:46.051] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Jun2024 20:55:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[30Jun2024 20:56:05.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> hola
+[30Jun2024 20:56:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> subecrack
+[30Jun2024 20:56:19.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> go
+[30Jun2024 20:56:35.642] [Worker-Main-21/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[30Jun2024 20:56:38.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> vamos por nuestras cosas
+[30Jun2024 20:56:41.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> TIN
+[30Jun2024 20:56:47.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma
+[30Jun2024 20:56:53.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 20:57:15.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [The Most Useful Key]
+[30Jun2024 20:57:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[30Jun2024 20:57:31.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has reached the goal [A Fast Comeback]
+[30Jun2024 20:57:31.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> maten
+[30Jun2024 20:58:12.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> sal y vuelve a entrar
+[30Jun2024 20:58:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> checa
+[30Jun2024 20:58:45.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> SAL Y VUELVE A ENTRAR
+[30Jun2024 20:58:47.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> aya
+[30Jun2024 20:59:09.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Sweet Dreams]
+[30Jun2024 20:59:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
+[30Jun2024 20:59:23.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> deja ahi
+[30Jun2024 20:59:46.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> hay qe sacar arena
+[30Jun2024 20:59:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> para
+[30Jun2024 20:59:55.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> saca 1000 esponjas
+[30Jun2024 21:00:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
+[30Jun2024 21:00:06.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no puedo
+[30Jun2024 21:00:20.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya seria demasiado
+[30Jun2024 21:00:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> 3
+[30Jun2024 21:00:30.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2024 21:00:30.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2024 21:00:33.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> 3 que?
+[30Jun2024 21:00:36.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> esponjas
+[30Jun2024 21:00:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya ya
+[30Jun2024 21:00:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mejor creo una avioneta
+[30Jun2024 21:01:02.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> c puede?
+[30Jun2024 21:01:07.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> agregue ese mod
+[30Jun2024 21:01:10.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no ves el libro
+[30Jun2024 21:01:19.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> donde te sale todos los crafteos
+[30Jun2024 21:01:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> s
+[30Jun2024 21:01:31.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tienes hierro
+[30Jun2024 21:01:39.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> pones en el buscador avion y te sale
+[30Jun2024 21:01:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> en ingles
+[30Jun2024 21:01:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tienes hierro?
+[30Jun2024 21:01:49.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> dame las 3 esponjas
+[30Jun2024 21:01:51.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Suit Up]
+[30Jun2024 21:02:02.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
