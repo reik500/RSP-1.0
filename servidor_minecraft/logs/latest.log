@@ -982,3 +982,73 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [30Jun2024 22:13:10.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NoJz3) moved wrongly! 0.7597361393272877
 [30Jun2024 22:13:10.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NoJz3) moved wrongly! 0.7597361393272877
 [30Jun2024 22:13:10.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NoJz3) moved wrongly! 0.410922119866882
+[30Jun2024 22:13:30.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Monster Hunter]
+[30Jun2024 22:13:33.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/142609, l='ServerLevel[world]', x=-715.86, y=24.00, z=1144.15] died: ABucketOfFriedChicken was slain by Zombie
+[30Jun2024 22:14:04.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 22:14:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> duerman karajo
+[30Jun2024 22:15:05.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Ashes 'n Bones]
+[30Jun2024 22:15:43.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Take Aim]
+[30Jun2024 22:15:59.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was eaten alive by Infected Human
+[30Jun2024 22:15:59.888] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
+[30Jun2024 22:16:02.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Jun2024 22:16:02.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Jun2024 22:16:05.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> que
+[30Jun2024 22:16:06.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> qe manko
+[30Jun2024 22:16:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> d
+[30Jun2024 22:16:53.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> tpsito polfa
+[30Jun2024 22:17:25.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> creeper infectado
+[30Jun2024 22:17:39.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Stay dead]
+[30Jun2024 22:17:40.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[30Jun2024 22:17:43.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> fue mi henne
+[30Jun2024 22:17:57.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> e
+[30Jun2024 22:18:25.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/146665, l='ServerLevel[world]', x=-496.36, y=-39.00, z=1205.78] died: Ike was slain by Verdant Viridium Crystal Slime
+[30Jun2024 22:18:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> yser
+[30Jun2024 22:18:38.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[30Jun2024 22:18:44.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NoJz3'/145139, l='ServerLevel[world]', x=-554.30, y=63.14, z=1209.82] died: NoJz3 was slain by reik
+[30Jun2024 22:19:00.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported NoJz3 to reik]
+[30Jun2024 22:19:10.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> recoje tus cosas
+[30Jun2024 22:19:15.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> sisi
+[30Jun2024 22:20:25.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was slain by Infected Drowned
+[30Jun2024 22:20:25.830] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
+[30Jun2024 22:20:29.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> AAA
+[30Jun2024 22:20:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> son demasiados
+[30Jun2024 22:20:30.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/151458, l='ServerLevel[world]', x=-561.68, y=-20.25, z=1252.30] died: Ike was slain by Selenite Crystal Slime
+[30Jun2024 22:20:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik forgot Infected Drowned was a bioweapon
+[30Jun2024 22:20:34.484] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[30Jun2024 22:20:38.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> simios imbeciles
+[30Jun2024 22:20:39.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> si
+[30Jun2024 22:20:43.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> D
+[30Jun2024 22:20:47.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported 4 entities to reik]
+[30Jun2024 22:20:48.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> osea lo de reik
+[30Jun2024 22:20:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> ucel is a pendejo
+[30Jun2024 22:21:03.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/151974, l='ServerLevel[world]', x=-576.56, y=62.61, z=1208.50] died: reik was slain by ucelzin
+[30Jun2024 22:21:10.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> son demasiados
+[30Jun2024 22:21:12.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin was eaten alive by Infected Human
+[30Jun2024 22:21:12.766] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
+[30Jun2024 22:21:15.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> txd
+[30Jun2024 22:21:15.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> XDDDDDDD
+[30Jun2024 22:21:16.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> jaujajaa
+[30Jun2024 22:21:22.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin was kicked for floating too long!
+[30Jun2024 22:21:22.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin lost connection: Flying is not enabled on this server
+[30Jun2024 22:21:22.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin left the game
+[30Jun2024 22:21:41.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ucelzin[/127.182.93.69:50815] logged in with entity id 153352 at (-585.4714925316192, 72.15937779380275, 1206.515951272397)
+[30Jun2024 22:21:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin joined the game
+[30Jun2024 22:21:42.033] [Server thread/INFO] [Jade/]: Syncing config to ucelzin (3f085825-736d-3f09-933e-886503371210)
+[30Jun2024 22:21:42.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[30Jun2024 22:21:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was eaten alive by Nova69
+[30Jun2024 22:21:59.143] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
+[30Jun2024 22:21:59.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported ucelzin to reik]
+[30Jun2024 22:22:00.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
+[30Jun2024 22:22:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> QE HACES
+[30Jun2024 22:22:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> mierda los maté pero spawnearon mas
+[30Jun2024 22:22:19.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> quien ABRIO MI SPAWN
+[30Jun2024 22:22:19.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> enderperlll
+[30Jun2024 22:22:23.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hypnotizd'/154071, l='ServerLevel[world]', x=309.42, y=28.70, z=-338.12] died: Hypnotizd was slain by Bulldrogioth
+[30Jun2024 22:22:26.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[30Jun2024 22:22:44.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> parece una invacion zombie
+[30Jun2024 22:22:51.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[30Jun2024 22:23:09.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2899ms or 57 ticks behind
+[30Jun2024 22:23:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin was eaten alive by Infected Human
+[30Jun2024 22:23:13.355] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
+[30Jun2024 22:23:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> PUEDEN NADAR
+[30Jun2024 22:23:19.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> q
