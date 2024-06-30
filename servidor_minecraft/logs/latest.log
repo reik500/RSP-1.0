@@ -426,3 +426,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [30Jun2024 15:47:39.062] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
 [30Jun2024 15:48:01.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3421ms or 68 ticks behind
 [30Jun2024 15:48:02.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -10.161279863642108,0.0,-0.5530389674491403
+[30Jun2024 15:50:49.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Jun2024 15:51:18.196] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-102, y=-58, z=155}
+[30Jun2024 15:53:05.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was impaled by Deepling
+[30Jun2024 15:53:05.539] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[30Jun2024 15:53:23.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/15599, l='ServerLevel[world]', x=223.40, y=-16.00, z=-292.72] died: cheesepuff fell from a high place
+[30Jun2024 15:55:00.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/16477, l='ServerLevel[world]', x=306.38, y=-17.00, z=-296.98] died: Helldwin was blown up by Creeper
+[30Jun2024 15:55:48.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made reik a server operator
+[30Jun2024 15:56:00.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[30Jun2024 15:58:19.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Jun2024 15:58:52.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[30Jun2024 15:59:06.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [The Most Useful Key]
+[30Jun2024 15:59:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [A Fast Comeback]
+[30Jun2024 15:59:15.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Easy Opening]
+[30Jun2024 16:01:34.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/23345, l='ServerLevel[world]', x=-551.64, y=7.00, z=-141.02] died: Mademoiselle2016 was blown up by Creeper
+[30Jun2024 16:01:34.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/23346, l='ServerLevel[world]', x=-551.51, y=8.25, z=-139.02] died: Ike was blown up by Creeper
+[30Jun2024 16:09:22.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
