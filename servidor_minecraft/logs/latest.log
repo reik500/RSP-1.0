@@ -482,3 +482,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Jul2024 01:17:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
 [01Jul2024 01:17:13.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Jul2024 01:17:13.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[01Jul2024 02:00:26.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2024 02:00:26.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[01Jul2024 02:01:02.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2024 02:01:02.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reset<--[HERE]
