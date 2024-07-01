@@ -1,79 +1,79 @@
-[30Jun2024 20:42:11.243] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[30Jun2024 20:42:11.248] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
-[30Jun2024 20:42:13.983] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[30Jun2024 20:42:14.107] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RSP-1.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[30Jun2024 20:42:14.622] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
-[30Jun2024 20:42:14.623] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[30Jun2024 20:42:14.627] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[30Jun2024 20:42:14.630] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[30Jun2024 20:42:15.016] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[30Jun2024 20:42:19.312] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[30Jun2024 20:42:19.459] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[30Jun2024 20:42:19.570] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Jun2024 20:42:19.819] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Jun2024 20:42:22.974] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[30Jun2024 20:42:22.974] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[30Jun2024 20:42:23.216] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[30Jun2024 20:42:35.482] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[30Jun2024 20:42:36.518] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[30Jun2024 20:42:36.529] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[30Jun2024 20:42:36.532] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[30Jun2024 20:42:36.533] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[30Jun2024 20:42:36.539] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[30Jun2024 20:42:36.551] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[30Jun2024 20:42:36.553] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[30Jun2024 20:42:36.554] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[30Jun2024 20:42:37.243] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
-[30Jun2024 20:42:37.244] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
-[30Jun2024 20:42:39.424] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
-[30Jun2024 20:42:39.708] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[30Jun2024 20:42:44.700] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
-[30Jun2024 20:42:45.000] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[30Jun2024 20:42:45.002] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[30Jun2024 20:42:45.002] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[30Jun2024 20:42:45.003] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[30Jun2024 20:42:45.005] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[30Jun2024 20:42:45.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[30Jun2024 20:42:45.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.14 Target: null
-[30Jun2024 20:42:45.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Starting version check at https://infernalstudios.org/api/mods/shieldexpansion/forge
-[30Jun2024 20:42:45.376] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[30Jun2024 20:42:45.384] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[30Jun2024 20:42:45.385] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[30Jun2024 20:42:45.386] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[30Jun2024 20:42:45.411] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[30Jun2024 20:42:45.417] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[30Jun2024 20:42:45.422] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[30Jun2024 20:42:45.423] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[30Jun2024 20:42:45.454] [modloading-worker-0/INFO] [digidigi.mtmechs.MagitekMechs/]: Got IMC []
-[30Jun2024 20:42:45.468] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[30Jun2024 20:42:45.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Found status: BETA Current: 1.1.7a Target: null
-[30Jun2024 20:42:45.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Jun2024 20:42:45.561] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[30Jun2024 20:42:45.581] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[30Jun2024 20:42:45.624] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[30Jun2024 20:42:45.638] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[30Jun2024 20:42:45.648] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[30Jun2024 20:42:45.651] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[30Jun2024 20:42:45.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
-[30Jun2024 20:42:45.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
-[30Jun2024 20:42:45.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
-[30Jun2024 20:42:45.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[30Jun2024 20:42:46.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.15 Target: null
-[30Jun2024 20:42:46.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[30Jun2024 20:42:46.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.6.6 Target: null
-[30Jun2024 20:42:46.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
-[30Jun2024 20:42:46.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
-[30Jun2024 20:42:50.168] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Jun2024 20:42:53.006] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
-[30Jun2024 20:42:53.007] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
-[30Jun2024 20:42:53.316] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[30Jun2024 20:42:57.928] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.6.jar
-[30Jun2024 20:42:58.137] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.3.jar), ancient_elements:deflected_wind (from ancient_elements-1.3.3.jar), ancient_elements:moltenspearprojektile (from ancient_elements-1.3.3.jar), ancient_elements:wind (from ancient_elements-1.3.3.jar)] as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.3.jar), 
+[01Jul2024 01:12:49.395] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[01Jul2024 01:12:49.400] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
+[01Jul2024 01:12:52.149] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01Jul2024 01:12:52.265] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RSP-1.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01Jul2024 01:12:52.763] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[01Jul2024 01:12:52.765] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[01Jul2024 01:12:52.767] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[01Jul2024 01:12:52.768] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[01Jul2024 01:12:53.081] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[01Jul2024 01:12:57.031] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Jul2024 01:12:57.182] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[01Jul2024 01:12:57.277] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Jul2024 01:12:57.463] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Jul2024 01:13:00.479] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[01Jul2024 01:13:00.480] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[01Jul2024 01:13:00.678] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[01Jul2024 01:13:12.741] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[01Jul2024 01:13:13.830] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01Jul2024 01:13:13.831] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[01Jul2024 01:13:13.834] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[01Jul2024 01:13:13.848] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[01Jul2024 01:13:13.849] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[01Jul2024 01:13:13.851] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[01Jul2024 01:13:13.852] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[01Jul2024 01:13:13.861] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[01Jul2024 01:13:14.615] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[01Jul2024 01:13:14.616] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[01Jul2024 01:13:16.370] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[01Jul2024 01:13:16.550] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[01Jul2024 01:13:21.206] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[01Jul2024 01:13:21.512] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01Jul2024 01:13:21.521] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[01Jul2024 01:13:21.522] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[01Jul2024 01:13:21.523] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[01Jul2024 01:13:21.524] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[01Jul2024 01:13:21.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[01Jul2024 01:13:21.795] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[01Jul2024 01:13:21.797] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[01Jul2024 01:13:21.798] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[01Jul2024 01:13:21.800] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[01Jul2024 01:13:21.826] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01Jul2024 01:13:21.827] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01Jul2024 01:13:21.834] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01Jul2024 01:13:21.836] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01Jul2024 01:13:21.871] [modloading-worker-0/INFO] [digidigi.mtmechs.MagitekMechs/]: Got IMC []
+[01Jul2024 01:13:21.931] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[01Jul2024 01:13:21.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.14 Target: null
+[01Jul2024 01:13:21.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Starting version check at https://infernalstudios.org/api/mods/shieldexpansion/forge
+[01Jul2024 01:13:22.001] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[01Jul2024 01:13:22.028] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[01Jul2024 01:13:22.052] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[01Jul2024 01:13:22.065] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[01Jul2024 01:13:22.070] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[01Jul2024 01:13:22.072] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[01Jul2024 01:13:22.276] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Found status: BETA Current: 1.1.7a Target: null
+[01Jul2024 01:13:22.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Jul2024 01:13:22.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[01Jul2024 01:13:22.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[01Jul2024 01:13:22.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
+[01Jul2024 01:13:22.608] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[01Jul2024 01:13:23.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.15 Target: null
+[01Jul2024 01:13:23.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01Jul2024 01:13:23.148] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.6.6 Target: null
+[01Jul2024 01:13:23.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[01Jul2024 01:13:23.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[01Jul2024 01:13:27.131] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Jul2024 01:13:29.940] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[01Jul2024 01:13:29.941] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[01Jul2024 01:13:30.158] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[01Jul2024 01:13:35.052] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.3.jar), ancient_elements:deflected_wind (from ancient_elements-1.3.3.jar), ancient_elements:moltenspearprojektile (from ancient_elements-1.3.3.jar), ancient_elements:wind (from ancient_elements-1.3.3.jar)] as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.3.jar), 
 	ancient_elements:deflected_wind (from ancient_elements-1.3.3.jar), 
 	ancient_elements:moltenspearprojektile (from ancient_elements-1.3.3.jar), 
 	ancient_elements:wind (from ancient_elements-1.3.3.jar)
-[30Jun2024 20:42:58.138] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [cataclysm:maledictus (from L_Enders_Cataclysm-1.99.5 -1.20.1.jar)] as it is missing following references: cataclysm:maledictus (from L_Enders_Cataclysm-1.99.5 -1.20.1.jar)
-[30Jun2024 20:42:58.903] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
+[01Jul2024 01:13:35.054] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [cataclysm:maledictus (from L_Enders_Cataclysm-1.99.5 -1.20.1.jar)] as it is missing following references: cataclysm:maledictus (from L_Enders_Cataclysm-1.99.5 -1.20.1.jar)
+[01Jul2024 01:13:35.180] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.6.jar
+[01Jul2024 01:13:35.925] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'redeco:soul_terrarium'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -125,8 +125,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[30Jun2024 20:43:00.825] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
-[30Jun2024 20:43:01.054] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust
+[01Jul2024 01:13:37.027] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
+[01Jul2024 01:13:37.286] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -153,7 +153,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2024 20:43:01.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust
+[01Jul2024 01:13:37.334] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -180,7 +180,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2024 20:43:01.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
+[01Jul2024 01:13:37.344] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -216,7 +216,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2024 20:43:01.235] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe miningmaster:forging/paragon_shield
+[01Jul2024 01:13:37.445] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe miningmaster:forging/paragon_shield
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'miningmaster:forging_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -243,7 +243,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'miningm
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2024 20:43:01.260] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate
+[01Jul2024 01:13:37.482] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -270,7 +270,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2024 20:43:01.274] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound
+[01Jul2024 01:13:37.491] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -297,7 +297,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2024 20:43:01.296] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe shieldexp:griefer_shield
+[01Jul2024 01:13:37.513] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe shieldexp:griefer_shield
 com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof_plating'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -333,894 +333,152 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Jun2024 20:43:01.312] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[30Jun2024 20:43:01.313] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
-[30Jun2024 20:43:01.684] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2478 advancements
-[30Jun2024 20:43:01.710] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
-[30Jun2024 20:43:01.736] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[30Jun2024 20:43:01.751] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[30Jun2024 20:43:04.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[30Jun2024 20:43:04.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Jun2024 20:43:04.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Jun2024 20:43:04.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Jun2024 20:43:05.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Jun2024 20:43:05.236] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[30Jun2024 20:43:05.399] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[30Jun2024 20:43:05.399] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[30Jun2024 20:43:05.400] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[30Jun2024 20:43:05.400] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[30Jun2024 20:43:06.248] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[30Jun2024 20:43:06.250] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[30Jun2024 20:43:06.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Jun2024 20:43:08.215] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
-[30Jun2024 20:43:08.216] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
-[30Jun2024 20:43:08.217] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
-[30Jun2024 20:44:18.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Jun2024 20:45:07.263] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.276] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.278] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.281] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.284] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.286] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.289] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.292] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.298] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.300] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.303] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.306] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.309] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.312] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.314] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.323] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.326] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.329] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.331] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.333] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.335] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.336] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.337] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.338] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.339] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.340] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.343] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.344] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.345] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.346] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.348] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.349] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.350] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.352] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.353] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.355] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.356] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.357] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.359] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.360] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.361] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.362] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.363] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.364] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.365] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.367] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.368] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.370] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.372] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.376] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.376] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.379] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.380] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.381] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.383] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.384] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.385] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.387] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.388] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.389] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.390] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.391] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.392] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.394] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.395] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.396] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.397] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.398] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.399] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.400] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.402] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.403] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.404] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.408] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.409] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.410] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.411] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.412] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.419] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.421] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.422] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.423] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.425] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.427] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:07.510] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:08.010] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2024 20:45:08.593] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[30Jun2024 20:45:08.945] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 50936 ms
-[30Jun2024 20:45:08.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (123.526s)! For help, type "help"
-[30Jun2024 20:45:09.218] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[30Jun2024 20:47:48.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:58011] logged in with entity id 578 at (-158.76316789868898, 71.0, -614.6535202451096)
-[30Jun2024 20:47:48.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
-[30Jun2024 20:47:48.940] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
-[30Jun2024 20:47:50.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
-[30Jun2024 20:48:10.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
-[30Jun2024 20:51:04.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ucelzin[/127.72.63.38:35813] logged in with entity id 2901 at (-833.4338118857323, 62.073264324665075, 116.55980092494573)
-[30Jun2024 20:51:04.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin joined the game
-[30Jun2024 20:51:06.608] [Server thread/INFO] [Jade/]: Syncing config to ucelzin (3f085825-736d-3f09-933e-886503371210)
-[30Jun2024 20:51:06.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
-[30Jun2024 20:51:29.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7764ms or 155 ticks behind
-[30Jun2024 20:52:04.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[30Jun2024 20:52:43.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/5679, l='ServerLevel[world]', x=-612.70, y=-18.34, z=75.30] died: cheesepuff tried to swim in lava
-[30Jun2024 20:53:31.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[30Jun2024 20:53:49.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported reik to ucelzin]
-[30Jun2024 20:53:58.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin was slain by Deepling Brute
-[30Jun2024 20:53:58.294] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
-[30Jun2024 20:54:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> uff
-[30Jun2024 20:54:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported ucelzin to reik]
-[30Jun2024 20:55:12.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by Deepling Brute
-[30Jun2024 20:55:12.317] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[30Jun2024 20:55:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 20:55:25.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma user
-[30Jun2024 20:55:34.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 20:55:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> ya voy
-[30Jun2024 20:55:46.051] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[30Jun2024 20:55:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 20:56:05.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> hola
-[30Jun2024 20:56:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> subecrack
-[30Jun2024 20:56:19.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> go
-[30Jun2024 20:56:38.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> vamos por nuestras cosas
-[30Jun2024 20:56:41.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> TIN
-[30Jun2024 20:56:47.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma
-[30Jun2024 20:56:53.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 20:57:15.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [The Most Useful Key]
-[30Jun2024 20:57:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 20:57:31.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has reached the goal [A Fast Comeback]
-[30Jun2024 20:57:31.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> maten
-[30Jun2024 20:58:12.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> sal y vuelve a entrar
-[30Jun2024 20:58:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> checa
-[30Jun2024 20:58:45.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> SAL Y VUELVE A ENTRAR
-[30Jun2024 20:58:47.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> aya
-[30Jun2024 20:59:09.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Sweet Dreams]
-[30Jun2024 20:59:11.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
-[30Jun2024 20:59:23.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> deja ahi
-[30Jun2024 20:59:46.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> hay qe sacar arena
-[30Jun2024 20:59:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> para
-[30Jun2024 20:59:55.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> saca 1000 esponjas
-[30Jun2024 21:00:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:00:06.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no puedo
-[30Jun2024 21:00:20.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya seria demasiado
-[30Jun2024 21:00:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> 3
-[30Jun2024 21:00:33.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> 3 que?
-[30Jun2024 21:00:36.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> esponjas
-[30Jun2024 21:00:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya ya
-[30Jun2024 21:00:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mejor creo una avioneta
-[30Jun2024 21:01:02.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> c puede?
-[30Jun2024 21:01:07.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> agregue ese mod
-[30Jun2024 21:01:10.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no ves el libro
-[30Jun2024 21:01:19.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> donde te sale todos los crafteos
-[30Jun2024 21:01:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> s
-[30Jun2024 21:01:31.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tienes hierro
-[30Jun2024 21:01:39.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> pones en el buscador avion y te sale
-[30Jun2024 21:01:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> en ingles
-[30Jun2024 21:01:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tienes hierro?
-[30Jun2024 21:01:49.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> dame las 3 esponjas
-[30Jun2024 21:01:51.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Suit Up]
-[30Jun2024 21:02:02.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 21:02:20.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin lost connection: Timed out
-[30Jun2024 21:02:20.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin left the game
-[30Jun2024 21:02:20.770] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[30Jun2024 21:02:28.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:03:23.534] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c18f5cf[id=<null>,name=ucelzin,properties={},legacy=false] (/127.163.142.170:56683) lost connection: Disconnected
-[30Jun2024 21:03:55.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ucelzin[/127.163.142.170:48703] logged in with entity id 31516 at (-575.3202235675788, 63.4375, 607.4515640052882)
-[30Jun2024 21:03:55.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin joined the game
-[30Jun2024 21:03:55.249] [Server thread/INFO] [Jade/]: Syncing config to ucelzin (3f085825-736d-3f09-933e-886503371210)
-[30Jun2024 21:04:35.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin lost connection: Disconnected
-[30Jun2024 21:04:35.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin left the game
-[30Jun2024 21:05:35.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 21:06:14.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 21:06:39.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 21:07:56.713] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e49f7b3[id=<null>,name=ucelzin,properties={},legacy=false] (/127.163.142.170:34889) lost connection: Disconnected
-[30Jun2024 21:09:18.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sekiiizcx[/127.93.189.9:53229] logged in with entity id 40951 at (-615.1394930547218, 63.5, 578.5525458425038)
-[30Jun2024 21:09:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx joined the game
-[30Jun2024 21:09:18.693] [Server thread/INFO] [Jade/]: Syncing config to Sekiiizcx (0c6c3754-3892-3070-a180-0c43238d590b)
-[30Jun2024 21:09:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> ucel
-[30Jun2024 21:09:48.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> esta arreglando su internet
-[30Jun2024 21:10:01.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/41493, l='ServerLevel[world]', x=-645.84, y=-31.00, z=647.08] died: ABucketOfFriedChicken was blown up by Creeper
-[30Jun2024 21:11:00.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> donde esas
-[30Jun2024 21:11:06.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> hazme tpo
-[30Jun2024 21:11:18.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Not Today, Thank You]
-[30Jun2024 21:11:29.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported Sekiiizcx to reik]
-[30Jun2024 21:11:32.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> noo espera
-[30Jun2024 21:11:34.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
-[30Jun2024 21:11:37.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:11:59.182] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d4025c3[id=<null>,name=ucelzin,properties={},legacy=false] (/127.163.142.170:35741) lost connection: Disconnected
-[30Jun2024 21:12:14.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> no solo nada
-[30Jun2024 21:12:16.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tenes cobre?
-[30Jun2024 21:12:21.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> aveces suelta algo
-[30Jun2024 21:12:29.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> metete a vc
-[30Jun2024 21:12:31.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ok
-[30Jun2024 21:14:56.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no tengoa rena
-[30Jun2024 21:15:12.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ucelzin[/127.163.142.170:34141] logged in with entity id 51455 at (-575.3202235675788, 63.4375, 607.4515640052882)
-[30Jun2024 21:15:12.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin joined the game
-[30Jun2024 21:15:13.088] [Server thread/INFO] [Jade/]: Syncing config to ucelzin (3f085825-736d-3f09-933e-886503371210)
-[30Jun2024 21:15:27.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin lost connection: Disconnected
-[30Jun2024 21:15:27.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin left the game
-[30Jun2024 21:16:10.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no oe
-[30Jun2024 21:16:49.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> checa
-[30Jun2024 21:16:56.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> voy a crear una avioneta
-[30Jun2024 21:17:11.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoJz3[/127.79.221.79:47325] logged in with entity id 55085 at (266.5, 64.0, -359.5)
-[30Jun2024 21:17:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 joined the game
-[30Jun2024 21:17:11.688] [Server thread/INFO] [Jade/]: Syncing config to NoJz3 (d0a0e26c-a16a-37ee-a300-f8395691dc77)
-[30Jun2024 21:17:11.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has completed the challenge [Choup's Drakvyrn Mod !]
-[30Jun2024 21:17:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> pe
-[30Jun2024 21:17:35.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> pe
-[30Jun2024 21:17:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> deja te tp
-[30Jun2024 21:18:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported NoJz3 to reik]
-[30Jun2024 21:18:01.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> chaval hay ojos rojos que me siguen
-[30Jun2024 21:18:07.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> X
-[30Jun2024 21:18:41.127] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a62c516[id=<null>,name=ucelzin,properties={},legacy=false] (/127.163.142.170:54011) lost connection: Disconnected
-[30Jun2024 21:18:46.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> se parece a pokemon esmeralda
-[30Jun2024 21:19:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> q lindo vro
-[30Jun2024 21:19:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> gracias
-[30Jun2024 21:19:15.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> qqq
-[30Jun2024 21:19:17.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 21:20:06.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> pera deja lo creo
-[30Jun2024 21:20:11.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 21:20:43.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
-[30Jun2024 21:21:02.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was killed trying to hurt Lionfish
-[30Jun2024 21:21:02.450] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
-[30Jun2024 21:21:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:21:09.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> cfff
-[30Jun2024 21:21:17.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has reached the goal [Here They Come]
-[30Jun2024 21:21:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported NoJz3 to reik]
-[30Jun2024 21:21:25.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mira
-[30Jun2024 21:21:33.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> diablo
-[30Jun2024 21:21:41.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> recorde que me falta la gasolina xd
-[30Jun2024 21:21:50.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 21:21:52.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> ese w
-[30Jun2024 21:22:15.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> falta gaso
-[30Jun2024 21:22:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> dame una
-[30Jun2024 21:22:26.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> yo los ayudo pibes
-[30Jun2024 21:22:26.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> esta es la unica que cree
-[30Jun2024 21:22:36.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> deja creo la otra
-[30Jun2024 21:22:38.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> pera
-[30Jun2024 21:22:46.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 21:23:06.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved wrongly!
-[30Jun2024 21:23:11.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 21:23:25.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma
-[30Jun2024 21:23:46.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> es sin combustible
-[30Jun2024 21:23:48.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [A Seedy Place]
-[30Jun2024 21:23:54.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> es epro
-[30Jun2024 21:23:56.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:24:10.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> no vuela
-[30Jun2024 21:24:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> debes hacerlo volar con el spacio
-[30Jun2024 21:24:46.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> pa ti
-[30Jun2024 21:24:51.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> jose
-[30Jun2024 21:24:55.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> QQQ
-[30Jun2024 21:24:58.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> gracia vro
-[30Jun2024 21:25:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
-[30Jun2024 21:25:02.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> como bajo
-[30Jun2024 21:25:09.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 21:25:13.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> bajas sin apretar
-[30Jun2024 21:25:15.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> el spacio
-[30Jun2024 21:25:16.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:25:18.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> va
-[30Jun2024 21:25:32.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ucelzin[/127.182.93.69:44063] logged in with entity id 72056 at (-575.3202235675788, 63.4375, 607.4515640052882)
-[30Jun2024 21:25:32.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin joined the game
-[30Jun2024 21:25:32.790] [Server thread/INFO] [Jade/]: Syncing config to ucelzin (3f085825-736d-3f09-933e-886503371210)
-[30Jun2024 21:25:36.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> ola shikas
-[30Jun2024 21:25:40.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> subete
-[30Jun2024 21:25:41.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> user
-[30Jun2024 21:25:43.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mira
-[30Jun2024 21:25:47.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> ES CON SHIFT
-[30Jun2024 21:25:50.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> Y EL GATO?
-[30Jun2024 21:25:57.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> las mototaxis de futuro ucel
-[30Jun2024 21:26:01.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved wrongly!
-[30Jun2024 21:26:01.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> `PUEDEN IR 2 EN UNA?
-[30Jun2024 21:26:02.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:26:04.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:26:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> eso es el otro tipo
-[30Jun2024 21:26:17.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> vamonos
-[30Jun2024 21:26:20.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> eso es mas dificl de craftear
-[30Jun2024 21:26:21.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:26:22.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> chaval
-[30Jun2024 21:26:25.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> esos pros
-[30Jun2024 21:26:30.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> la eh liado
-[30Jun2024 21:26:33.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> yo condfuzo
-[30Jun2024 21:26:38.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> user
-[30Jun2024 21:26:42.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:26:50.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> user atras
-[30Jun2024 21:27:01.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> con esto si pasamos el muro
-[30Jun2024 21:27:09.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> vamonos al otro mundo
-[30Jun2024 21:27:12.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> a donde vamos vro
-[30Jun2024 21:27:15.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> estos noobs
-[30Jun2024 21:27:17.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[30Jun2024 21:27:19.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> a por cariñosas
-[30Jun2024 21:27:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> :fire
-[30Jun2024 21:27:26.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> sube
-[30Jun2024 21:27:37.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4695ms or 93 ticks behind
-[30Jun2024 21:27:40.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> QQQ
-[30Jun2024 21:27:52.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> sube user
-[30Jun2024 21:27:57.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5152ms or 103 ticks behind
-[30Jun2024 21:28:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> chicos ya vuelvo ,la ropa ya está lista
-[30Jun2024 21:28:11.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> user
-[30Jun2024 21:28:17.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4619ms or 92 ticks behind
-[30Jun2024 21:28:19.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> qe
-[30Jun2024 21:28:19.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> otra
-[30Jun2024 21:28:26.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:28:33.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> sube
-[30Jun2024 21:28:39.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7669ms or 153 ticks behind
-[30Jun2024 21:28:44.402] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
-[30Jun2024 21:28:52.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> sube perrita
-[30Jun2024 21:29:05.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10175ms or 203 ticks behind
-[30Jun2024 21:29:05.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> donde estas
-[30Jun2024 21:29:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> estoy con user
-[30Jun2024 21:29:17.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Best Friends Forever]
-[30Jun2024 21:29:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> vamonos
-[30Jun2024 21:29:25.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> maneja
-[30Jun2024 21:29:28.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8033ms or 160 ticks behind
-[30Jun2024 21:29:29.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> dadle al espacio tambien
-[30Jun2024 21:29:31.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> sube user
-[30Jun2024 21:29:46.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> VAMO
-[30Jun2024 21:29:50.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> a donde
-[30Jun2024 21:29:51.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8154ms or 163 ticks behind
-[30Jun2024 21:29:54.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> noce
-[30Jun2024 21:29:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> MI GATO
-[30Jun2024 21:29:59.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:30:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> jose
-[30Jun2024 21:30:13.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7853ms or 157 ticks behind
-[30Jun2024 21:30:17.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> este burro
-[30Jun2024 21:30:21.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya ya
-[30Jun2024 21:30:24.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin moved wrongly!
-[30Jun2024 21:30:25.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tu gato oe
-[30Jun2024 21:30:31.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> nos vamos a otro lado?
-[30Jun2024 21:30:38.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved wrongly!
-[30Jun2024 21:30:42.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:30:42.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> y tu gato
-[30Jun2024 21:30:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 21:31:05.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:31:07.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:31:09.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:31:23.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> donde vamos a estar?
-[30Jun2024 21:31:27.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 21:31:28.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> jose
-[30Jun2024 21:31:30.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no se
-[30Jun2024 21:31:59.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:31:59.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[30Jun2024 21:32:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> apura
-[30Jun2024 21:32:18.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya perrita
-[30Jun2024 21:32:22.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8088ms or 161 ticks behind
-[30Jun2024 21:32:42.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> QECHUCHA
-[30Jun2024 21:32:44.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6528ms or 130 ticks behind
-[30Jun2024 21:32:47.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:32:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> a esperar que cargue los chunks
-[30Jun2024 21:33:05.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6214ms or 124 ticks behind
-[30Jun2024 21:33:19.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> cargan rapido
-[30Jun2024 21:33:23.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
-[30Jun2024 21:33:41.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
-[30Jun2024 21:33:48.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> uff
-[30Jun2024 21:33:53.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved wrongly!
-[30Jun2024 21:33:56.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin moved wrongly!
-[30Jun2024 21:34:00.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> a lutear
-[30Jun2024 21:34:00.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
-[30Jun2024 21:34:02.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['bartsek009 '/94637, l='ServerLevel[world]', x=-514.59, y=-32.00, z=1219.48] died: bartsek009  was slain by Enderman
-[30Jun2024 21:34:23.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7615ms or 152 ticks behind
-[30Jun2024 21:34:27.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> comida
-[30Jun2024 21:34:37.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/94786, l='ServerLevel[world]', x=-511.21, y=-31.00, z=1220.35] died: The_Harbinger69 was slain by Aurora Crystal Slime
-[30Jun2024 21:34:37.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ademas
-[30Jun2024 21:34:44.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6734ms or 134 ticks behind
-[30Jun2024 21:34:45.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> que farmeador de exp
-[30Jun2024 21:34:56.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Ashes 'n Bones]
-[30Jun2024 21:35:00.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> joseee
-[30Jun2024 21:35:05.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> qe exploto
-[30Jun2024 21:35:08.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no se
-[30Jun2024 21:35:08.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9000ms or 180 ticks behind
-[30Jun2024 21:35:17.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> y los demas?
-[30Jun2024 21:35:25.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se fueron en el otro avion
-[30Jun2024 21:35:25.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:35:28.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> jose se quedo tieso
-[30Jun2024 21:35:30.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> cree como 3
-[30Jun2024 21:35:30.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> en el avion
-[30Jun2024 21:35:31.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7874ms or 157 ticks behind
-[30Jun2024 21:35:34.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> jajaja
-[30Jun2024 21:35:37.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> es que debe cmer
-[30Jun2024 21:35:40.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:35:42.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ese avion quita comida
-[30Jun2024 21:35:52.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:35:56.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9288ms or 185 ticks behind
-[30Jun2024 21:36:03.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved wrongly!
-[30Jun2024 21:36:06.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> vamos con los demas kausa
-[30Jun2024 21:36:38.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mira
-[30Jun2024 21:36:48.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported NoJz3 to reik]
-[30Jun2024 21:36:54.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[30Jun2024 21:36:55.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> qe riko aprietas jose
-[30Jun2024 21:37:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported Sekiiizcx to reik]
-[30Jun2024 21:37:07.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> que
-[30Jun2024 21:37:07.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
-[30Jun2024 21:37:13.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> dame arena
-[30Jun2024 21:37:15.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:37:20.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> pinga te doy
-[30Jun2024 21:37:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> alla hay
-[30Jun2024 21:37:23.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mira
-[30Jun2024 21:37:25.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> alla
-[30Jun2024 21:37:44.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> alla al frente hat
-[30Jun2024 21:37:46.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Monster Hunter]
-[30Jun2024 21:37:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> jose descuido gogogo
-[30Jun2024 21:39:12.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[30Jun2024 21:39:18.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mira
-[30Jun2024 21:39:31.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3616ms or 72 ticks behind
-[30Jun2024 21:39:41.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> la casa es esta
-[30Jun2024 21:39:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx was eaten alive by Infected Human
-[30Jun2024 21:39:41.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Your First Grave]
-[30Jun2024 21:39:41.809] [Server thread/INFO] [tombstone/]: The player Sekiiizcx has successfully been saved
-[30Jun2024 21:39:46.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> hazme tp
-[30Jun2024 21:39:47.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=68, z=-353}
-[30Jun2024 21:39:47.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=265, y=68, z=-352}
-[30Jun2024 21:40:05.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tp
-[30Jun2024 21:40:06.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was eaten alive by Sekiiizcx
-[30Jun2024 21:40:06.596] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[30Jun2024 21:40:06.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/104138, l='ServerLevel[world]', x=-588.27, y=-10.23, z=1179.63] died: Pajera was slain by Selenite Crystal Slime
-[30Jun2024 21:40:11.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> me papearon
-[30Jun2024 21:40:12.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[30Jun2024 21:40:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tp a ucel
-[30Jun2024 21:40:32.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported ucelzin to reik]
-[30Jun2024 21:40:35.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> Q HACES
-[30Jun2024 21:40:36.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> me huevie
-[30Jun2024 21:40:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> ESTUPIDOO
-[30Jun2024 21:40:39.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> hazme tppppppppp
-[30Jun2024 21:40:39.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> era al revez
-[30Jun2024 21:40:40.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> TEPEAME CON JOSE
-[30Jun2024 21:40:51.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported reik to NoJz3]
-[30Jun2024 21:41:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tpppp
-[30Jun2024 21:41:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> TPPP+
-[30Jun2024 21:41:08.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya ya
-[30Jun2024 21:41:11.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> #AA
-[30Jun2024 21:41:12.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> tepea
-[30Jun2024 21:41:13.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> ATOPDS
-[30Jun2024 21:41:17.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has reached the goal [Here They Come]
-[30Jun2024 21:41:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> ./tp @a JOSE
-[30Jun2024 21:41:27.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[30Jun2024 21:41:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> que raro
-[30Jun2024 21:41:45.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
-[30Jun2024 21:41:53.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> APURA
-[30Jun2024 21:41:53.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported 4 entities to reik]
-[30Jun2024 21:42:02.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:42:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> jose sirvio pal farm
-[30Jun2024 21:42:15.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se
-[30Jun2024 21:42:25.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Ashes 'n Bones]
-[30Jun2024 21:42:25.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [A Strange Grave Dust]
-[30Jun2024 21:42:53.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> jose heroe
-[30Jun2024 21:43:02.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[30Jun2024 21:43:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> vamonos?
-[30Jun2024 21:43:36.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> aca vase
-[30Jun2024 21:43:48.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[30Jun2024 21:43:56.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> base
-[30Jun2024 21:43:57.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tuff
-[30Jun2024 21:44:00.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> esa base
-[30Jun2024 21:44:07.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3530ms or 70 ticks behind
-[30Jun2024 21:44:12.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> fea isla
-[30Jun2024 21:44:17.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:44:26.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> No me hagas tp aun
-[30Jun2024 21:44:28.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ese casco
-[30Jun2024 21:44:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tienes lana?
-[30Jun2024 21:44:40.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> quieren cada uno una habilidad?
-[30Jun2024 21:44:44.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya la tire
-[30Jun2024 21:44:45.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> lana rhoades
-[30Jun2024 21:44:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:45:00.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma
-[30Jun2024 21:45:01.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma
-[30Jun2024 21:45:03.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> 3
-[30Jun2024 21:45:08.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 21:45:10.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> pera
-[30Jun2024 21:45:26.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> lana
-[30Jun2024 21:45:39.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> eso no es laa
-[30Jun2024 21:45:49.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> me llega a la
-[30Jun2024 21:45:57.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> estA?
-[30Jun2024 21:46:11.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> para hacer cama
-[30Jun2024 21:46:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> lana
-[30Jun2024 21:46:13.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> tamare kausa
-[30Jun2024 21:46:17.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
-[30Jun2024 21:46:36.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya no mas
-[30Jun2024 21:46:48.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> eZZZ
-[30Jun2024 21:46:58.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> PUTA
-[30Jun2024 21:47:27.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
-[30Jun2024 21:47:30.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> esta en creativo
-[30Jun2024 21:47:35.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> EZZZZZZZ
-[30Jun2024 21:47:35.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> causon
-[30Jun2024 21:47:37.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tengo
-[30Jun2024 21:47:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tengo inmunidad
-[30Jun2024 21:47:49.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> a los golpes
-[30Jun2024 21:47:53.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> PUTA
-[30Jun2024 21:47:54.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no ves que tengo una bufanda
-[30Jun2024 21:48:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 21:48:03.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> onde la conseguiste
-[30Jun2024 21:48:04.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Amateur Archaeologist]
-[30Jun2024 21:48:08.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
-[30Jun2024 21:48:10.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> me puedes pegar
-[30Jun2024 21:48:17.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx lost connection: Disconnected
-[30Jun2024 21:48:17.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx left the game
-[30Jun2024 21:48:19.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/116055, l='ServerLevel[world]', x=-516.54, y=-32.90, z=1236.41] died: Keymind was slain by Aurora Crystal Slime
-[30Jun2024 21:48:25.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> EZZZZZZZ
-[30Jun2024 21:48:38.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> EZZZZZZ
-[30Jun2024 21:48:49.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> :
-[30Jun2024 21:48:52.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tengo que conseguir su gasolina
-[30Jun2024 21:48:55.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/116764, l='ServerLevel[world]', x=-525.44, y=-54.29, z=1230.85] died: Entity tried to swim in lava
-[30Jun2024 21:48:55.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> este yo lo cree
-[30Jun2024 21:49:18.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/116765, l='ServerLevel[world]', x=-520.30, y=-54.22, z=1231.99] died: Gistique tried to swim in lava to escape Zombie
-[30Jun2024 21:49:32.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> QE
-[30Jun2024 21:49:33.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved wrongly!
-[30Jun2024 21:49:36.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> dime
-[30Jun2024 21:50:01.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toca crear mi mecha ahora
-[30Jun2024 21:50:24.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/117731, l='ServerLevel[world]', x=-634.42, y=-33.75, z=1256.52] died: Pajera was slain by Ghoul
-[30Jun2024 21:50:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma mi leche user
-[30Jun2024 21:50:38.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> nopuerka
-[30Jun2024 21:50:40.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:50:47.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma mira
-[30Jun2024 21:51:02.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> yatengo
-[30Jun2024 21:51:05.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 21:51:16.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> c me desaparecio una esponja
-[30Jun2024 21:51:22.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ese pro
-[30Jun2024 21:52:05.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> necesito lapiz lazuli y hierro pa crear mi mecha y papearte
-[30Jun2024 21:52:12.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> sexo
-[30Jun2024 21:52:39.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Fishy Business]
-[30Jun2024 21:55:10.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was fungi-fied by Infected Human
-[30Jun2024 21:55:10.223] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[30Jun2024 21:55:18.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Chain Death]
-[30Jun2024 21:55:18.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik forgot Infected Human was a bioweapon
-[30Jun2024 21:55:18.726] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[30Jun2024 21:55:44.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> user helping
-[30Jun2024 21:55:52.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[30Jun2024 21:55:58.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sekiiizcx[/127.93.189.9:51621] logged in with entity id 122895 at (-607.6999999880791, 82.0, 1223.1303078331853)
-[30Jun2024 21:55:58.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx joined the game
-[30Jun2024 21:55:58.759] [Server thread/INFO] [Jade/]: Syncing config to Sekiiizcx (0c6c3754-3892-3070-a180-0c43238d590b)
-[30Jun2024 21:56:04.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/122348, l='ServerLevel[world]', x=-609.31, y=64.57, z=1223.30] died: reik was slain by reik
-[30Jun2024 21:56:22.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/122151, l='ServerLevel[world]', x=-608.55, y=64.00, z=1222.60] died: reik was slain by reik
-[30Jun2024 21:56:28.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[30Jun2024 21:57:04.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Sweet Dreams]
-[30Jun2024 21:57:08.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> a
-[30Jun2024 21:58:35.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> user ven
-[30Jun2024 21:59:13.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/126202, l='ServerLevel[world]', x=-606.34, y=64.00, z=1238.52] died: Deyvid was shot by Skeleton
-[30Jun2024 21:59:31.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> esa cosa
-[30Jun2024 21:59:36.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se puede hacer una armadura
-[30Jun2024 22:01:52.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was fungi-fied by Infected Pillager
-[30Jun2024 22:01:52.236] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[30Jun2024 22:02:00.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> me papearon por la espalda
-[30Jun2024 22:02:09.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Spore]
-[30Jun2024 22:02:29.020] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/129463, l='ServerLevel[world]', x=-622.59, y=65.18, z=1242.61] died: reik was slain by reik
-[30Jun2024 22:02:58.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tienes 4 de tinta de calamar?
-[30Jun2024 22:03:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> no´p
-[30Jun2024 22:03:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> X
-[30Jun2024 22:03:37.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[30Jun2024 22:03:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin was eaten alive by Infected Villager
-[30Jun2024 22:03:55.911] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
-[30Jun2024 22:03:57.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> ese aldeano .exe
-[30Jun2024 22:03:59.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 22:03:59.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> JOSEMIERDA
-[30Jun2024 22:04:01.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
-[30Jun2024 22:04:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> y mi cama?
-[30Jun2024 22:04:04.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was fungi-fied by Infected Villager
-[30Jun2024 22:04:04.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Your First Grave]
-[30Jun2024 22:04:04.660] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
-[30Jun2024 22:04:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> TEPEA REIK
-[30Jun2024 22:04:14.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> NO C GUARDO MI SPAWN
-[30Jun2024 22:04:17.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> tenía un corazón de vida
-[30Jun2024 22:04:21.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> X
-[30Jun2024 22:04:22.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[30Jun2024 22:04:22.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported 4 entities to reik]
-[30Jun2024 22:04:28.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 22:04:34.668] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ucelzin'/132201, l='ServerLevel[world]', x=-601.18, y=63.42, z=1210.70] died: ucelzin was slain by reik
-[30Jun2024 22:04:36.215] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/133049, l='ServerLevel[world]', x=-564.20, y=-20.00, z=1252.49] died: ABucketOfFriedChicken was slain by Aurora Crystal Slime
-[30Jun2024 22:05:03.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[30Jun2024 22:05:03.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 22:05:21.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Kraken'/133667, l='ServerLevel[world]', x=-562.37, y=-7.00, z=1226.27] died: Kraken was slain by Scarlet Crystal Slime
-[30Jun2024 22:05:23.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4628ms or 92 ticks behind
-[30Jun2024 22:05:31.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/133801, l='ServerLevel[world]', x=-567.45, y=-8.58, z=1230.04] died: Whisper was slain by Selenite Crystal Slime
-[30Jun2024 22:05:43.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[30Jun2024 22:06:00.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
-[30Jun2024 22:06:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 22:06:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> nop
-[30Jun2024 22:06:18.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> 1 de lana blanca?
-[30Jun2024 22:06:20.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tenia
-[30Jun2024 22:06:21.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 22:06:22.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[30Jun2024 22:06:42.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma
-[30Jun2024 22:06:49.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> qw
-[30Jun2024 22:06:52.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Acquire Hardware]
-[30Jun2024 22:06:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> diablo
-[30Jun2024 22:07:01.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 22:07:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> graciavro
-[30Jun2024 22:07:14.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> esew
-[30Jun2024 22:07:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ya
-[30Jun2024 22:07:35.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> dame 2 diamantes papu
-[30Jun2024 22:07:39.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> si tengo
-[30Jun2024 22:07:53.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Suit Up]
-[30Jun2024 22:07:57.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma
-[30Jun2024 22:08:22.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Isn't It Iron Pick]
-[30Jun2024 22:08:43.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> kausa el barrio esta infectao
-[30Jun2024 22:08:45.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Spore]
-[30Jun2024 22:09:08.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 22:09:16.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Demonid'/137030, l='ServerLevel[world]', x=-532.86, y=-54.78, z=1233.45] died: Demonid tried to swim in lava
-[30Jun2024 22:09:58.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> famer u
-[30Jun2024 22:10:00.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> dame un arco
-[30Jun2024 22:10:03.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> lo tire
-[30Jun2024 22:10:20.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma
-[30Jun2024 22:10:27.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> denme flechas
-[30Jun2024 22:10:38.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/137542, l='ServerLevel[world]', x=-568.06, y=-18.46, z=1252.65] died: Belladonna was slain by Undead Miner
-[30Jun2024 22:10:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> toma
-[30Jun2024 22:11:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Isn't It Iron Pick]
-[30Jun2024 22:11:59.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> cuando nerfearon los escudos
-[30Jun2024 22:12:34.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
-[30Jun2024 22:12:34.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
-[30Jun2024 22:12:42.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/141422, l='ServerLevel[world]', x=-558.84, y=-21.00, z=1258.62] died: hacie was slain by Aurora Crystal Slime
-[30Jun2024 22:12:45.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:47929] logged in with entity id 142109 at (-594.9267038674714, 64.0, 1204.5150096823886)
-[30Jun2024 22:12:45.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
-[30Jun2024 22:12:45.513] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
-[30Jun2024 22:12:59.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [A Strange Grave Dust]
-[30Jun2024 22:13:03.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/141727, l='ServerLevel[world]', x=-559.47, y=-19.50, z=1249.30] died: xXFuryXx was slain by Aurora Crystal Slime
-[30Jun2024 22:13:10.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NoJz3) moved wrongly! 0.7597361393272877
-[30Jun2024 22:13:10.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NoJz3) moved wrongly! 0.7597361393272877
-[30Jun2024 22:13:10.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NoJz3) moved wrongly! 0.410922119866882
-[30Jun2024 22:13:30.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Monster Hunter]
-[30Jun2024 22:13:33.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/142609, l='ServerLevel[world]', x=-715.86, y=24.00, z=1144.15] died: ABucketOfFriedChicken was slain by Zombie
-[30Jun2024 22:14:04.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 22:14:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> duerman karajo
-[30Jun2024 22:15:05.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx has made the advancement [Ashes 'n Bones]
-[30Jun2024 22:15:43.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Take Aim]
-[30Jun2024 22:15:59.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was eaten alive by Infected Human
-[30Jun2024 22:15:59.888] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
-[30Jun2024 22:16:02.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[30Jun2024 22:16:02.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[30Jun2024 22:16:05.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> que
-[30Jun2024 22:16:06.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> qe manko
-[30Jun2024 22:16:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> d
-[30Jun2024 22:16:53.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> tpsito polfa
-[30Jun2024 22:17:25.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> creeper infectado
-[30Jun2024 22:17:39.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has made the advancement [Stay dead]
-[30Jun2024 22:17:40.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 22:17:43.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> fue mi henne
-[30Jun2024 22:17:57.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> e
-[30Jun2024 22:18:25.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/146665, l='ServerLevel[world]', x=-496.36, y=-39.00, z=1205.78] died: Ike was slain by Verdant Viridium Crystal Slime
-[30Jun2024 22:18:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> yser
-[30Jun2024 22:18:38.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[30Jun2024 22:18:44.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NoJz3'/145139, l='ServerLevel[world]', x=-554.30, y=63.14, z=1209.82] died: NoJz3 was slain by reik
-[30Jun2024 22:19:00.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported NoJz3 to reik]
-[30Jun2024 22:19:10.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> recoje tus cosas
-[30Jun2024 22:19:15.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> sisi
-[30Jun2024 22:20:25.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was slain by Infected Drowned
-[30Jun2024 22:20:25.830] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
-[30Jun2024 22:20:29.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> AAA
-[30Jun2024 22:20:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> son demasiados
-[30Jun2024 22:20:30.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/151458, l='ServerLevel[world]', x=-561.68, y=-20.25, z=1252.30] died: Ike was slain by Selenite Crystal Slime
-[30Jun2024 22:20:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik forgot Infected Drowned was a bioweapon
-[30Jun2024 22:20:34.484] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[30Jun2024 22:20:38.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> simios imbeciles
-[30Jun2024 22:20:39.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> si
-[30Jun2024 22:20:43.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> D
-[30Jun2024 22:20:47.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported 4 entities to reik]
-[30Jun2024 22:20:48.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> osea lo de reik
-[30Jun2024 22:20:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> ucel is a pendejo
-[30Jun2024 22:21:03.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/151974, l='ServerLevel[world]', x=-576.56, y=62.61, z=1208.50] died: reik was slain by ucelzin
-[30Jun2024 22:21:10.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> son demasiados
-[30Jun2024 22:21:12.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin was eaten alive by Infected Human
-[30Jun2024 22:21:12.766] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
-[30Jun2024 22:21:15.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> txd
-[30Jun2024 22:21:15.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> XDDDDDDD
-[30Jun2024 22:21:16.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> jaujajaa
-[30Jun2024 22:21:22.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin was kicked for floating too long!
-[30Jun2024 22:21:22.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin lost connection: Flying is not enabled on this server
-[30Jun2024 22:21:22.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin left the game
-[30Jun2024 22:21:41.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ucelzin[/127.182.93.69:50815] logged in with entity id 153352 at (-585.4714925316192, 72.15937779380275, 1206.515951272397)
-[30Jun2024 22:21:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin joined the game
-[30Jun2024 22:21:42.033] [Server thread/INFO] [Jade/]: Syncing config to ucelzin (3f085825-736d-3f09-933e-886503371210)
-[30Jun2024 22:21:42.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[30Jun2024 22:21:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was eaten alive by Nova69
-[30Jun2024 22:21:59.143] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
-[30Jun2024 22:21:59.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported ucelzin to reik]
-[30Jun2024 22:22:00.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
-[30Jun2024 22:22:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> QE HACES
-[30Jun2024 22:22:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> mierda los maté pero spawnearon mas
-[30Jun2024 22:22:19.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> quien ABRIO MI SPAWN
-[30Jun2024 22:22:19.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> enderperlll
-[30Jun2024 22:22:23.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hypnotizd'/154071, l='ServerLevel[world]', x=309.42, y=28.70, z=-338.12] died: Hypnotizd was slain by Bulldrogioth
-[30Jun2024 22:22:26.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[30Jun2024 22:22:44.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> parece una invacion zombie
-[30Jun2024 22:22:51.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[30Jun2024 22:23:09.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2899ms or 57 ticks behind
-[30Jun2024 22:23:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin was eaten alive by Infected Human
-[30Jun2024 22:23:13.355] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
-[30Jun2024 22:23:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> PUEDEN NADAR
-[30Jun2024 22:23:19.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> q
-[30Jun2024 22:23:34.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9780ms or 195 ticks behind
-[30Jun2024 22:23:45.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ucelzin'/155923, l='ServerLevel[world]', x=-548.92, y=63.00, z=1207.16] died: ucelzin was slain by Zombie
-[30Jun2024 22:23:46.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> sale tpsito
-[30Jun2024 22:23:49.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported ucelzin to reik]
-[30Jun2024 22:23:53.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 6.74875197447426,3.9298753557311414,-6.680740556501831
-[30Jun2024 22:24:04.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14836ms or 296 ticks behind
-[30Jun2024 22:24:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> prometo no morir :3
-[30Jun2024 22:24:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported NoJz3 to reik]
-[30Jun2024 22:24:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin has reached the goal [Chain Death]
-[30Jun2024 22:24:13.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin forgot Infected Wandering Trader was a bioweapon
-[30Jun2024 22:24:13.398] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
-[30Jun2024 22:24:16.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 22:24:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> OPK
-[30Jun2024 22:24:19.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/156302, l='ServerLevel[world]', x=-676.53, y=11.00, z=1207.97] died: Deyvid was slain by Zombie
-[30Jun2024 22:24:27.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Teleported ucelzin to reik]
-[30Jun2024 22:24:46.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
-[30Jun2024 22:24:50.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was eaten alive by ucelzin
-[30Jun2024 22:24:50.476] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[30Jun2024 22:24:55.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 22:25:01.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NoJz3'/151522, l='ServerLevel[world]', x=-479.47, y=62.52, z=1199.35] died: NoJz3 was slain by NoJz3
-[30Jun2024 22:25:27.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ucelzin'/157441, l='ServerLevel[world]', x=-567.86, y=62.54, z=1205.45] died: ucelzin was slain by reik
-[30Jun2024 22:25:43.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/158183, l='ServerLevel[world]', x=-551.51, y=63.10, z=1211.48] died: reik was slain by ucelzin
-[30Jun2024 22:25:44.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was shot by Spitter
-[30Jun2024 22:25:44.742] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[30Jun2024 22:25:52.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/159239, l='ServerLevel[world]', x=-658.88, y=-17.00, z=1191.85] died: Mademoiselle2016 was slain by Selenite Crystal Slime
-[30Jun2024 22:26:10.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was fungi-fied by reik
-[30Jun2024 22:26:11.019] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[30Jun2024 22:26:15.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> tque huevada
-[30Jun2024 22:26:19.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin was shot by Spitter
-[30Jun2024 22:26:19.760] [Server thread/INFO] [tombstone/]: The player ucelzin has successfully been saved
-[30Jun2024 22:26:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> OPK
-[30Jun2024 22:26:25.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 22:26:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Stone Age]
-[30Jun2024 22:27:04.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/159183, l='ServerLevel[world]', x=-556.43, y=62.76, z=1206.20] died: reik has been incinerated.
-[30Jun2024 22:27:08.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ucelzin'/160343, l='ServerLevel[world]', x=-561.29, y=62.47, z=1208.97] died: ucelzin has been incinerated.
-[30Jun2024 22:27:11.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
-[30Jun2024 22:27:18.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 10.214216189290028,-0.7967356006687112,0.3281167371881111
-[30Jun2024 22:27:18.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> qe
-[30Jun2024 22:27:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> mi furia
-[30Jun2024 22:27:30.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3563ms or 71 ticks behind
-[30Jun2024 22:27:34.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 8.533441116716517,0.8322033533667508,5.604010385568017
-[30Jun2024 22:27:40.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> listo
-[30Jun2024 22:27:45.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 10.243625374415274,-0.7531999805212024,-0.6288029600734717
-[30Jun2024 22:27:45.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tienes cuero?
-[30Jun2024 22:27:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> van a aparecer mas
-[30Jun2024 22:27:53.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se
-[30Jun2024 22:28:05.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> :
-[30Jun2024 22:28:06.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> v
-[30Jun2024 22:28:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> y eso
-[30Jun2024 22:28:12.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> yo cuando estoy en la secu
-[30Jun2024 22:28:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> eso es todo
-[30Jun2024 22:28:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> y eso
-[30Jun2024 22:28:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tienes cuero
-[30Jun2024 22:28:58.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> es un esto op
-[30Jun2024 22:28:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se
-[30Jun2024 22:29:10.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
-[30Jun2024 22:29:13.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> tienes el crafteo
-[30Jun2024 22:29:18.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> mandamelo por dc si lo tienes
-[30Jun2024 22:29:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> ok
-[30Jun2024 22:29:38.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> es un jefe te lo da
-[30Jun2024 22:29:43.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> debes buscarlo
-[30Jun2024 22:29:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 22:30:16.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved too quickly! -9.730962858122894,-2.2247629905309907,1.1923216530392438
-[30Jun2024 22:30:16.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[30Jun2024 22:30:25.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> aaa escape tactico
-[30Jun2024 22:30:28.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 lost connection: Disconnected
-[30Jun2024 22:30:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 left the game
-[30Jun2024 22:30:35.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
-[30Jun2024 22:30:45.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> empiza a dar lag o algo
-[30Jun2024 22:30:48.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoJz3[/127.79.221.79:54923] logged in with entity id 165749 at (-603.6518609895487, 64.0, 1236.7535491139977)
-[30Jun2024 22:30:48.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 joined the game
-[30Jun2024 22:30:48.870] [Server thread/INFO] [Jade/]: Syncing config to NoJz3 (d0a0e26c-a16a-37ee-a300-f8395691dc77)
-[30Jun2024 22:30:49.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/165658, l='ServerLevel[world]', x=-535.30, y=-24.75, z=1263.30] died: WhisperFire26 was slain by Selenite Crystal Slime
-[30Jun2024 22:30:53.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se
-[30Jun2024 22:30:58.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> q
-[30Jun2024 22:31:01.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11418ms or 228 ticks behind
-[30Jun2024 22:31:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> se volvio un spawn de lag por los zombies
-[30Jun2024 22:31:17.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[30Jun2024 22:31:33.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved too quickly! -0.4071792951193629,-11.229766626350767,0.5337057108015415
-[30Jun2024 22:31:40.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved too quickly! -8.516967303310821,1.252203340253729,5.572443933345539
-[30Jun2024 22:31:41.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24748ms or 494 ticks behind
-[30Jun2024 22:31:43.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx moved too quickly! -3.1519315375155657,0.15055418823601485,-9.60753549582978
-[30Jun2024 22:31:56.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> debo eliminar este humo porque esta causando lag
-[30Jun2024 22:32:04.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> mi pinga
-[30Jun2024 22:32:07.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> ya vamos por el dragon
-[30Jun2024 22:32:14.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 lost connection: Disconnected
-[30Jun2024 22:32:14.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 left the game
-[30Jun2024 22:32:19.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoJz3[/127.79.221.79:45815] logged in with entity id 166272 at (-590.0826048674746, 63.0, 1234.4813158435504)
-[30Jun2024 22:32:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 joined the game
-[30Jun2024 22:32:20.101] [Server thread/INFO] [Jade/]: Syncing config to NoJz3 (d0a0e26c-a16a-37ee-a300-f8395691dc77)
-[30Jun2024 22:32:20.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24536ms or 490 ticks behind
-[30Jun2024 22:32:50.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> QE
-[30Jun2024 22:32:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> AYUDA
-[30Jun2024 22:33:00.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> cogistes cristal?
-[30Jun2024 22:33:00.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24911ms or 498 ticks behind
-[30Jun2024 22:33:05.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! 9.457296854750894,-2.4638603916895505,-2.7160512712489435
-[30Jun2024 22:33:08.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> me cogi a tu mama
-[30Jun2024 22:33:09.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> y no
-[30Jun2024 22:33:11.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! 5.603847355500534,0.0,8.520639016743644
-[30Jun2024 22:33:14.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -8.869690793109612,0.0,4.651395766628866
-[30Jun2024 22:33:17.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -10.013298902371162,0.0,-2.724367189161512
-[30Jun2024 22:33:25.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> X
-[30Jun2024 22:33:31.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> va a explotar la casa
-[30Jun2024 22:33:41.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> chiste
-[30Jun2024 22:33:41.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26237ms or 524 ticks behind
-[30Jun2024 22:34:06.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> XD
-[30Jun2024 22:34:14.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! 1.5343483690908215,-0.3315712723541395,9.89956105283045
-[30Jun2024 22:34:17.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! 7.022574359555165,1.0678464424324048,-7.22771993485685
-[30Jun2024 22:34:17.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 was eaten alive by Infected Villager
-[30Jun2024 22:34:17.611] [Server thread/INFO] [tombstone/]: The player NoJz3 has successfully been saved
-[30Jun2024 22:34:22.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> X
-[30Jun2024 22:34:29.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33284ms or 665 ticks behind
-[30Jun2024 22:34:32.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 9.3696223625725,-1.149655463842123,3.5591489130285936
-[30Jun2024 22:34:35.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -1.1830396185600875,1.4950660194469805,-10.168338695532839
-[30Jun2024 22:34:35.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 9.37886011662556,2.361423137273114,3.4365196763867516
-[30Jun2024 22:34:37.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> listo
-[30Jun2024 22:34:41.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! 3.4985844437894684,0.0,-9.654529085021295
-[30Jun2024 22:34:53.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin moved too quickly! -0.01726178461433392,-10.703352588506931,1.8725347591771424
-[30Jun2024 22:34:58.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin moved too quickly! -9.02089154418718,1.127890238205481,4.438938718563577
-[30Jun2024 22:35:03.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! 0.7148069649023228,5.7748792676656535,8.212645825696427
-[30Jun2024 22:35:08.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -5.641893701027925,-8.37404208100915,-1.128854786079728
-[30Jun2024 22:35:13.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -10.136016885215213,1.1175929378491531,-0.25110495145963796
-[30Jun2024 22:35:16.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -9.47102333407895,3.744365721273084,2.1383394242343456
-[30Jun2024 22:35:16.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! -2.744502459705245,0.16779664663324922,10.128735918613074
-[30Jun2024 22:35:18.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -9.629000054541052,2.0945958582855866,3.1519253438061696
-[30Jun2024 22:35:18.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33937ms or 678 ticks behind
-[30Jun2024 22:35:21.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! 0.1354035258973454,-10.461806966566357,0.282551877151036
-[30Jun2024 22:35:21.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! -7.710360954492671,-1.252203340253729,6.408931667917159
-[30Jun2024 22:35:30.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> aparta ucel,yo derrotaré a la bestia
-[30Jun2024 22:35:53.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 has made the advancement [Take Aim]
-[30Jun2024 22:36:01.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27340ms or 546 ticks behind
-[30Jun2024 22:36:01.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> enderperlll
-[30Jun2024 22:36:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> que mrd
-[30Jun2024 22:36:28.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -2.4272262161109666,-1.5910585594942077,9.590758184714332
-[30Jun2024 22:36:28.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! -7.132936349252645,0.0,-7.313453533045049
-[30Jun2024 22:36:33.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! -9.305928506464056,-0.49520087700592086,3.700297068874306
-[30Jun2024 22:36:39.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 8.283135450989448,1.1212968405392019,-5.802982457336384
-[30Jun2024 22:36:44.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> QE,MIERDA
-[30Jun2024 22:36:44.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> que
-[30Jun2024 22:36:46.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sekiiizcx> que
-[30Jun2024 22:36:49.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33314ms or 666 ticks behind
-[30Jun2024 22:37:02.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ucelzin> MUCHO LAG
-[30Jun2024 22:37:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 22:37:04.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> xd
-[30Jun2024 22:37:04.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NoJz3> x
-[30Jun2024 22:37:09.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 moved too quickly! 4.8286568125435,0.39974126698069057,8.861454472543528
-[30Jun2024 22:37:17.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin moved too quickly! -1.06104552414115,9.9190473211479,-1.5707064942064335
-[30Jun2024 22:37:20.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <reik> salganse voy a reinicar todo
-[30Jun2024 22:37:27.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoJz3 lost connection: Disconnected
-[30Jun2024 22:37:27.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoJz3 left the game
-[30Jun2024 22:37:30.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[30Jun2024 22:37:32.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ucelzin lost connection: Disconnected
-[30Jun2024 22:37:32.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ucelzin left the game
-[30Jun2024 22:37:32.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
-[30Jun2024 22:37:32.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
-[30Jun2024 22:37:35.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30641ms or 612 ticks behind
-[30Jun2024 22:37:59.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sekiiizcx lost connection: Disconnected
-[30Jun2024 22:37:59.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sekiiizcx left the game
-[30Jun2024 22:38:02.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12471ms or 249 ticks behind
-[30Jun2024 22:38:29.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[30Jun2024 22:38:29.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30Jun2024 22:38:29.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30Jun2024 22:38:29.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30Jun2024 22:38:30.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30Jun2024 22:38:32.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30Jun2024 22:38:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30Jun2024 22:38:32.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[30Jun2024 22:38:32.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Jun2024 22:38:32.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Jun2024 22:38:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Jun2024 22:38:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[30Jun2024 22:38:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jul2024 01:13:37.522] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[01Jul2024 01:13:37.522] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
+[01Jul2024 01:13:37.845] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2478 advancements
+[01Jul2024 01:13:37.874] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[01Jul2024 01:13:37.911] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[01Jul2024 01:13:37.924] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[01Jul2024 01:13:41.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01Jul2024 01:13:41.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Jul2024 01:13:41.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Jul2024 01:13:41.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Jul2024 01:13:41.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Jul2024 01:13:41.416] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Jul2024 01:13:41.555] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Jul2024 01:13:41.555] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Jul2024 01:13:41.555] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Jul2024 01:13:41.556] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Jul2024 01:13:41.943] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01Jul2024 01:13:43.004] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01Jul2024 01:13:43.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Jul2024 01:13:45.466] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
+[01Jul2024 01:13:45.467] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
+[01Jul2024 01:13:45.469] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
+[01Jul2024 01:14:56.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Jul2024 01:15:48.881] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.891] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.893] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.894] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.900] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.903] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.908] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.911] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.913] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.917] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.918] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.920] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.930] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.932] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.935] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.941] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.945] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.948] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.950] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.954] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.959] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.966] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.969] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.971] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.974] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.977] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.979] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.981] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.983] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.987] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.989] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.991] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.993] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.994] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.996] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:48.998] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.000] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.002] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.003] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.005] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.007] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.009] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.013] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.015] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.025] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.026] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.028] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.029] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.030] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.031] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.032] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.036] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.040] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.041] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.043] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.046] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.048] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.050] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.051] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.053] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.055] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.056] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.058] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.060] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.062] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.064] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.065] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.067] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.069] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.071] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.073] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.075] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.077] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.080] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.082] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.083] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.085] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.088] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.090] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.092] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.094] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.096] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.098] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.100] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.102] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.104] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.106] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.107] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.109] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.112] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.113] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.115] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:49.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:50.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:50.804] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2024 01:15:51.305] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 54523 ms
+[01Jul2024 01:15:51.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (129.730s)! For help, type "help"
+[01Jul2024 01:15:51.442] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Jul2024 01:17:08.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2024 01:17:08.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[01Jul2024 01:17:09.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2024 01:17:09.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[01Jul2024 01:17:10.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2024 01:17:10.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[01Jul2024 01:17:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2024 01:17:11.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[01Jul2024 01:17:12.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2024 01:17:12.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[01Jul2024 01:17:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2024 01:17:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[01Jul2024 01:17:13.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2024 01:17:13.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
