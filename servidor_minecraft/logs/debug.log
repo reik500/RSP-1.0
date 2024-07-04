@@ -3870,3 +3870,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jul2024 02:06:08.670] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 1, Max Possible Invasions: 1
 [04Jul2024 02:10:28.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2024 02:10:29.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2024 02:15:28.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2024 02:15:28.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2024 02:16:08.665] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 1, Max Possible Invasions: 1
+[04Jul2024 02:16:08.666] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 1, Max Possible Invasions: 1
+[04Jul2024 02:16:08.666] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 1, Max Possible Invasions: 1
+[04Jul2024 02:16:08.666] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 1, Max Possible Invasions: 1
+[04Jul2024 02:20:28.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2024 02:20:28.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2024 02:23:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jul2024 02:23:29.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neko afk<--[HERE]
