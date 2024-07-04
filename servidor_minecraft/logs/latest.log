@@ -251,3 +251,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jul2024 02:36:08.666] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 2, Max Possible Invasions: 1
 [04Jul2024 02:36:08.666] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 2, Max Possible Invasions: 1
 [04Jul2024 02:36:08.667] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 2, Max Possible Invasions: 1
+[04Jul2024 02:46:08.666] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 3, Max Possible Invasions: 1
+[04Jul2024 02:46:08.667] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 3, Max Possible Invasions: 1
+[04Jul2024 02:46:08.667] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 3, Max Possible Invasions: 1
+[04Jul2024 02:46:08.667] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 3, Max Possible Invasions: 1
