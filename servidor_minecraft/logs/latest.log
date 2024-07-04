@@ -290,3 +290,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jul2024 03:56:08.666] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 6, Max Possible Invasions: 1
 [04Jul2024 03:56:08.666] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
 [04Jul2024 03:56:08.666] [Server thread/INFO] [puresuffering/]: ]
+[04Jul2024 04:06:08.666] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 7, Max Possible Invasions: 1
+[04Jul2024 04:06:08.667] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 7, Max Possible Invasions: 1
+[04Jul2024 04:06:08.667] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 7, Max Possible Invasions: 1
+[04Jul2024 04:06:08.668] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[04Jul2024 04:06:08.668] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[04Jul2024 04:06:08.669] [Server thread/INFO] [puresuffering/]: ]
+[04Jul2024 04:06:08.669] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 7, Max Possible Invasions: 1
