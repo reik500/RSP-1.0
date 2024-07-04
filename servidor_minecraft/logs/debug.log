@@ -3957,3 +3957,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jul2024 03:46:08.666] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 6, Max Possible Invasions: 1
 [04Jul2024 03:50:28.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2024 03:50:28.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2024 03:55:28.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2024 03:55:28.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2024 03:56:08.665] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 6, Max Possible Invasions: 1
+[04Jul2024 03:56:08.665] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 6, Max Possible Invasions: 1
+[04Jul2024 03:56:08.666] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 6, Max Possible Invasions: 1
+[04Jul2024 03:56:08.666] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 6, Max Possible Invasions: 1
+[04Jul2024 03:56:08.666] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[04Jul2024 03:56:08.666] [Server thread/INFO] [puresuffering/]: ]
+[04Jul2024 04:00:28.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2024 04:00:28.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
