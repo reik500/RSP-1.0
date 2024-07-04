@@ -243,3 +243,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jul2024 02:16:08.666] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 1, Max Possible Invasions: 1
 [04Jul2024 02:23:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [04Jul2024 02:23:29.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neko afk<--[HERE]
+[04Jul2024 02:26:08.665] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 2, Max Possible Invasions: 1
+[04Jul2024 02:26:08.666] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 2, Max Possible Invasions: 1
+[04Jul2024 02:26:08.666] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 2, Max Possible Invasions: 1
+[04Jul2024 02:26:08.667] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 2, Max Possible Invasions: 1
