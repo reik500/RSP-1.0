@@ -447,3 +447,23 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 02:45:06.129] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 15, Max Possible Invasions: 1
 [06Jul2024 02:45:06.129] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
 [06Jul2024 02:45:06.130] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 02:48:47.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/27006, l='ServerLevel[world]', x=-444.50, y=24.02, z=-1131.26] died: Technoblade was slain by Zombie
+[06Jul2024 02:53:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was eaten alive by Infected Human
+[06Jul2024 02:53:07.919] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 02:53:07.929] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 02:53:19.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 02:53:39.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was eaten alive by Infected Human
+[06Jul2024 02:54:44.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 02:55:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was slain by Cyclops
+[06Jul2024 02:55:03.515] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 02:55:03.531] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 02:55:06.125] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 16, Max Possible Invasions: 1
+[06Jul2024 02:55:06.126] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 16, Max Possible Invasions: 1
+[06Jul2024 02:55:06.126] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 16, Max Possible Invasions: 1
+[06Jul2024 02:55:06.127] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[06Jul2024 02:55:06.127] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[06Jul2024 02:55:06.128] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 02:55:06.128] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 16, Max Possible Invasions: 1
+[06Jul2024 02:55:18.826] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID b10ffb59-cd4a-4d8d-bb43-c8f23ca78d68
+[06Jul2024 02:55:18.832] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -464 Y: 77 Z: -1121
+[06Jul2024 02:55:18.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by Cyclops
