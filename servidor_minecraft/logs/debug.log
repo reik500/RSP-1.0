@@ -7507,3 +7507,29 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 20:39:15.259] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 3, Max Possible Invasions: 1
 [06Jul2024 20:39:15.265] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 3, Max Possible Invasions: 1
 [06Jul2024 20:39:15.267] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 3, Max Possible Invasions: 1
+[06Jul2024 20:40:16.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 20:40:16.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 20:40:45.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/25437, l='ServerLevel[world]', x=200.02, y=-45.00, z=188.27] died: Whisper fell from a high place
+[06Jul2024 20:42:27.384] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_small
+[06Jul2024 20:42:36.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [A Strange Grave Dust]
+[06Jul2024 20:42:45.053] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower
+[06Jul2024 20:42:45.069] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of spore:mega_biomass_tower
+[06Jul2024 20:42:45.098] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_tall
+[06Jul2024 20:42:47.131] [Worker-Main-9/DEBUG] [ModernFix/]: Structure iceandfire:village/taiga_scriber_1 is being run through DFU (hash 46cb42baa6f67fe14d959fb0ea6208ae9fb55c570235dea6c716e52055308238), this will cause launch time delays
+[06Jul2024 20:43:05.032] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jul2024 20:43:05.042] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jul2024 20:43:05.815] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[06Jul2024 20:45:16.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 20:45:16.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 20:45:46.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Knowledge of Death]
+[06Jul2024 20:45:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Ashes 'n Bones]
+[06Jul2024 20:49:15.198] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 3, Max Possible Invasions: 1
+[06Jul2024 20:49:15.202] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 20:49:15.209] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
+[06Jul2024 20:49:15.210] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 20:49:15.218] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 3, Max Possible Invasions: 1
+[06Jul2024 20:49:15.223] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 20:49:15.224] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 20:49:15.225] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 3, Max Possible Invasions: 1
+[06Jul2024 20:49:15.226] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 3, Max Possible Invasions: 1
+[06Jul2024 20:49:26.288] [Worker-Main-9/DEBUG] [ModernFix/]: Structure iceandfire:village/plains_scriber_1 is being run through DFU (hash 76a607dd4093491f52ecde52887eafe16741dcdeacbe41d03515821e3ebfb9df), this will cause launch time delays

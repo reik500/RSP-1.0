@@ -2325,3 +2325,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 20:39:15.259] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 3, Max Possible Invasions: 1
 [06Jul2024 20:39:15.265] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 3, Max Possible Invasions: 1
 [06Jul2024 20:39:15.267] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 3, Max Possible Invasions: 1
+[06Jul2024 20:40:45.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/25437, l='ServerLevel[world]', x=200.02, y=-45.00, z=188.27] died: Whisper fell from a high place
+[06Jul2024 20:42:36.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [A Strange Grave Dust]
+[06Jul2024 20:45:46.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Knowledge of Death]
+[06Jul2024 20:45:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Ashes 'n Bones]
+[06Jul2024 20:49:15.198] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 3, Max Possible Invasions: 1
+[06Jul2024 20:49:15.202] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 20:49:15.209] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
+[06Jul2024 20:49:15.210] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 20:49:15.218] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 3, Max Possible Invasions: 1
+[06Jul2024 20:49:15.223] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 20:49:15.224] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 20:49:15.225] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 3, Max Possible Invasions: 1
+[06Jul2024 20:49:15.226] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 3, Max Possible Invasions: 1
