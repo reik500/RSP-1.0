@@ -593,3 +593,19 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 04:06:08.168] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
 [06Jul2024 04:06:08.169] [Server thread/INFO] [puresuffering/]: ]
 [06Jul2024 04:06:08.169] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 20, Max Possible Invasions: 1
+[06Jul2024 04:08:37.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 04:09:02.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 04:11:49.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/83631, l='ServerLevel[world]', x=-477.62, y=-44.00, z=-1496.55] died: Zero walked into the danger zone due to Zombie
+[06Jul2024 04:12:51.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 04:12:51.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 04:13:00.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:39173] logged in with entity id 84046 at (-536.3000000119209, -4.0, -1456.618917550967)
+[06Jul2024 04:13:00.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 04:13:00.810] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 04:13:09.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jul2024 04:13:09.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[06Jul2024 04:16:08.168] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 20, Max Possible Invasions: 1
+[06Jul2024 04:16:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 20, Max Possible Invasions: 1
+[06Jul2024 04:16:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 20, Max Possible Invasions: 1
+[06Jul2024 04:16:08.169] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 20, Max Possible Invasions: 1
+[06Jul2024 04:16:08.169] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 04:16:08.169] [Server thread/INFO] [puresuffering/]: ]
