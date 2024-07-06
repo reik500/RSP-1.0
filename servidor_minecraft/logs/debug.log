@@ -8398,3 +8398,34 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 23:00:18.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jul2024 23:00:19.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 23:00:19.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 23:01:40.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [The Only Good Bug...]
+[06Jul2024 23:01:40.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Its Like Printing my Own Money!]
+[06Jul2024 23:02:20.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/122627, l='ServerLevel[world]', x=1598.47, y=8.80, z=-819.30] died: Dany_Why was shot by Skeleton
+[06Jul2024 23:03:18.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -10.159481364061776,-0.49520087700592796,-0.9770063752470151
+[06Jul2024 23:03:18.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[06Jul2024 23:05:21.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 23:05:21.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 23:07:11.335] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jul2024 23:07:11.346] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jul2024 23:07:14.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Demonid'/127763, l='ServerLevel[world]', x=1789.79, y=-17.00, z=-835.80] died: Demonid was slain by Zombie
+[06Jul2024 23:07:52.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Paul Atreides]
+[06Jul2024 23:07:52.611] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of spore:mega_biomass_tower
+[06Jul2024 23:08:23.373] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 11, Max Possible Invasions: 1
+[06Jul2024 23:08:23.380] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 23:08:23.381] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
+[06Jul2024 23:08:23.381] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 23:08:23.383] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 11, Max Possible Invasions: 1
+[06Jul2024 23:08:23.383] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 11, Max Possible Invasions: 1
+[06Jul2024 23:08:23.383] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 11, Max Possible Invasions: 1
+[06Jul2024 23:08:58.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
+[06Jul2024 23:09:04.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jul2024 23:09:04.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jul2024 23:09:04.290] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_small
+[06Jul2024 23:09:04.297] [Worker-Main-196/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_tall
+[06Jul2024 23:09:15.357] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 12, Max Possible Invasions: 1
+[06Jul2024 23:09:15.358] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 12, Max Possible Invasions: 1
+[06Jul2024 23:09:15.359] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 12, Max Possible Invasions: 1
+[06Jul2024 23:09:15.360] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 12, Max Possible Invasions: 1
+[06Jul2024 23:09:57.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[06Jul2024 23:10:26.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 23:10:26.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
