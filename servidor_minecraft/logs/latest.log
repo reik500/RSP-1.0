@@ -383,3 +383,21 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 17:38:26.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:34471] logged in with entity id 1380 at (-509.80271044016916, -9.0, -1474.300000011921)
 [06Jul2024 17:38:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
 [06Jul2024 17:38:26.931] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 17:39:27.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Timed out
+[06Jul2024 17:39:27.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 17:39:43.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:40397] logged in with entity id 1908 at (-509.80271044016916, -9.0, -1474.300000011921)
+[06Jul2024 17:39:43.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 17:39:43.803] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 17:45:26.426] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 32, Max Possible Invasions: 2
+[06Jul2024 17:45:26.427] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 32, Max Possible Invasions: 1
+[06Jul2024 17:45:26.428] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 32, Max Possible Invasions: 2
+[06Jul2024 17:45:26.429] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 17:45:26.433] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 17:45:26.434] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 32, Max Possible Invasions: 1
+[06Jul2024 17:45:30.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 17:45:30.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 17:48:24.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:34575] logged in with entity id 4030 at (-516.5037505345714, -12.0, -1479.442832176881)
+[06Jul2024 17:48:24.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 17:48:24.659] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 17:48:54.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Timed out
+[06Jul2024 17:48:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
