@@ -425,3 +425,25 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 02:35:06.149] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 15, Max Possible Invasions: 1
 [06Jul2024 02:35:06.150] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 15, Max Possible Invasions: 1
 [06Jul2024 02:35:06.157] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 15, Max Possible Invasions: 1
+[06Jul2024 02:35:14.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was slain by Infected Pillager
+[06Jul2024 02:35:14.821] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 02:35:14.836] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 02:35:35.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 02:35:35.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 02:35:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by Infected Pillager
+[06Jul2024 02:35:35.427] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2024 02:35:47.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:37997] logged in with entity id 16811 at (-355.3561213762742, 85.0, -909.9500186208272)
+[06Jul2024 02:35:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 02:35:47.688] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 02:36:12.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 02:37:23.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/17921, l='ServerLevel[world]', x=-354.82, y=86.00, z=-914.31] died: reik was shot by reik
+[06Jul2024 02:37:42.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 02:39:45.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Book of Monsters]
+[06Jul2024 02:41:10.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [What a Deal!]
+[06Jul2024 02:43:41.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['bartsek009 '/23073, l='ServerLevel[world]', x=-273.52, y=-12.50, z=-1027.43] died: bartsek009  was slain by Fire Dragon
+[06Jul2024 02:45:06.127] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 15, Max Possible Invasions: 1
+[06Jul2024 02:45:06.128] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 15, Max Possible Invasions: 1
+[06Jul2024 02:45:06.129] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 15, Max Possible Invasions: 1
+[06Jul2024 02:45:06.129] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 15, Max Possible Invasions: 1
+[06Jul2024 02:45:06.129] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 02:45:06.130] [Server thread/INFO] [puresuffering/]: ]
