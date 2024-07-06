@@ -2314,3 +2314,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 20:23:30.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Isn't It Iron Pick]
 [06Jul2024 20:24:03.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Suit Up]
 [06Jul2024 20:28:05.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/19295, l='ServerLevel[world]', x=185.79, y=26.00, z=364.05] died: Nova69 was slain by Troll
+[06Jul2024 20:30:30.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/20678, l='ServerLevel[world]', x=231.40, y=18.00, z=257.63] died: That_Insane_Guy was slain by Zombie
+[06Jul2024 20:31:04.099] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 2, Max Possible Invasions: 1
+[06Jul2024 20:31:04.100] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 2, Max Possible Invasions: 1
+[06Jul2024 20:31:04.101] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 2, Max Possible Invasions: 1
+[06Jul2024 20:31:04.101] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 2, Max Possible Invasions: 1
+[06Jul2024 20:34:53.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/21706, l='ServerLevel[world]', x=120.49, y=-19.33, z=197.74] died: WhisperFire26 was slain by Zombie
+[06Jul2024 20:35:41.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Diamonds!]
+[06Jul2024 20:39:15.259] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 3, Max Possible Invasions: 1
+[06Jul2024 20:39:15.259] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 3, Max Possible Invasions: 1
+[06Jul2024 20:39:15.265] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 3, Max Possible Invasions: 1
+[06Jul2024 20:39:15.267] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 3, Max Possible Invasions: 1
