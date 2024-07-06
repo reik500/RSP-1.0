@@ -7598,3 +7598,19 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 21:35:01.462] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 6, Max Possible Invasions: 1
 [06Jul2024 21:35:16.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 21:35:16.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 21:40:16.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 21:40:16.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 21:45:01.446] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 7, Max Possible Invasions: 1
+[06Jul2024 21:45:01.447] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 7, Max Possible Invasions: 1
+[06Jul2024 21:45:01.448] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 7, Max Possible Invasions: 1
+[06Jul2024 21:45:01.448] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 7, Max Possible Invasions: 1
+[06Jul2024 21:45:16.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 21:45:16.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 21:49:52.638] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower
+[06Jul2024 21:50:09.321] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of spore:mega_biomass_tower
+[06Jul2024 21:50:09.327] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_small
+[06Jul2024 21:50:13.960] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_tall
+[06Jul2024 21:50:14.052] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jul2024 21:50:14.061] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jul2024 21:50:16.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 21:50:16.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
