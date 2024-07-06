@@ -5506,3 +5506,57 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 17, Max Possible Invasions: 1
 [06Jul2024 03:25:44.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 03:25:44.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:28:14.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Ol' Betsy]
+[06Jul2024 03:28:14.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Take Aim]
+[06Jul2024 03:30:18.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/62675, l='ServerLevel[world]', x=-377.21, y=63.00, z=-1301.81] died: Azami was slain by Spider
+[06Jul2024 03:30:44.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:30:44.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:31:44.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was slain by Cyclops
+[06Jul2024 03:31:44.019] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 03:31:44.028] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 03:32:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 03:32:19.527] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID 3ece0489-9d7c-43c7-a6ae-bd06960f97af
+[06Jul2024 03:32:19.528] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -451 Y: 63 Z: -1259
+[06Jul2024 03:32:19.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by Cyclops
+[06Jul2024 03:32:19.530] [Server thread/DEBUG] [tombstone/]: A new grave of the player reik was created at position [x:-452, y:63, z:-1260, dim:minecraft:overworld]
+[06Jul2024 03:33:12.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jul2024 03:33:12.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jul2024 03:33:18.474] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66227, l='ServerLevel[world]', x=-456.94, y=64.00, z=-1274.98]
+[06Jul2024 03:33:22.617] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66271, l='ServerLevel[world]', x=-454.30, y=64.69, z=-1272.12]
+[06Jul2024 03:33:22.617] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66272, l='ServerLevel[world]', x=-454.30, y=64.69, z=-1272.12]
+[06Jul2024 03:33:33.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 03:33:36.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66322, l='ServerLevel[world]', x=-446.70, y=60.57, z=-1258.70]
+[06Jul2024 03:33:36.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66323, l='ServerLevel[world]', x=-446.70, y=60.57, z=-1258.70]
+[06Jul2024 03:33:38.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66345, l='ServerLevel[world]', x=-446.30, y=61.10, z=-1258.55]
+[06Jul2024 03:33:38.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66346, l='ServerLevel[world]', x=-446.30, y=61.10, z=-1258.55]
+[06Jul2024 03:33:40.975] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66355, l='ServerLevel[world]', x=-446.30, y=61.10, z=-1258.70]
+[06Jul2024 03:33:40.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66356, l='ServerLevel[world]', x=-446.30, y=61.10, z=-1258.70]
+[06Jul2024 03:33:45.317] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/66367, l='ServerLevel[world]', x=-448.39, y=61.10, z=-1259.78]
+[06Jul2024 03:33:46.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 03:34:23.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 03:34:30.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was slain by Infected Villager
+[06Jul2024 03:34:30.464] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 03:34:30.472] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 03:34:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 03:34:54.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by Infected Villager
+[06Jul2024 03:34:54.495] [Server thread/DEBUG] [tombstone/]: A new grave of the player reik was created at position [x:-452, y:63, z:-1259, dim:minecraft:overworld]
+[06Jul2024 03:35:06.117] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 18, Max Possible Invasions: 1
+[06Jul2024 03:35:06.117] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 18, Max Possible Invasions: 1
+[06Jul2024 03:35:06.118] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 18, Max Possible Invasions: 1
+[06Jul2024 03:35:06.118] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 18, Max Possible Invasions: 1
+[06Jul2024 03:35:39.070] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/67677, l='ServerLevel[world]', x=-450.23, y=63.63, z=-1258.52] died: reik was shot by reik
+[06Jul2024 03:35:44.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:35:44.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:35:46.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 03:35:58.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/68308, l='ServerLevel[world]', x=-446.58, y=59.84, z=-1255.40]
+[06Jul2024 03:35:58.363] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/68309, l='ServerLevel[world]', x=-446.58, y=59.84, z=-1255.40]
+[06Jul2024 03:36:00.911] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/68325, l='ServerLevel[world]', x=-447.09, y=60.58, z=-1255.37]
+[06Jul2024 03:36:03.412] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/68340, l='ServerLevel[world]', x=-447.40, y=59.94, z=-1255.54]
+[06Jul2024 03:36:06.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/68356, l='ServerLevel[world]', x=-447.45, y=60.62, z=-1255.58]
+[06Jul2024 03:36:06.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/68357, l='ServerLevel[world]', x=-447.45, y=60.62, z=-1255.58]
+[06Jul2024 03:36:08.561] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/68412, l='ServerLevel[world]', x=-447.33, y=60.00, z=-1253.84]
+[06Jul2024 03:36:08.562] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: StingerProjectile['entity.spore.stinger'/68413, l='ServerLevel[world]', x=-447.33, y=60.00, z=-1253.84]
+[06Jul2024 03:36:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was shot by Phayres
+[06Jul2024 03:36:08.622] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 03:36:08.624] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 03:36:16.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
