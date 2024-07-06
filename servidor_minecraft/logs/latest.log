@@ -401,3 +401,33 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 17:48:24.659] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
 [06Jul2024 17:48:54.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Timed out
 [06Jul2024 17:48:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 17:49:36.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:45941] logged in with entity id 4498 at (-516.6999999880791, -13.0, -1479.8099399896182)
+[06Jul2024 17:49:36.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 17:49:36.802] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 17:50:06.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Timed out
+[06Jul2024 17:50:06.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 17:51:26.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:50373] logged in with entity id 4958 at (-516.6999999880791, -13.0, -1479.8099399896182)
+[06Jul2024 17:51:26.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 17:51:26.160] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 17:52:10.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Timed out
+[06Jul2024 17:52:10.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 17:52:29.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:49803] logged in with entity id 5459 at (-516.6999999880791, -13.0, -1479.8099399896182)
+[06Jul2024 17:52:29.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 17:52:29.561] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 17:53:05.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Timed out
+[06Jul2024 17:53:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 17:53:35.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jul2024 17:53:35.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stoo<--[HERE]
+[06Jul2024 17:53:37.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jul2024 17:53:37.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2024 17:53:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2024 17:53:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2024 17:53:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2024 17:53:37.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2024 17:53:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[06Jul2024 17:53:37.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2024 17:53:37.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2024 17:53:37.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2024 17:53:37.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[06Jul2024 17:53:37.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2024 17:53:37.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
