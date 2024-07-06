@@ -5780,3 +5780,19 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 04:16:08.169] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 20, Max Possible Invasions: 1
 [06Jul2024 04:16:08.169] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
 [06Jul2024 04:16:08.169] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 04:18:43.150] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower
+[06Jul2024 04:18:43.155] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_tall
+[06Jul2024 04:18:43.398] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_small
+[06Jul2024 04:18:44.845] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of spore:mega_biomass_tower
+[06Jul2024 04:20:44.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:20:44.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:23:22.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/88736, l='ServerLevel[world]', x=-501.87, y=-50.00, z=-1543.16] died: Pajera fell from a high place
+[06Jul2024 04:24:36.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/89537, l='ServerLevel[world]', x=-550.93, y=-23.00, z=-1504.73] died: Nova69 fell from a high place
+[06Jul2024 04:25:44.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:25:44.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:26:02.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/90191, l='ServerLevel[world]', x=-504.50, y=-54.00, z=-1542.83] died: JhonOK22 fell from a high place
+[06Jul2024 04:26:08.168] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 21, Max Possible Invasions: 1
+[06Jul2024 04:26:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 21, Max Possible Invasions: 1
+[06Jul2024 04:26:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 21, Max Possible Invasions: 1
+[06Jul2024 04:26:08.169] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 21, Max Possible Invasions: 1
+[06Jul2024 04:27:32.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/90521, l='ServerLevel[world]', x=-434.40, y=60.00, z=-1574.42] died: Entity was shot by Skeleton
