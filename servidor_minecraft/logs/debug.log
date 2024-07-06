@@ -5811,3 +5811,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 04:36:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 21, Max Possible Invasions: 1
 [06Jul2024 04:36:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 21, Max Possible Invasions: 1
 [06Jul2024 04:36:08.169] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 21, Max Possible Invasions: 1
+[06Jul2024 04:40:44.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:40:44.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:41:25.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/96145, l='ServerLevel[world]', x=-481.40, y=20.00, z=-1363.67] died: Whisper was shot by Skeleton
+[06Jul2024 04:45:44.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 04:45:44.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 04:45:50.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/97785, l='ServerLevel[world]', x=-546.29, y=5.25, z=-1411.69] died: Mad_Dog was slain by Enderman
+[06Jul2024 04:46:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 22, Max Possible Invasions: 1
+[06Jul2024 04:46:08.170] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 22, Max Possible Invasions: 1
+[06Jul2024 04:46:08.171] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 22, Max Possible Invasions: 1
+[06Jul2024 04:46:08.171] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 22, Max Possible Invasions: 1
+[06Jul2024 04:46:08.172] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[06Jul2024 04:46:08.172] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 04:46:24.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 04:46:24.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
