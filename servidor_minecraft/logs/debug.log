@@ -7614,3 +7614,24 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 21:50:14.061] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
 [06Jul2024 21:50:16.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 21:50:16.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 21:51:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Who You Gonna Call?]
+[06Jul2024 21:52:01.583] [Worker-Main-9/DEBUG] [ModernFix/]: Structure iceandfire:village/savanna_scriber_1 is being run through DFU (hash 1aee738221b30ef94e77a84658532db39be9ef691660fd235b3a721f5414a198), this will cause launch time delays
+[06Jul2024 21:53:31.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Hot Stuff]
+[06Jul2024 21:55:01.466] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 7, Max Possible Invasions: 1
+[06Jul2024 21:55:01.467] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 7, Max Possible Invasions: 1
+[06Jul2024 21:55:01.468] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 21:55:01.468] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 21:55:01.469] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 7, Max Possible Invasions: 1
+[06Jul2024 21:55:01.470] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 7, Max Possible Invasions: 1
+[06Jul2024 21:55:16.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 21:55:16.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 21:57:04.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/67045, l='ServerLevel[world]', x=757.53, y=71.17, z=89.60] died: Keymind was blown up by Creeper
+[06Jul2024 21:58:17.865] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 8, Max Possible Invasions: 1
+[06Jul2024 21:58:17.867] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 8, Max Possible Invasions: 1
+[06Jul2024 21:58:17.867] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 8, Max Possible Invasions: 1
+[06Jul2024 21:58:17.868] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1
+[06Jul2024 21:58:34.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/67941, l='ServerLevel[world]', x=712.34, y=-3.00, z=-45.05] died: Joker_de_Coeur was slain by Zombie
+[06Jul2024 21:58:40.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/67940, l='ServerLevel[world]', x=705.42, y=-2.00, z=-49.57] died: Dany_Why was slain by Zombie
+[06Jul2024 21:59:05.993] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[06Jul2024 22:00:16.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 22:00:16.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

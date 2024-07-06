@@ -2380,3 +2380,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 21:45:01.447] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 7, Max Possible Invasions: 1
 [06Jul2024 21:45:01.448] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 7, Max Possible Invasions: 1
 [06Jul2024 21:45:01.448] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 7, Max Possible Invasions: 1
+[06Jul2024 21:51:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Who You Gonna Call?]
+[06Jul2024 21:53:31.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Hot Stuff]
+[06Jul2024 21:55:01.466] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 7, Max Possible Invasions: 1
+[06Jul2024 21:55:01.467] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 7, Max Possible Invasions: 1
+[06Jul2024 21:55:01.468] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 21:55:01.468] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 21:55:01.469] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 7, Max Possible Invasions: 1
+[06Jul2024 21:55:01.470] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 7, Max Possible Invasions: 1
+[06Jul2024 21:57:04.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/67045, l='ServerLevel[world]', x=757.53, y=71.17, z=89.60] died: Keymind was blown up by Creeper
+[06Jul2024 21:58:17.865] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 8, Max Possible Invasions: 1
+[06Jul2024 21:58:17.867] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 8, Max Possible Invasions: 1
+[06Jul2024 21:58:17.867] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 8, Max Possible Invasions: 1
+[06Jul2024 21:58:17.868] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1
+[06Jul2024 21:58:34.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/67941, l='ServerLevel[world]', x=712.34, y=-3.00, z=-45.05] died: Joker_de_Coeur was slain by Zombie
+[06Jul2024 21:58:40.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/67940, l='ServerLevel[world]', x=705.42, y=-2.00, z=-49.57] died: Dany_Why was slain by Zombie
