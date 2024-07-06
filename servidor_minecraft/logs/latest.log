@@ -373,3 +373,28 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 02:13:16.583] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
 [06Jul2024 02:13:27.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
 [06Jul2024 02:13:38.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was blown up by Creeper
+[06Jul2024 02:15:06.123] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 14, Max Possible Invasions: 1
+[06Jul2024 02:15:06.126] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 14, Max Possible Invasions: 1
+[06Jul2024 02:15:06.130] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 14, Max Possible Invasions: 1
+[06Jul2024 02:15:06.130] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 14, Max Possible Invasions: 1
+[06Jul2024 02:15:41.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/4059, l='ServerLevel[world]', x=-66.09, y=-24.00, z=-238.87] died: cheesepuff was shot by Skeleton
+[06Jul2024 02:16:55.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 02:19:31.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 02:19:31.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 02:19:38.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:57911] logged in with entity id 7879 at (-216.42802936228927, 68.0, -432.9108617169226)
+[06Jul2024 02:19:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 02:19:39.276] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 02:20:51.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of reik) moved wrongly! 0.3117632256972911
+[06Jul2024 02:20:55.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of reik) moved wrongly! 0.28744707249182966
+[06Jul2024 02:20:55.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of reik) moved wrongly! 0.34357565637577636
+[06Jul2024 02:20:55.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of reik) moved wrongly! 0.3123755577587417
+[06Jul2024 02:20:55.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of reik) moved wrongly! 0.26777074936808276
+[06Jul2024 02:20:59.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of reik) moved wrongly! 0.25533643064886746
+[06Jul2024 02:20:59.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of reik) moved wrongly! 0.5535853866002185
+[06Jul2024 02:20:59.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of reik) moved wrongly! 0.5946657645515074
+[06Jul2024 02:22:58.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Where Is The Stone Pen?]
+[06Jul2024 02:23:41.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 02:23:41.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 02:23:50.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:48431] logged in with entity id 12049 at (-371.03346841017583, 63.08576431274414, -657.8208623630056)
+[06Jul2024 02:23:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 02:23:50.628] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
