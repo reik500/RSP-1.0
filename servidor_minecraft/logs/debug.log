@@ -7580,3 +7580,21 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 21:25:16.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 21:25:16.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2024 21:28:30.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/46811, l='ServerLevel[world]', x=134.31, y=-14.27, z=212.40] died: Nova69 burned to death
+[06Jul2024 21:30:16.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 21:30:16.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 21:31:09.221] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower
+[06Jul2024 21:31:09.272] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of spore:mega_biomass_tower
+[06Jul2024 21:31:09.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/48381, l='ServerLevel[world]', x=249.55, y=-14.00, z=216.52] died: That_Insane_Guy was slain by Enderman
+[06Jul2024 21:31:10.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jul2024 21:31:10.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jul2024 21:31:10.299] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_tall
+[06Jul2024 21:31:11.985] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[06Jul2024 21:35:01.453] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 6, Max Possible Invasions: 1
+[06Jul2024 21:35:01.454] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 6, Max Possible Invasions: 1
+[06Jul2024 21:35:01.455] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 6, Max Possible Invasions: 1
+[06Jul2024 21:35:01.455] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[06Jul2024 21:35:01.461] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[06Jul2024 21:35:01.461] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 21:35:01.462] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 6, Max Possible Invasions: 1
+[06Jul2024 21:35:16.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 21:35:16.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
