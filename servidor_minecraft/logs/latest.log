@@ -467,3 +467,38 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 02:55:18.826] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID b10ffb59-cd4a-4d8d-bb43-c8f23ca78d68
 [06Jul2024 02:55:18.832] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -464 Y: 77 Z: -1121
 [06Jul2024 02:55:18.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by Cyclops
+[06Jul2024 02:55:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 02:55:57.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 02:56:52.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/34320, l='ServerLevel[world]', x=-504.61, y=-21.00, z=-1124.55] died: Helldwin was slain by Enderman
+[06Jul2024 02:57:01.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was burnt to a crisp whilst fighting Fire Dragon
+[06Jul2024 02:57:01.075] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 02:57:01.076] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 02:57:11.074] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID 6a871036-ce0d-415d-acfb-49fcf1b5be8a
+[06Jul2024 02:57:11.075] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -468 Y: 71 Z: -1217
+[06Jul2024 02:57:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik burned to death
+[06Jul2024 02:57:11.081] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 02:57:21.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 02:57:54.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [My Name is Nobody]
+[06Jul2024 02:58:24.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 02:59:59.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was slain by Fire Dragon
+[06Jul2024 02:59:59.685] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 02:59:59.697] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 03:00:01.413] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID ab97cd75-2fe8-4488-95dd-7893323ac287
+[06Jul2024 03:00:01.414] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -411 Y: 63 Z: -1066
+[06Jul2024 03:00:01.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was doomed to fall
+[06Jul2024 03:00:01.417] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 03:00:14.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 03:01:08.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Dragonslayer]
+[06Jul2024 03:01:35.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 03:03:57.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 03:03:57.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 03:04:08.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:53793] logged in with entity id 43205 at (-371.37463813776884, 77.0, -1004.3449936975355)
+[06Jul2024 03:04:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 03:04:08.450] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 03:05:06.117] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 16, Max Possible Invasions: 1
+[06Jul2024 03:05:06.118] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 03:05:06.118] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:pest - 1
+[06Jul2024 03:05:06.119] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 03:05:06.119] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 16, Max Possible Invasions: 1
+[06Jul2024 03:05:06.120] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 16, Max Possible Invasions: 1
+[06Jul2024 03:05:06.120] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 16, Max Possible Invasions: 1
