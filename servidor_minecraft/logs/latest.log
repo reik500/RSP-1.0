@@ -617,3 +617,12 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 04:26:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 21, Max Possible Invasions: 1
 [06Jul2024 04:26:08.169] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 21, Max Possible Invasions: 1
 [06Jul2024 04:27:32.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/90521, l='ServerLevel[world]', x=-434.40, y=60.00, z=-1574.42] died: Entity was shot by Skeleton
+[06Jul2024 04:30:47.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/92200, l='ServerLevel[world]', x=-488.36, y=-49.00, z=-1509.29] died: Joker_de_Coeur fell from a high place
+[06Jul2024 04:31:33.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Hot Stuff]
+[06Jul2024 04:36:08.167] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 21, Max Possible Invasions: 1
+[06Jul2024 04:36:08.168] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 04:36:08.168] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
+[06Jul2024 04:36:08.168] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 04:36:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 21, Max Possible Invasions: 1
+[06Jul2024 04:36:08.169] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 21, Max Possible Invasions: 1
+[06Jul2024 04:36:08.169] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 21, Max Possible Invasions: 1
