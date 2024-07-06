@@ -5854,3 +5854,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 05:16:08.161] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 23, Max Possible Invasions: 1
 [06Jul2024 05:16:08.161] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
 [06Jul2024 05:16:08.161] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 05:20:44.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 05:20:44.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 05:25:44.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 05:25:44.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 05:26:08.159] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 24, Max Possible Invasions: 1
+[06Jul2024 05:26:08.159] [Server thread/INFO] [puresuffering/]: Setting Default Day Invasions: [
+[06Jul2024 05:26:08.159] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 05:26:08.159] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 24, Max Possible Invasions: 1
+[06Jul2024 05:26:08.160] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 24, Max Possible Invasions: 1
+[06Jul2024 05:26:08.160] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 24, Max Possible Invasions: 1
