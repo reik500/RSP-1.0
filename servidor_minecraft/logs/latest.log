@@ -2395,3 +2395,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 21:58:17.868] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1
 [06Jul2024 21:58:34.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/67941, l='ServerLevel[world]', x=712.34, y=-3.00, z=-45.05] died: Joker_de_Coeur was slain by Zombie
 [06Jul2024 21:58:40.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/67940, l='ServerLevel[world]', x=705.42, y=-2.00, z=-49.57] died: Dany_Why was slain by Zombie
+[06Jul2024 22:00:38.301] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/69889, l='ServerLevel[world]', x=574.40, y=22.00, z=-198.48] died: Ripley was slain by Troll
+[06Jul2024 22:02:30.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Book of Monsters]
+[06Jul2024 22:04:05.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/71104, l='ServerLevel[world]', x=942.02, y=104.00, z=-167.39] died, message: 'Nitwit has succumbed to the infection'
+[06Jul2024 22:08:17.827] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 8, Max Possible Invasions: 1
+[06Jul2024 22:08:17.839] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 22:08:17.842] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:pest - 1
+[06Jul2024 22:08:17.845] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 22:08:17.846] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 8, Max Possible Invasions: 1
+[06Jul2024 22:08:17.846] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 8, Max Possible Invasions: 1
+[06Jul2024 22:08:17.846] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1

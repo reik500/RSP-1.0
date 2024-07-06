@@ -7635,3 +7635,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 21:59:05.993] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
 [06Jul2024 22:00:16.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 22:00:16.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 22:00:38.301] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/69889, l='ServerLevel[world]', x=574.40, y=22.00, z=-198.48] died: Ripley was slain by Troll
+[06Jul2024 22:02:30.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Book of Monsters]
+[06Jul2024 22:04:05.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/71104, l='ServerLevel[world]', x=942.02, y=104.00, z=-167.39] died, message: 'Nitwit has succumbed to the infection'
+[06Jul2024 22:05:16.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 22:05:16.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 22:08:17.827] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 8, Max Possible Invasions: 1
+[06Jul2024 22:08:17.839] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 22:08:17.842] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:pest - 1
+[06Jul2024 22:08:17.845] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 22:08:17.846] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 8, Max Possible Invasions: 1
+[06Jul2024 22:08:17.846] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 8, Max Possible Invasions: 1
+[06Jul2024 22:08:17.846] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1
+[06Jul2024 22:10:16.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 22:10:16.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
