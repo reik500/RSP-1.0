@@ -7649,3 +7649,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 22:08:17.846] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1
 [06Jul2024 22:10:16.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 22:10:16.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 22:13:43.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik moved too quickly! -6.324594603048581,-3.4858353462962057,-7.004248944371994
+[06Jul2024 22:13:43.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
+[06Jul2024 22:14:30.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/81292, l='ServerLevel[world]', x=1168.60, y=68.00, z=-168.79] died: Keymind was slain by Enderman
+[06Jul2024 22:14:34.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Not Today, Thank You]
+[06Jul2024 22:15:19.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 22:15:19.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 22:18:20.847] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 9, Max Possible Invasions: 1
+[06Jul2024 22:18:20.848] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 9, Max Possible Invasions: 1
+[06Jul2024 22:18:20.848] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 9, Max Possible Invasions: 1
+[06Jul2024 22:18:20.848] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 9, Max Possible Invasions: 1
+[06Jul2024 22:20:19.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 22:20:19.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
