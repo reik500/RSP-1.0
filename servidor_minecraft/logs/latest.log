@@ -2438,3 +2438,22 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 22:29:18.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
 [06Jul2024 22:29:32.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
 [06Jul2024 22:29:32.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 22:35:45.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/100.126.227.16:53409] logged in with entity id 94386 at (744.9687748908606, 76.0, -505.312484031111)
+[06Jul2024 22:35:46.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 22:35:46.088] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 22:38:13.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/95358, l='ServerLevel[world]', x=755.03, y=78.00, z=-611.78] died: cheesepuff was burnt to a crisp whilst fighting Fire Dragon
+[06Jul2024 22:38:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was incinerated by Fire Dragon
+[06Jul2024 22:38:20.241] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 22:38:20.274] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 22:38:20.866] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 10, Max Possible Invasions: 1
+[06Jul2024 22:38:20.866] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 10, Max Possible Invasions: 1
+[06Jul2024 22:38:20.866] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 10, Max Possible Invasions: 1
+[06Jul2024 22:38:20.866] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[06Jul2024 22:38:20.867] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[06Jul2024 22:38:20.867] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 22:38:20.867] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 10, Max Possible Invasions: 1
+[06Jul2024 22:38:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 22:39:08.020] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID 56acaf74-f254-433d-ae30-4fbf1a0bd737
+[06Jul2024 22:39:08.021] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 768 Y: 91 Z: -635
+[06Jul2024 22:39:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was incinerated by a dragon
+[06Jul2024 22:40:12.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
