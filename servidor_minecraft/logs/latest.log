@@ -509,3 +509,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 03:15:06.122] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
 [06Jul2024 03:15:06.122] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 17, Max Possible Invasions: 1
 [06Jul2024 03:15:06.122] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 17, Max Possible Invasions: 1
+[06Jul2024 03:18:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Neighborhood Brawl]
+[06Jul2024 03:19:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Best Friends Forever]
+[06Jul2024 03:24:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Ice Bucket Challenge]
+[06Jul2024 03:25:06.118] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 17, Max Possible Invasions: 1
+[06Jul2024 03:25:06.118] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 17, Max Possible Invasions: 1
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 17, Max Possible Invasions: 1

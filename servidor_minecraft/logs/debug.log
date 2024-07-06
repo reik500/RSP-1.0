@@ -5486,3 +5486,23 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 03:15:06.122] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 17, Max Possible Invasions: 1
 [06Jul2024 03:15:44.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 03:15:44.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:17:38.916] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower
+[06Jul2024 03:18:33.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jul2024 03:18:33.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jul2024 03:18:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Neighborhood Brawl]
+[06Jul2024 03:19:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Best Friends Forever]
+[06Jul2024 03:20:44.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:20:44.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:21:37.456] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_tall
+[06Jul2024 03:21:37.473] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_small
+[06Jul2024 03:21:56.746] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of spore:mega_biomass_tower
+[06Jul2024 03:24:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Ice Bucket Challenge]
+[06Jul2024 03:25:06.118] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 17, Max Possible Invasions: 1
+[06Jul2024 03:25:06.118] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 17, Max Possible Invasions: 1
+[06Jul2024 03:25:06.119] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 17, Max Possible Invasions: 1
+[06Jul2024 03:25:44.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:25:44.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
