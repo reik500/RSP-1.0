@@ -398,3 +398,30 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 02:23:50.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:48431] logged in with entity id 12049 at (-371.03346841017583, 63.08576431274414, -657.8208623630056)
 [06Jul2024 02:23:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
 [06Jul2024 02:23:50.628] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 02:25:06.135] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 14, Max Possible Invasions: 1
+[06Jul2024 02:25:06.137] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 14, Max Possible Invasions: 1
+[06Jul2024 02:25:06.140] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[06Jul2024 02:25:06.160] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[06Jul2024 02:25:06.160] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 02:25:06.162] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 14, Max Possible Invasions: 1
+[06Jul2024 02:25:06.163] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 14, Max Possible Invasions: 1
+[06Jul2024 02:25:21.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/13438, l='ServerLevel[world]', x=-221.03, y=32.00, z=-872.40] died: Whisper was slain by Enderman
+[06Jul2024 02:25:31.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 02:25:31.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 02:28:09.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:37633] logged in with entity id 14356 at (-285.6586768897335, 95.00133597911214, -921.7193579147256)
+[06Jul2024 02:28:09.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 02:28:09.562] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 02:29:24.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 02:29:24.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 02:31:41.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:55503] logged in with entity id 15384 at (-365.82430562457796, 87.41999998688698, -909.7754639148491)
+[06Jul2024 02:31:41.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 02:31:41.730] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 02:32:39.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 02:32:39.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 02:35:05.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:54073] logged in with entity id 16001 at (-355.3561213762742, 85.0, -909.9500186208272)
+[06Jul2024 02:35:05.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 02:35:05.408] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 02:35:06.148] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 15, Max Possible Invasions: 1
+[06Jul2024 02:35:06.149] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 15, Max Possible Invasions: 1
+[06Jul2024 02:35:06.150] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 15, Max Possible Invasions: 1
+[06Jul2024 02:35:06.157] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 15, Max Possible Invasions: 1
