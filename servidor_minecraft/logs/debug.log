@@ -7661,3 +7661,34 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 22:18:20.848] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 9, Max Possible Invasions: 1
 [06Jul2024 22:20:19.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 22:20:19.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 22:24:03.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Ice Bucket Challenge]
+[06Jul2024 22:24:07.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/89743, l='ServerLevel[world]', x=859.66, y=-14.00, z=-420.69] died: Deyvid fell from a high place
+[06Jul2024 22:25:19.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 22:25:19.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 22:25:38.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik fell from a high place
+[06Jul2024 22:25:38.216] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 22:25:38.217] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 22:26:01.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made reik a server operator
+[06Jul2024 22:26:08.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 22:26:15.702] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID 1239878e-8768-40e2-9fa7-1a55b5d55b0b
+[06Jul2024 22:26:15.710] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 728 Y: 41 Z: -456
+[06Jul2024 22:26:15.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Strong or Careful]
+[06Jul2024 22:26:15.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik fell from a high place
+[06Jul2024 22:26:15.727] [Server thread/DEBUG] [tombstone/]: A new grave of the player reik was created at position [x:727, y:42, z:-456, dim:minecraft:overworld]
+[06Jul2024 22:26:15.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Your First Grave]
+[06Jul2024 22:26:17.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[06Jul2024 22:26:39.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [The Most Useful Key]
+[06Jul2024 22:26:46.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [A Fast Comeback]
+[06Jul2024 22:26:48.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Easy Opening]
+[06Jul2024 22:27:12.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 22:27:34.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 22:28:20.847] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 9, Max Possible Invasions: 1
+[06Jul2024 22:28:20.848] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 9, Max Possible Invasions: 1
+[06Jul2024 22:28:20.848] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 9, Max Possible Invasions: 1
+[06Jul2024 22:28:20.849] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 9, Max Possible Invasions: 1
+[06Jul2024 22:28:40.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Cover Me with Diamonds]
+[06Jul2024 22:29:18.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 22:29:32.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 22:29:32.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 22:30:19.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 22:30:19.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

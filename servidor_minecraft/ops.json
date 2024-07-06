@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "f290035f-ef20-3efd-bb7d-00bded544cc5",
+    "name": "reik",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
