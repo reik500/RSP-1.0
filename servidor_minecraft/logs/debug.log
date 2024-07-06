@@ -7533,3 +7533,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 20:49:15.225] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 3, Max Possible Invasions: 1
 [06Jul2024 20:49:15.226] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 3, Max Possible Invasions: 1
 [06Jul2024 20:49:26.288] [Worker-Main-9/DEBUG] [ModernFix/]: Structure iceandfire:village/plains_scriber_1 is being run through DFU (hash 76a607dd4093491f52ecde52887eafe16741dcdeacbe41d03515821e3ebfb9df), this will cause launch time delays
+[06Jul2024 20:50:16.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 20:50:16.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 20:52:25.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Magic Writing]
+[06Jul2024 20:52:40.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Great minds think alike]
+[06Jul2024 20:54:20.157] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 4, Max Possible Invasions: 1
+[06Jul2024 20:54:20.158] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 4, Max Possible Invasions: 1
+[06Jul2024 20:54:20.158] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 4, Max Possible Invasions: 1
+[06Jul2024 20:54:20.159] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 4, Max Possible Invasions: 1
+[06Jul2024 20:55:16.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 20:55:16.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 20:58:50.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/33210, l='ServerLevel[world]', x=288.20, y=-30.00, z=320.88] died: Keymind was slain by reik
