@@ -7544,3 +7544,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 20:55:16.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 20:55:16.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2024 20:58:50.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/33210, l='ServerLevel[world]', x=288.20, y=-30.00, z=320.88] died: Keymind was slain by reik
+[06Jul2024 21:00:16.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 21:00:16.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 21:01:50.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Chest Slayer]
+[06Jul2024 21:01:56.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Amateur Archaeologist]
+[06Jul2024 21:04:20.097] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 4, Max Possible Invasions: 1
+[06Jul2024 21:04:20.098] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 4, Max Possible Invasions: 1
+[06Jul2024 21:04:20.099] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 4, Max Possible Invasions: 1
+[06Jul2024 21:04:20.099] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 4, Max Possible Invasions: 1
+[06Jul2024 21:04:23.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Where Is The Stone Pen?]
+[06Jul2024 21:05:16.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 21:05:16.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
