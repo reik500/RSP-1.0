@@ -5943,3 +5943,11 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 06:46:08.161] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 28, Max Possible Invasions: 1
 [06Jul2024 06:50:44.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 06:50:44.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 06:55:44.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 06:55:44.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 06:56:08.160] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 28, Max Possible Invasions: 1
+[06Jul2024 06:56:08.160] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 28, Max Possible Invasions: 1
+[06Jul2024 06:56:08.160] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 28, Max Possible Invasions: 1
+[06Jul2024 06:56:08.161] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 28, Max Possible Invasions: 1
+[06Jul2024 07:00:44.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 07:00:44.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
