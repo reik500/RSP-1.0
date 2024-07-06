@@ -2482,3 +2482,19 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 22:50:19.851] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
 [06Jul2024 22:50:49.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
 [06Jul2024 22:50:49.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 22:52:18.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/100.126.227.16:53505] logged in with entity id 111161 at (988.8529661374449, 124.35764508016123, -793.7454664378636)
+[06Jul2024 22:52:18.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 22:52:18.846] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 22:52:41.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 22:52:41.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 22:54:16.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/100.126.227.16:53539] logged in with entity id 111879 at (1013.6184478674526, 124.5076450861217, -798.5723523680027)
+[06Jul2024 22:54:17.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 22:54:17.025] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 22:57:49.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 22:58:20.865] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 11, Max Possible Invasions: 1
+[06Jul2024 22:58:20.865] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 11, Max Possible Invasions: 1
+[06Jul2024 22:58:20.865] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 11, Max Possible Invasions: 1
+[06Jul2024 22:58:20.866] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 11, Max Possible Invasions: 1
+[06Jul2024 22:58:38.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [The Desert Swimmers]
+[06Jul2024 23:00:12.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2024 23:00:18.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
