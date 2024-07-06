@@ -659,3 +659,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 05:26:08.159] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 24, Max Possible Invasions: 1
 [06Jul2024 05:26:08.160] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 24, Max Possible Invasions: 1
 [06Jul2024 05:26:08.160] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 24, Max Possible Invasions: 1
+[06Jul2024 05:36:08.160] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 24, Max Possible Invasions: 1
+[06Jul2024 05:36:08.160] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 24, Max Possible Invasions: 1
+[06Jul2024 05:36:08.160] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 24, Max Possible Invasions: 1
+[06Jul2024 05:36:08.161] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 24, Max Possible Invasions: 1
