@@ -1,171 +1,102 @@
-[05Jul2024 01:23:23.092] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[05Jul2024 01:23:23.095] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
-[05Jul2024 01:23:23.626] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Jul2024 01:23:23.681] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RSP-1.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Jul2024 01:23:24.113] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
-[05Jul2024 01:23:24.115] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[05Jul2024 01:23:24.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[05Jul2024 01:23:24.125] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[05Jul2024 01:23:24.363] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[05Jul2024 01:23:28.021] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Jul2024 01:23:28.213] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[05Jul2024 01:23:28.246] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jul2024 01:23:28.445] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.20.1: 83 options available, 0 override(s) found
-[05Jul2024 01:23:28.446] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[05Jul2024 01:23:28.471] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[05Jul2024 01:23:28.500] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jul2024 01:23:31.477] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[05Jul2024 01:23:31.478] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[05Jul2024 01:23:31.679] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[05Jul2024 01:23:33.051] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (13.27 s after launch)
-[05Jul2024 01:23:33.330] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[05Jul2024 01:23:33.334] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[05Jul2024 01:23:36.030] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2970 milliseconds
-[05Jul2024 01:23:41.798] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[05Jul2024 01:23:41.799] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[05Jul2024 01:23:41.800] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
-[05Jul2024 01:23:42.586] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Jul2024 01:23:42.589] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[05Jul2024 01:23:42.592] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[05Jul2024 01:23:42.597] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[05Jul2024 01:23:42.598] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[05Jul2024 01:23:42.605] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[05Jul2024 01:23:42.606] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[05Jul2024 01:23:42.607] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[05Jul2024 01:23:44.015] [modloading-worker-0/INFO] [puresuffering/]: Registered all event buses.
-[05Jul2024 01:23:44.022] [modloading-worker-0/INFO] [puresuffering/]: Created custom registries.
-[05Jul2024 01:23:44.027] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RSP-1.0/servidor_minecraft/config/puresuffering/puresuffering-common.toml is not correct. Correcting
-[05Jul2024 01:23:44.028] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:23:44.028] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.overrideGameRules was corrected from null to its default, false. 
-[05Jul2024 01:23:44.029] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:23:44.029] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.enableHyperInvasions was corrected from null to its default, true. 
-[05Jul2024 01:23:44.030] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.enableNightmareInvasions was corrected from null to its default, true. 
-[05Jul2024 01:23:44.031] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.invasionAntiGrief was corrected from null to its default, false. 
-[05Jul2024 01:23:44.032] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.consistentInvasions was corrected from null to its default, false. 
-[05Jul2024 01:23:44.032] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.tieredInvasions was corrected from null to its default, true. 
-[05Jul2024 01:23:44.033] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.hyperAggression was corrected from null to its default, true. 
-[05Jul2024 01:23:44.033] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.hyperCharge was corrected from null to its default, true. 
-[05Jul2024 01:23:44.034] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.forceInvasionSleeplessness was corrected from null to its default, false. 
-[05Jul2024 01:23:44.034] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.useXPMultiplier was corrected from null to its default, true. 
-[05Jul2024 01:23:44.035] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.mobsDieAtEndOfInvasions was corrected from null to its default, false. 
-[05Jul2024 01:23:44.035] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.weakenedInvasionVexes was corrected from null to its default, true. 
-[05Jul2024 01:23:44.036] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Boolean.enableInvasionAmbience was corrected from null to its default, true. 
-[05Jul2024 01:23:44.036] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Integer was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:23:44.037] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Integer.primaryInvasionMobCap was corrected from null to its default, 100. 
-[05Jul2024 01:23:44.037] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key GameRules.Integer.secondaryInvasionMobCap was corrected from null to its default, 25. 
-[05Jul2024 01:23:44.045] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:23:44.046] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.invasionBlacklist was corrected from null to its default, []. 
-[05Jul2024 01:23:44.046] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.primaryWhitelist was corrected from null to its default, []. 
-[05Jul2024 01:23:44.047] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.overworldLikeDimensions was corrected from null to its default, []. 
-[05Jul2024 01:23:44.047] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.netherLikeDimensions was corrected from null to its default, []. 
-[05Jul2024 01:23:44.048] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.endLikeDimensions was corrected from null to its default, []. 
-[05Jul2024 01:23:44.049] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.hyperAggressionBlacklist was corrected from null to its default, [minecraft:vex]. 
-[05Jul2024 01:23:44.049] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.hyperChargeBlacklist was corrected from null to its default, [minecraft:vex]. 
-[05Jul2024 01:23:44.050] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.modBiomeBoostedBlacklist was corrected from null to its default, []. 
-[05Jul2024 01:23:44.051] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.mobBiomeBoostedBlacklist was corrected from null to its default, []. 
-[05Jul2024 01:23:44.052] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.naturalSpawnChance was corrected from null to its default, 5.0E-4. 
-[05Jul2024 01:23:44.053] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.hyperChargeChance was corrected from null to its default, 0.2. 
-[05Jul2024 01:23:44.055] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.blessingEffectRespawnDuration was corrected from null to its default, 400. 
-[05Jul2024 01:23:44.055] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Invasions.blessingEffectDimensionChangeDuration was corrected from null to its default, 200. 
-[05Jul2024 01:23:44.058] [modloading-worker-0/INFO] [puresuffering/]: Created mod config.
-[05Jul2024 01:23:44.165] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
-[05Jul2024 01:23:44.166] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
-[05Jul2024 01:23:44.236] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[05Jul2024 01:23:49.517] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
-[05Jul2024 01:23:49.786] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RSP-1.0/servidor_minecraft/config/tacz-common.toml is not correct. Correcting
-[05Jul2024 01:23:49.787] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gun was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:23:49.787] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gun.DefaultGunFireSoundDistance was corrected from null to its default, 64. 
-[05Jul2024 01:23:49.787] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gun.DefaultGunOtherSoundDistance was corrected from null to its default, 16. 
-[05Jul2024 01:23:49.792] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gun.CreativePlayerConsumeAmmo was corrected from null to its default, true. 
-[05Jul2024 01:23:49.793] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key gun.AutoReloadWhenRespawn was corrected from null to its default, false. 
-[05Jul2024 01:23:49.794] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ammo was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:23:49.794] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ammo.ExplosiveAmmoDestroysBlocks was corrected from null to its default, false. 
-[05Jul2024 01:23:49.795] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ammo.ExplosiveAmmoFire was corrected from null to its default, false. 
-[05Jul2024 01:23:49.795] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ammo.ExplosiveAmmoKnockBack was corrected from null to its default, true. 
-[05Jul2024 01:23:49.796] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ammo.ExplosiveAmmoVisibleDistance was corrected from null to its default, 192. 
-[05Jul2024 01:23:49.796] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ammo.PassThroughBlocks was corrected from null to its default, []. 
-[05Jul2024 01:23:49.797] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ammo.DestroyGlass was corrected from null to its default, true. 
-[05Jul2024 01:23:49.797] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ammo.IgniteBlock was corrected from null to its default, true. 
-[05Jul2024 01:23:49.798] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ammo.IgniteEntity was corrected from null to its default, true. 
-[05Jul2024 01:23:49.799] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key other was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:23:49.799] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key other.DefaultPackDebug was corrected from null to its default, false. 
-[05Jul2024 01:23:49.800] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key other.TargetSoundDistance was corrected from null to its default, 128. 
-[05Jul2024 01:23:49.801] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key other.ServerHitboxOffset was corrected from null to its default, 3.0. 
-[05Jul2024 01:23:49.801] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key other.ServerHitboxLatencyFix was corrected from null to its default, true. 
-[05Jul2024 01:23:49.802] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key other.ServerHitboxLatencyMaxSaveMs was corrected from null to its default, 1000.0. 
-[05Jul2024 01:23:49.803] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key other.ClientGunPackDownloadUrls was corrected from null to its default, []. 
-[05Jul2024 01:23:50.063] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[05Jul2024 01:23:50.064] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[05Jul2024 01:23:50.064] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[05Jul2024 01:23:50.064] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[05Jul2024 01:23:50.064] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[05Jul2024 01:23:50.545] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[05Jul2024 01:23:50.597] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[05Jul2024 01:23:50.660] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[05Jul2024 01:23:50.749] [modloading-worker-0/INFO] [puresuffering/]: Finished common setup.
-[05Jul2024 01:23:50.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[05Jul2024 01:23:51.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.2 Target: null
-[05Jul2024 01:23:51.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
-[05Jul2024 01:23:51.119] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[05Jul2024 01:23:51.120] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[05Jul2024 01:23:51.120] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[05Jul2024 01:23:51.121] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[05Jul2024 01:23:51.122] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[05Jul2024 01:23:51.122] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[05Jul2024 01:23:51.122] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[05Jul2024 01:23:51.152] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[05Jul2024 01:23:51.155] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[05Jul2024 01:23:51.156] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[05Jul2024 01:23:51.158] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[05Jul2024 01:23:51.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
-[05Jul2024 01:23:51.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[05Jul2024 01:23:51.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.14 Target: null
-[05Jul2024 01:23:51.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[05Jul2024 01:23:51.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.6.6 Target: null
-[05Jul2024 01:23:51.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
-[05Jul2024 01:23:51.284] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[05Jul2024 01:23:51.285] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[05Jul2024 01:23:51.309] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[05Jul2024 01:23:51.309] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[05Jul2024 01:23:51.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
-[05Jul2024 01:23:51.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puresuffering] Starting version check at https://raw.githubusercontent.com/TheAGamePlayer/The-Pure-Suffering-Mod/main/update.json
-[05Jul2024 01:23:51.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puresuffering] Found status: UP_TO_DATE Current: 1.6.0.4R Target: null
-[05Jul2024 01:23:51.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Starting version check at https://infernalstudios.org/api/mods/shieldexpansion/forge
-[05Jul2024 01:23:51.501] [modloading-worker-0/INFO] [digidigi.mtmechs.MagitekMechs/]: Got IMC []
-[05Jul2024 01:23:51.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Found status: BETA Current: 1.1.7a Target: null
-[05Jul2024 01:23:51.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Jul2024 01:23:51.594] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[05Jul2024 01:23:51.658] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[05Jul2024 01:23:51.674] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[05Jul2024 01:23:51.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
-[05Jul2024 01:23:51.682] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[05Jul2024 01:23:51.683] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[05Jul2024 01:23:52.299] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
-[05Jul2024 01:23:52.304] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
-[05Jul2024 01:23:52.304] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
-[05Jul2024 01:23:52.342] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Jul2024 01:23:52.552] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[05Jul2024 01:23:52.829] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: tacz:gun_smith_table Expected: 1846 Got: 2594
-[05Jul2024 01:23:52.830] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: tacz:target Expected: 1847 Got: 2595
-[05Jul2024 01:23:52.831] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: tacz:modern_kinetic_gun Expected: 2021 Got: 3728
-[05Jul2024 01:23:52.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: tacz:ammo Expected: 2022 Got: 3729
-[05Jul2024 01:23:52.833] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: tacz:attachment Expected: 2023 Got: 3730
-[05Jul2024 01:23:52.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: tacz:gun_smith_table Expected: 2024 Got: 3731
-[05Jul2024 01:23:52.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: tacz:target Expected: 2025 Got: 3732
-[05Jul2024 01:23:52.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: tacz:ammo_box Expected: 2026 Got: 3733
-[05Jul2024 01:23:52.836] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: tacz:target_minecart Expected: 2027 Got: 3734
-[05Jul2024 01:23:52.837] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: tacz:gun Expected: 1644 Got: 1855
-[05Jul2024 01:23:52.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: tacz:target_block_hit Expected: 1645 Got: 1856
-[05Jul2024 01:23:52.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: puresuffering:inform_invasion Expected: 1861 Got: 2026
-[05Jul2024 01:23:52.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: puresuffering:invasion_ambience Expected: 1862 Got: 2027
-[05Jul2024 01:23:52.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: tacz:bullet Expected: 155 Got: 381
-[05Jul2024 01:23:52.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: tacz:target_minecart Expected: 156 Got: 382
-[05Jul2024 01:23:53.028] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/assets/.mcassetsroot' uses unexpected schema
-[05Jul2024 01:23:53.030] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/data/.mcassetsroot' uses unexpected schema
-[05Jul2024 01:23:53.587] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[05Jul2024 01:23:56.272] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [cataclysm:maledictus (from L_Enders_Cataclysm-1.99.5 -1.20.1.jar)] as it is missing following references: cataclysm:maledictus (from L_Enders_Cataclysm-1.99.5 -1.20.1.jar)
-[05Jul2024 01:23:56.385] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.6.jar
-[05Jul2024 01:23:57.241] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
+[06Jul2024 02:04:54.324] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[06Jul2024 02:04:54.329] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
+[06Jul2024 02:04:57.624] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Jul2024 02:04:57.750] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RSP-1.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Jul2024 02:04:58.296] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[06Jul2024 02:04:58.297] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[06Jul2024 02:04:58.298] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[06Jul2024 02:04:58.300] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[06Jul2024 02:04:58.616] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[06Jul2024 02:05:02.490] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Jul2024 02:05:02.663] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[06Jul2024 02:05:02.759] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Jul2024 02:05:02.993] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.20.1: 83 options available, 0 override(s) found
+[06Jul2024 02:05:02.994] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[06Jul2024 02:05:03.026] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[06Jul2024 02:05:03.059] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Jul2024 02:05:06.318] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[06Jul2024 02:05:06.318] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[06Jul2024 02:05:06.616] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[06Jul2024 02:05:08.179] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (19.42 s after launch)
+[06Jul2024 02:05:08.507] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06Jul2024 02:05:08.508] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06Jul2024 02:05:12.282] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 4099 milliseconds
+[06Jul2024 02:05:19.817] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[06Jul2024 02:05:19.824] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[06Jul2024 02:05:19.825] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[06Jul2024 02:05:20.504] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Jul2024 02:05:20.507] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[06Jul2024 02:05:20.512] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[06Jul2024 02:05:20.514] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[06Jul2024 02:05:20.516] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[06Jul2024 02:05:20.517] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[06Jul2024 02:05:20.519] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[06Jul2024 02:05:20.521] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[06Jul2024 02:05:22.129] [modloading-worker-0/INFO] [puresuffering/]: Registered all event buses.
+[06Jul2024 02:05:22.130] [modloading-worker-0/INFO] [puresuffering/]: Created custom registries.
+[06Jul2024 02:05:22.133] [modloading-worker-0/INFO] [puresuffering/]: Config directory for puresuffering already exists!
+[06Jul2024 02:05:22.137] [modloading-worker-0/INFO] [puresuffering/]: Created mod config.
+[06Jul2024 02:05:22.284] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[06Jul2024 02:05:22.284] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[06Jul2024 02:05:22.347] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[06Jul2024 02:05:28.234] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[06Jul2024 02:05:28.752] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[06Jul2024 02:05:28.778] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06Jul2024 02:05:28.778] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06Jul2024 02:05:28.779] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[06Jul2024 02:05:28.780] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[06Jul2024 02:05:28.781] [modloading-worker-0/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[06Jul2024 02:05:29.131] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[06Jul2024 02:05:29.182] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[06Jul2024 02:05:29.279] [modloading-worker-0/INFO] [puresuffering/]: Finished common setup.
+[06Jul2024 02:05:29.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[06Jul2024 02:05:29.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.2 Target: null
+[06Jul2024 02:05:29.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[06Jul2024 02:05:29.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3 Target: 1.3+mod
+[06Jul2024 02:05:29.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[06Jul2024 02:05:29.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.14 Target: null
+[06Jul2024 02:05:29.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06Jul2024 02:05:29.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.6.6 Target: null
+[06Jul2024 02:05:29.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[06Jul2024 02:05:29.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[06Jul2024 02:05:29.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puresuffering] Starting version check at https://raw.githubusercontent.com/TheAGamePlayer/The-Pure-Suffering-Mod/main/update.json
+[06Jul2024 02:05:29.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puresuffering] Found status: UP_TO_DATE Current: 1.6.0.4R Target: null
+[06Jul2024 02:05:29.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Starting version check at https://infernalstudios.org/api/mods/shieldexpansion/forge
+[06Jul2024 02:05:30.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Found status: BETA Current: 1.1.7a Target: null
+[06Jul2024 02:05:30.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Jul2024 02:05:30.220] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[06Jul2024 02:05:30.221] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[06Jul2024 02:05:30.221] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[06Jul2024 02:05:30.222] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[06Jul2024 02:05:30.222] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[06Jul2024 02:05:30.222] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[06Jul2024 02:05:30.223] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[06Jul2024 02:05:30.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[06Jul2024 02:05:30.263] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[06Jul2024 02:05:30.263] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[06Jul2024 02:05:30.271] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[06Jul2024 02:05:30.271] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[06Jul2024 02:05:30.362] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[06Jul2024 02:05:30.362] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[06Jul2024 02:05:30.387] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[06Jul2024 02:05:30.387] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[06Jul2024 02:05:30.569] [modloading-worker-0/INFO] [digidigi.mtmechs.MagitekMechs/]: Got IMC []
+[06Jul2024 02:05:30.669] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[06Jul2024 02:05:30.702] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[06Jul2024 02:05:30.727] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[06Jul2024 02:05:30.731] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[06Jul2024 02:05:30.732] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[06Jul2024 02:05:31.376] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[06Jul2024 02:05:31.385] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[06Jul2024 02:05:31.388] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[06Jul2024 02:05:31.436] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Jul2024 02:05:31.572] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[06Jul2024 02:05:32.011] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/assets/.mcassetsroot' uses unexpected schema
+[06Jul2024 02:05:32.012] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RSP-1.0/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/data/.mcassetsroot' uses unexpected schema
+[06Jul2024 02:05:32.498] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[06Jul2024 02:05:35.418] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.6.jar
+[06Jul2024 02:05:35.614] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [cataclysm:maledictus (from L_Enders_Cataclysm-1.99.5 -1.20.1.jar)] as it is missing following references: cataclysm:maledictus (from L_Enders_Cataclysm-1.99.5 -1.20.1.jar)
+[06Jul2024 02:05:36.470] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'redeco:soul_terrarium'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -217,7 +148,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jul2024 01:23:57.421] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+[06Jul2024 02:05:36.672] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -269,111 +200,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jul2024 01:24:00.359] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
-[05Jul2024 01:24:00.471] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[05Jul2024 01:24:00.493] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
-[05Jul2024 01:24:00.501] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts: com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
-[05Jul2024 01:24:00.562] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe miningmaster:forging/paragon_shield: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'miningmaster:forging_recipe'
-[05Jul2024 01:24:00.571] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
-[05Jul2024 01:24:00.572] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[05Jul2024 01:24:00.575] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe shieldexp:griefer_shield: com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof_plating'
-[05Jul2024 01:24:00.579] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[05Jul2024 01:24:00.580] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
-[05Jul2024 01:24:00.809] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2668 advancements
-[05Jul2024 01:24:00.837] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[05Jul2024 01:24:00.843] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[05Jul2024 01:24:00.854] [main/INFO] [puresuffering/]: Loaded 20 invasion types
-[05Jul2024 01:24:00.861] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
-[05Jul2024 01:24:01.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Jul2024 01:24:01.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Jul2024 01:24:01.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Jul2024 01:24:01.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Jul2024 01:24:01.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Jul2024 01:24:01.277] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Jul2024 01:24:01.366] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Jul2024 01:24:01.366] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Jul2024 01:24:01.369] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Jul2024 01:24:01.369] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Jul2024 01:24:01.387] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/tacz-server.toml is not correct. Correcting
-[05Jul2024 01:24:01.389] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:24:01.389] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key.InteractKeyWhitelistBlocks was corrected from null to its default, []. 
-[05Jul2024 01:24:01.390] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key.InteractKeyWhitelistEntities was corrected from null to its default, []. 
-[05Jul2024 01:24:01.391] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key.InteractKeyBlacklistBlocks was corrected from null to its default, []. 
-[05Jul2024 01:24:01.391] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key.InteractKeyBlacklistEntities was corrected from null to its default, []. 
-[05Jul2024 01:24:01.393] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key base_multiplier was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:24:01.393] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key base_multiplier.DamageBaseMultiplier was corrected from null to its default, 1.0. 
-[05Jul2024 01:24:01.394] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key base_multiplier.ArmorIgnoreBaseMultiplier was corrected from null to its default, 1.0. 
-[05Jul2024 01:24:01.396] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key base_multiplier.HeadShotBaseMultiplier was corrected from null to its default, 1.0. 
-[05Jul2024 01:24:01.397] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
-[05Jul2024 01:24:01.399] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.HeadShotAABB was corrected from null to its default, []. 
-[05Jul2024 01:24:01.400] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.AmmoBoxStackSize was corrected from null to its default, 5. 
-[05Jul2024 01:24:01.404] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.ClientGunPackDownloadUrls was corrected from null to its default, []. 
-[05Jul2024 01:24:01.659] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[05Jul2024 01:24:02.102] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[05Jul2024 01:24:02.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Jul2024 01:24:03.107] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
-[05Jul2024 01:24:03.107] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
-[05Jul2024 01:24:03.109] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
-[05Jul2024 01:24:03.212] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[05Jul2024 01:24:03.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Jul2024 01:24:03.277] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 63 ms
-[05Jul2024 01:24:03.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.893s)! For help, type "help"
-[05Jul2024 01:24:03.359] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Jul2024 01:24:03.371] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RSP-1.0/servidor_minecraft/config/puresuffering/dimensions/minecraft_overworld-level.toml is not correct. Correcting
-[05Jul2024 01:24:03.372] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dayInvasionRarity was corrected from null to its default, 21. 
-[05Jul2024 01:24:03.373] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cancelableDayInvasions was corrected from null to its default, true. 
-[05Jul2024 01:24:03.373] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dayCancelInvasionRarity was corrected from null to its default, 84. 
-[05Jul2024 01:24:03.374] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxDayInvasions was corrected from null to its default, 3. 
-[05Jul2024 01:24:03.376] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dayTierIncreaseDelay was corrected from null to its default, 50. 
-[05Jul2024 01:24:03.376] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightInvasionRarity was corrected from null to its default, 3. 
-[05Jul2024 01:24:03.377] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cancelableNightInvasions was corrected from null to its default, true. 
-[05Jul2024 01:24:03.379] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightCancelInvasionRarity was corrected from null to its default, 12. 
-[05Jul2024 01:24:03.379] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxNightInvasions was corrected from null to its default, 3. 
-[05Jul2024 01:24:03.380] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightTierIncreaseDelay was corrected from null to its default, 30. 
-[05Jul2024 01:24:03.381] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hyperInvasionRarity was corrected from null to its default, 12. 
-[05Jul2024 01:24:03.382] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightmareInvasionRarity was corrected from null to its default, 5. 
-[05Jul2024 01:24:03.389] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RSP-1.0/servidor_minecraft/config/puresuffering/dimensions/minecraft_the_nether-level.toml is not correct. Correcting
-[05Jul2024 01:24:03.389] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fixedInvasionRarity was corrected from null to its default, 8. 
-[05Jul2024 01:24:03.390] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cancelableFixedInvasions was corrected from null to its default, true. 
-[05Jul2024 01:24:03.391] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fixedCancelInvasionRarity was corrected from null to its default, 32. 
-[05Jul2024 01:24:03.392] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxFixedInvasions was corrected from null to its default, 3. 
-[05Jul2024 01:24:03.394] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fixedTierIncreaseDelay was corrected from null to its default, 40. 
-[05Jul2024 01:24:03.396] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hyperInvasionRarity was corrected from null to its default, 12. 
-[05Jul2024 01:24:03.398] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightmareInvasionRarity was corrected from null to its default, 5. 
-[05Jul2024 01:24:03.419] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RSP-1.0/servidor_minecraft/config/puresuffering/dimensions/lostcities_lostcity-level.toml is not correct. Correcting
-[05Jul2024 01:24:03.420] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dayInvasionRarity was corrected from null to its default, 21. 
-[05Jul2024 01:24:03.422] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cancelableDayInvasions was corrected from null to its default, true. 
-[05Jul2024 01:24:03.423] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dayCancelInvasionRarity was corrected from null to its default, 84. 
-[05Jul2024 01:24:03.424] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxDayInvasions was corrected from null to its default, 3. 
-[05Jul2024 01:24:03.425] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dayTierIncreaseDelay was corrected from null to its default, 50. 
-[05Jul2024 01:24:03.427] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightInvasionRarity was corrected from null to its default, 3. 
-[05Jul2024 01:24:03.428] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cancelableNightInvasions was corrected from null to its default, true. 
-[05Jul2024 01:24:03.429] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightCancelInvasionRarity was corrected from null to its default, 12. 
-[05Jul2024 01:24:03.430] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxNightInvasions was corrected from null to its default, 3. 
-[05Jul2024 01:24:03.431] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightTierIncreaseDelay was corrected from null to its default, 30. 
-[05Jul2024 01:24:03.433] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hyperInvasionRarity was corrected from null to its default, 12. 
-[05Jul2024 01:24:03.434] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightmareInvasionRarity was corrected from null to its default, 5. 
-[05Jul2024 01:24:03.436] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RSP-1.0/servidor_minecraft/config/puresuffering/dimensions/minecraft_the_end-level.toml is not correct. Correcting
-[05Jul2024 01:24:03.436] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fixedInvasionRarity was corrected from null to its default, 8. 
-[05Jul2024 01:24:03.438] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cancelableFixedInvasions was corrected from null to its default, true. 
-[05Jul2024 01:24:03.439] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fixedCancelInvasionRarity was corrected from null to its default, 32. 
-[05Jul2024 01:24:03.439] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxFixedInvasions was corrected from null to its default, 3. 
-[05Jul2024 01:24:03.440] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fixedTierIncreaseDelay was corrected from null to its default, 40. 
-[05Jul2024 01:24:03.441] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hyperInvasionRarity was corrected from null to its default, 10. 
-[05Jul2024 01:24:03.443] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key nightmareInvasionRarity was corrected from null to its default, 4. 
-[05Jul2024 01:24:03.447] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[05Jul2024 01:24:03.448] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[05Jul2024 01:24:03.450] [Server thread/WARN] [ModernFix/]: Dedicated server took 43.673 seconds to load
-[05Jul2024 01:24:03.627] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 7, Max Possible Invasions: 1
-[05Jul2024 01:24:03.628] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
-[05Jul2024 01:24:03.631] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:zombie - 1
-[05Jul2024 01:24:03.631] [Server thread/INFO] [puresuffering/]: ]
-[05Jul2024 01:24:03.869] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 7, Max Possible Invasions: 1
-[05Jul2024 01:24:03.869] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 7, Max Possible Invasions: 1
-[05Jul2024 01:24:03.870] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 7, Max Possible Invasions: 1
-[05Jul2024 01:24:27.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:45901] logged in with entity id 482 at (-160.19679007771276, 81.0, -50.8407772878465)
-[05Jul2024 01:24:27.409] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/resources/sounds/AbstractTickableSoundInstance for class digidigi/mtmechs/sound/MAStepSoundInstance in classloader cpw.mods.modlauncher.TransformingClassLoader@2415e4c7 on thread Thread[#48,Server thread,5,SERVER]
-[05Jul2024 01:24:27.412] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[06Jul2024 02:05:39.229] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
+[06Jul2024 02:05:39.333] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[06Jul2024 02:05:39.355] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
+[06Jul2024 02:05:39.372] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts: com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
+[06Jul2024 02:05:39.425] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe miningmaster:forging/paragon_shield: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'miningmaster:forging_recipe'
+[06Jul2024 02:05:39.438] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
+[06Jul2024 02:05:39.444] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[06Jul2024 02:05:39.449] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe shieldexp:griefer_shield: com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof_plating'
+[06Jul2024 02:05:39.452] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[06Jul2024 02:05:39.452] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
+[06Jul2024 02:05:39.676] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2668 advancements
+[06Jul2024 02:05:39.698] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[06Jul2024 02:05:39.703] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[06Jul2024 02:05:39.718] [main/INFO] [puresuffering/]: Loaded 20 invasion types
+[06Jul2024 02:05:39.724] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[06Jul2024 02:05:39.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Jul2024 02:05:39.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Jul2024 02:05:39.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Jul2024 02:05:39.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Jul2024 02:05:40.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Jul2024 02:05:40.382] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Jul2024 02:05:40.486] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Jul2024 02:05:40.487] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Jul2024 02:05:40.487] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Jul2024 02:05:40.487] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Jul2024 02:05:41.472] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06Jul2024 02:05:41.473] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[06Jul2024 02:05:41.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Jul2024 02:05:42.525] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
+[06Jul2024 02:05:42.526] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
+[06Jul2024 02:05:42.527] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
+[06Jul2024 02:05:42.654] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[06Jul2024 02:05:42.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Jul2024 02:05:42.850] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 195 ms
+[06Jul2024 02:05:42.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.347s)! For help, type "help"
+[06Jul2024 02:05:42.909] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Jul2024 02:05:42.916] [Server thread/INFO] [puresuffering/]: Config directory for puresuffering dimensions already exists!
+[06Jul2024 02:05:42.955] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[06Jul2024 02:05:42.955] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[06Jul2024 02:05:42.957] [Server thread/WARN] [ModernFix/]: Dedicated server took 54.2 seconds to load
+[06Jul2024 02:11:08.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:51479] logged in with entity id 477 at (-96.5089369889551, 97.0, -228.74223253748607)
+[06Jul2024 02:11:08.730] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/resources/sounds/AbstractTickableSoundInstance for class digidigi/mtmechs/sound/MAStepSoundInstance in classloader cpw.mods.modlauncher.TransformingClassLoader@2415e4c7 on thread Thread[#48,Server thread,5,SERVER]
+[06Jul2024 02:11:08.731] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.AbstractTickableSoundInstance
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -411,10 +280,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Jul2024 01:24:27.415] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class digidigi/mtmechs/sound/MAStepSoundInstance for invalid dist DEDICATED_SERVER
-[05Jul2024 01:24:27.417] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for digidigi.mtmechs.entity.MagitekArmorEntity: java.lang.RuntimeException: Attempted to load class digidigi/mtmechs/sound/MAStepSoundInstance for invalid dist DEDICATED_SERVER
-[05Jul2024 01:24:27.429] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/resources/sounds/AbstractTickableSoundInstance for class digidigi/mtmechs/sound/GrindingSoundInstance in classloader cpw.mods.modlauncher.TransformingClassLoader@2415e4c7 on thread Thread[#48,Server thread,5,SERVER]
-[05Jul2024 01:24:27.430] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[06Jul2024 02:11:08.736] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class digidigi/mtmechs/sound/MAStepSoundInstance for invalid dist DEDICATED_SERVER
+[06Jul2024 02:11:08.737] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for digidigi.mtmechs.entity.MagitekArmorEntity: java.lang.RuntimeException: Attempted to load class digidigi/mtmechs/sound/MAStepSoundInstance for invalid dist DEDICATED_SERVER
+[06Jul2024 02:11:08.754] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/resources/sounds/AbstractTickableSoundInstance for class digidigi/mtmechs/sound/GrindingSoundInstance in classloader cpw.mods.modlauncher.TransformingClassLoader@2415e4c7 on thread Thread[#48,Server thread,5,SERVER]
+[06Jul2024 02:11:08.754] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.AbstractTickableSoundInstance
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -452,10 +321,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Jul2024 01:24:27.434] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class digidigi/mtmechs/sound/GrindingSoundInstance for invalid dist DEDICATED_SERVER
-[05Jul2024 01:24:27.436] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for digidigi.mtmechs.entity.TunnelArmorEntity: java.lang.RuntimeException: Attempted to load class digidigi/mtmechs/sound/GrindingSoundInstance for invalid dist DEDICATED_SERVER
-[05Jul2024 01:24:27.443] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/resources/sounds/AbstractTickableSoundInstance for class digidigi/mtmechs/sound/PAStepSoundInstance in classloader cpw.mods.modlauncher.TransformingClassLoader@2415e4c7 on thread Thread[#48,Server thread,5,SERVER]
-[05Jul2024 01:24:27.448] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[06Jul2024 02:11:08.757] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class digidigi/mtmechs/sound/GrindingSoundInstance for invalid dist DEDICATED_SERVER
+[06Jul2024 02:11:08.757] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for digidigi.mtmechs.entity.TunnelArmorEntity: java.lang.RuntimeException: Attempted to load class digidigi/mtmechs/sound/GrindingSoundInstance for invalid dist DEDICATED_SERVER
+[06Jul2024 02:11:08.762] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/resources/sounds/AbstractTickableSoundInstance for class digidigi/mtmechs/sound/PAStepSoundInstance in classloader cpw.mods.modlauncher.TransformingClassLoader@2415e4c7 on thread Thread[#48,Server thread,5,SERVER]
+[06Jul2024 02:11:08.769] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.AbstractTickableSoundInstance
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -493,191 +362,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Jul2024 01:24:27.453] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class digidigi/mtmechs/sound/PAStepSoundInstance for invalid dist DEDICATED_SERVER
-[05Jul2024 01:24:27.456] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for digidigi.mtmechs.entity.ProtoArmorEntity: java.lang.RuntimeException: Attempted to load class digidigi/mtmechs/sound/PAStepSoundInstance for invalid dist DEDICATED_SERVER
-[05Jul2024 01:24:27.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
-[05Jul2024 01:24:27.743] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
-[05Jul2024 01:24:30.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[05Jul2024 01:24:48.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2582ms or 51 ticks behind
-[05Jul2024 01:25:01.263] [Worker-Main-8/INFO] [ModernFix/]: Instantiating Mojang DFU
-[05Jul2024 01:26:54.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Spore]
-[05Jul2024 01:27:46.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/2112, l='ServerLevel[world]', x=-195.21, y=31.00, z=-78.60] died: hacie was slain by Zombie
-[05Jul2024 01:28:22.810] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 8, Max Possible Invasions: 1
-[05Jul2024 01:28:22.811] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1
-[05Jul2024 01:28:22.811] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 8, Max Possible Invasions: 1
-[05Jul2024 01:28:22.812] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 8, Max Possible Invasions: 1
-[05Jul2024 01:28:22.812] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
-[05Jul2024 01:28:22.812] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
-[05Jul2024 01:28:22.812] [Server thread/INFO] [puresuffering/]: ]
-[05Jul2024 01:29:32.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Stone Age]
-[05Jul2024 01:30:23.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Getting an Upgrade]
-[05Jul2024 01:38:22.809] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 8, Max Possible Invasions: 1
-[05Jul2024 01:38:22.810] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 8, Max Possible Invasions: 1
-[05Jul2024 01:38:22.810] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 8, Max Possible Invasions: 1
-[05Jul2024 01:38:22.810] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 8, Max Possible Invasions: 1
-[05Jul2024 01:39:20.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Acquire Hardware]
-[05Jul2024 01:39:55.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Isn't It Iron Pick]
-[05Jul2024 01:48:22.809] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 9, Max Possible Invasions: 1
-[05Jul2024 01:48:22.810] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 9, Max Possible Invasions: 1
-[05Jul2024 01:48:22.810] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 9, Max Possible Invasions: 1
-[05Jul2024 01:48:22.811] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 9, Max Possible Invasions: 1
-[05Jul2024 01:58:22.811] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 9, Max Possible Invasions: 1
-[05Jul2024 01:58:22.811] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 9, Max Possible Invasions: 1
-[05Jul2024 01:58:22.812] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 9, Max Possible Invasions: 1
-[05Jul2024 01:58:22.812] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 9, Max Possible Invasions: 1
-[05Jul2024 02:03:05.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Diamonds!]
-[05Jul2024 02:05:49.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Monster Hunter]
-[05Jul2024 02:08:22.813] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 10, Max Possible Invasions: 1
-[05Jul2024 02:08:22.815] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 10, Max Possible Invasions: 1
-[05Jul2024 02:08:22.815] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 10, Max Possible Invasions: 1
-[05Jul2024 02:08:22.816] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 10, Max Possible Invasions: 1
-[05Jul2024 02:11:09.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [A Strange Grave Dust]
-[05Jul2024 02:15:46.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/31117, l='ServerLevel[world]', x=-115.62, y=-27.00, z=-174.24] died: Keymind was slain by Zombie
-[05Jul2024 02:18:22.813] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 10, Max Possible Invasions: 1
-[05Jul2024 02:18:22.813] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
-[05Jul2024 02:18:22.814] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
-[05Jul2024 02:18:22.814] [Server thread/INFO] [puresuffering/]: ]
-[05Jul2024 02:18:22.814] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 10, Max Possible Invasions: 1
-[05Jul2024 02:18:22.815] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 10, Max Possible Invasions: 1
-[05Jul2024 02:18:22.815] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
-[05Jul2024 02:18:22.815] [Server thread/INFO] [puresuffering/]: ]
-[05Jul2024 02:18:22.815] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 10, Max Possible Invasions: 1
-[05Jul2024 02:24:33.762] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/35668, l='ServerLevel[world]', x=-57.50, y=-17.00, z=-92.50]
-[05Jul2024 02:26:06.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was eaten alive by Infected Human
-[05Jul2024 02:26:06.870] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
-[05Jul2024 02:26:06.887] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[05Jul2024 02:26:19.955] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/36614, l='ServerLevel[world]', x=-66.50, y=-24.00, z=-121.50]
-[05Jul2024 02:26:33.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Knowledge of Death]
-[05Jul2024 02:26:33.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Strong or Careful]
-[05Jul2024 02:26:33.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was eaten alive by Infected Human
-[05Jul2024 02:26:33.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Your First Grave]
-[05Jul2024 02:26:53.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was slain by reik
-[05Jul2024 02:26:53.709] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
-[05Jul2024 02:26:53.719] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[05Jul2024 02:27:07.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by reik
-[05Jul2024 02:27:14.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Here They Come]
-[05Jul2024 02:27:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was eaten alive by reik
-[05Jul2024 02:27:27.008] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
-[05Jul2024 02:27:27.018] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[05Jul2024 02:27:36.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Chain Death]
-[05Jul2024 02:27:36.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was eaten alive by reik
-[05Jul2024 02:27:51.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/37518, l='ServerLevel[world]', x=-78.97, y=7.00, z=-71.11] died: reik was slain by reik
-[05Jul2024 02:27:56.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/37650, l='ServerLevel[world]', x=-79.18, y=7.00, z=-71.15] died: reik was slain by reik
-[05Jul2024 02:28:11.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was eaten alive by reik
-[05Jul2024 02:28:11.357] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
-[05Jul2024 02:28:11.365] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[05Jul2024 02:28:14.056] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/38002, l='ServerLevel[world]', x=-70.50, y=-24.00, z=-123.50]
-[05Jul2024 02:28:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was eaten alive by reik
-[05Jul2024 02:28:22.807] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 11, Max Possible Invasions: 1
-[05Jul2024 02:28:22.808] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 11, Max Possible Invasions: 1
-[05Jul2024 02:28:22.808] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
-[05Jul2024 02:28:22.808] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
-[05Jul2024 02:28:22.809] [Server thread/INFO] [puresuffering/]: ]
-[05Jul2024 02:28:22.809] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 11, Max Possible Invasions: 1
-[05Jul2024 02:28:22.809] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 11, Max Possible Invasions: 1
-[05Jul2024 02:28:31.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was eaten alive by reik
-[05Jul2024 02:28:31.706] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
-[05Jul2024 02:28:31.715] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[05Jul2024 02:28:31.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/37508, l='ServerLevel[world]', x=-79.43, y=7.00, z=-71.28] died: reik was slain by reik
-[05Jul2024 02:28:35.960] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/38544, l='ServerLevel[world]', x=-91.50, y=-26.00, z=-144.50]
-[05Jul2024 02:28:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was eaten alive by reik
-[05Jul2024 02:28:46.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/38865, l='ServerLevel[world]', x=-93.50, y=-27.00, z=-149.50]
-[05Jul2024 02:28:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was slain by reik
-[05Jul2024 02:28:46.355] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
-[05Jul2024 02:28:46.365] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[05Jul2024 02:28:50.509] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/38869, l='ServerLevel[world]', x=-94.50, y=-25.00, z=-152.50]
-[05Jul2024 02:28:57.809] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/38877, l='ServerLevel[world]', x=-100.50, y=-27.00, z=-156.50]
-[05Jul2024 02:29:15.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made reik a server operator
-[05Jul2024 02:29:24.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by reik
-[05Jul2024 02:29:30.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[05Jul2024 02:29:43.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/38083, l='ServerLevel[world]', x=-82.98, y=6.00, z=-68.52] died: reik was shot by reik
-[05Jul2024 02:30:02.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['reik'/38546, l='ServerLevel[world]', x=-75.83, y=5.00, z=-70.05] died: reik was shot by reik
-[05Jul2024 02:30:28.457] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/39648, l='ServerLevel[world]', x=-93.50, y=-27.00, z=-149.50]
-[05Jul2024 02:30:35.659] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Air'/39735, l='ServerLevel[world]', x=-85.50, y=-24.00, z=-142.50]
-[05Jul2024 02:30:38.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/39487, l='ServerLevel[world]', x=-84.52, y=6.18, z=-56.73] died: Dany_Why was shot by reik
-[05Jul2024 02:31:01.856] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/39984, l='ServerLevel[world]', x=-49.50, y=-24.00, z=-114.50]
-[05Jul2024 02:31:36.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
-[05Jul2024 02:31:36.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
-[05Jul2024 02:31:48.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/127.170.184.90:59347] logged in with entity id 40462 at (-71.69999998807907, -11.0, -73.8235353702663)
-[05Jul2024 02:31:48.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
-[05Jul2024 02:31:48.103] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
-[05Jul2024 02:31:52.258] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/40747, l='ServerLevel[world]', x=-68.50, y=-25.00, z=-128.50]
-[05Jul2024 02:32:13.208] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/40953, l='ServerLevel[world]', x=-86.50, y=-26.00, z=-143.50]
-[05Jul2024 02:32:54.407] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Deepslate'/41491, l='ServerLevel[world]', x=-74.50, y=-25.00, z=-133.50]
-[05Jul2024 02:33:34.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[05Jul2024 02:34:52.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Suit Up]
-[05Jul2024 02:35:17.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Cover Me with Diamonds]
-[05Jul2024 02:38:22.817] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 11, Max Possible Invasions: 1
-[05Jul2024 02:38:22.818] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 11, Max Possible Invasions: 1
-[05Jul2024 02:38:22.818] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 11, Max Possible Invasions: 1
-[05Jul2024 02:38:22.818] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 11, Max Possible Invasions: 1
-[05Jul2024 02:39:20.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was blown up by Volatile
-[05Jul2024 02:39:20.012] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
-[05Jul2024 02:39:20.025] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[05Jul2024 02:40:19.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was blown up by Volatile
-[05Jul2024 02:40:49.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was eaten alive by Phayres
-[05Jul2024 02:40:49.058] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
-[05Jul2024 02:40:49.064] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[05Jul2024 02:40:50.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[05Jul2024 02:41:37.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was eaten alive by Phayres
-[05Jul2024 02:43:02.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/47394, l='ServerLevel[world]', x=38.94, y=19.00, z=-72.03] died: Whisper was shot by Skeleton
-[05Jul2024 02:43:57.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[05Jul2024 02:44:36.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[05Jul2024 02:44:47.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[05Jul2024 02:48:22.809] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 12, Max Possible Invasions: 1
-[05Jul2024 02:48:22.810] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 12, Max Possible Invasions: 1
-[05Jul2024 02:48:22.811] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 12, Max Possible Invasions: 1
-[05Jul2024 02:48:22.811] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 12, Max Possible Invasions: 1
-[05Jul2024 02:50:49.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/52600, l='ServerLevel[world]', x=-121.62, y=-26.00, z=-181.20] died: ABucketOfFriedChicken was slain by Troll
-[05Jul2024 02:51:43.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Chest Slayer]
-[05Jul2024 02:51:44.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Amateur Archaeologist]
-[05Jul2024 02:52:24.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Stealer of Souls]
-[05Jul2024 02:55:45.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was slain by Infected Drowned
-[05Jul2024 02:55:45.507] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
-[05Jul2024 02:55:45.517] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
-[05Jul2024 02:56:27.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
-[05Jul2024 02:56:45.496] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID 906cb6b0-d351-4d81-be3e-9b933961fd19
-[05Jul2024 02:56:45.505] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -82 Y: -5 Z: -214
-[05Jul2024 02:56:45.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by Infected Drowned
-[05Jul2024 02:57:16.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [The Most Useful Key]
-[05Jul2024 02:57:21.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [A Fast Comeback]
-[05Jul2024 02:57:23.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Easy Opening]
-[05Jul2024 02:58:22.810] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 12, Max Possible Invasions: 1
-[05Jul2024 02:58:22.811] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
-[05Jul2024 02:58:22.812] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:zombie - 1
-[05Jul2024 02:58:22.812] [Server thread/INFO] [puresuffering/]: ]
-[05Jul2024 02:58:22.812] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 12, Max Possible Invasions: 1
-[05Jul2024 02:58:22.812] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 12, Max Possible Invasions: 1
-[05Jul2024 02:58:22.813] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
-[05Jul2024 02:58:22.813] [Server thread/INFO] [puresuffering/]: ]
-[05Jul2024 02:58:22.813] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 12, Max Possible Invasions: 1
-[05Jul2024 02:59:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
-[05Jul2024 02:59:53.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/57357, l='ServerLevel[world]', x=-127.68, y=10.00, z=-285.48] died: WhisperFire26 was slain by Zombie
-[05Jul2024 03:03:26.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
-[05Jul2024 03:03:26.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
-[05Jul2024 03:08:22.802] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 13, Max Possible Invasions: 1
-[05Jul2024 03:08:22.803] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 13, Max Possible Invasions: 1
-[05Jul2024 03:08:22.803] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 13, Max Possible Invasions: 1
-[05Jul2024 03:08:22.803] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 13, Max Possible Invasions: 1
-[05Jul2024 03:18:22.801] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 13, Max Possible Invasions: 1
-[05Jul2024 03:18:22.802] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 13, Max Possible Invasions: 1
-[05Jul2024 03:18:22.802] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
-[05Jul2024 03:18:22.802] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
-[05Jul2024 03:18:22.803] [Server thread/INFO] [puresuffering/]: ]
-[05Jul2024 03:18:22.803] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 13, Max Possible Invasions: 1
-[05Jul2024 03:18:22.803] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 13, Max Possible Invasions: 1
-[05Jul2024 03:18:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[05Jul2024 03:18:57.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: neko afk<--[HERE]
-[05Jul2024 03:19:01.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[05Jul2024 03:19:01.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[05Jul2024 03:19:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[05Jul2024 03:19:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[05Jul2024 03:19:01.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05Jul2024 03:19:01.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05Jul2024 03:19:01.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
-[05Jul2024 03:19:01.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05Jul2024 03:19:01.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05Jul2024 03:19:01.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05Jul2024 03:19:01.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
-[05Jul2024 03:19:01.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05Jul2024 03:19:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jul2024 02:11:08.776] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class digidigi/mtmechs/sound/PAStepSoundInstance for invalid dist DEDICATED_SERVER
+[06Jul2024 02:11:08.776] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for digidigi.mtmechs.entity.ProtoArmorEntity: java.lang.RuntimeException: Attempted to load class digidigi/mtmechs/sound/PAStepSoundInstance for invalid dist DEDICATED_SERVER
+[06Jul2024 02:11:08.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 02:11:09.062] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 02:11:11.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[06Jul2024 02:11:37.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Ashes 'n Bones]
+[06Jul2024 02:13:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was blown up by Creeper
+[06Jul2024 02:13:16.513] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 02:13:16.583] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 02:13:27.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 02:13:38.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was blown up by Creeper
