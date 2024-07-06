@@ -2457,3 +2457,28 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 22:39:08.021] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 768 Y: 91 Z: -635
 [06Jul2024 22:39:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was incinerated by a dragon
 [06Jul2024 22:40:12.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 22:41:41.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=768, y=84, z=-624} BlockPos{x=767, y=85, z=-622}
+[06Jul2024 22:43:05.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Kraken'/98877, l='ServerLevel[world]', x=755.70, y=78.75, z=-613.55] died: Kraken was killed trying to hurt reik
+[06Jul2024 22:47:11.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik fell from a high place
+[06Jul2024 22:47:11.864] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[06Jul2024 22:47:11.865] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[06Jul2024 22:47:32.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 22:47:38.862] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID bf631c5e-8dad-478c-9660-a3f6d175c0eb
+[06Jul2024 22:47:38.863] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 818 Y: 91 Z: -743
+[06Jul2024 22:47:38.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik fell from a high place
+[06Jul2024 22:48:20.852] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 10, Max Possible Invasions: 1
+[06Jul2024 22:48:20.854] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 10, Max Possible Invasions: 1
+[06Jul2024 22:48:20.854] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[06Jul2024 22:48:20.854] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 22:48:20.855] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 10, Max Possible Invasions: 1
+[06Jul2024 22:48:20.856] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 10, Max Possible Invasions: 1
+[06Jul2024 22:48:20.856] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[06Jul2024 22:48:20.857] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[06Jul2024 22:48:20.857] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 22:48:50.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 22:48:50.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[06Jul2024 22:50:19.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/100.126.227.16:53474] logged in with entity id 110148 at (984.6805984727343, 125.10159849212327, -814.2022272820881)
+[06Jul2024 22:50:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[06Jul2024 22:50:19.851] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[06Jul2024 22:50:49.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[06Jul2024 22:50:49.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
