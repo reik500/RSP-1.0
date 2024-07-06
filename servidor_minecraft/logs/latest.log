@@ -565,3 +565,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 03:36:08.622] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
 [06Jul2024 03:36:08.624] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
 [06Jul2024 03:36:16.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[06Jul2024 03:36:23.675] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID 469f5968-a897-4ff9-88d9-9149541dfc9e
+[06Jul2024 03:36:23.676] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -447 Y: 59 Z: -1255
+[06Jul2024 03:36:23.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was shot by Phayres
+[06Jul2024 03:37:40.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[06Jul2024 03:45:06.120] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 18, Max Possible Invasions: 1
+[06Jul2024 03:45:06.120] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 18, Max Possible Invasions: 1
+[06Jul2024 03:45:06.121] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 18, Max Possible Invasions: 1
+[06Jul2024 03:45:06.121] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 18, Max Possible Invasions: 1
+[06Jul2024 03:46:03.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Sweet Dreams]
+[06Jul2024 03:46:08.218] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 19, Max Possible Invasions: 1
+[06Jul2024 03:46:08.218] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 19, Max Possible Invasions: 1
+[06Jul2024 03:46:08.218] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 19, Max Possible Invasions: 1
+[06Jul2024 03:46:08.219] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 19, Max Possible Invasions: 1
