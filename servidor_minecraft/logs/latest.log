@@ -2356,3 +2356,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 21:14:20.107] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 5, Max Possible Invasions: 1
 [06Jul2024 21:14:20.107] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 5, Max Possible Invasions: 1
 [06Jul2024 21:14:20.108] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 5, Max Possible Invasions: 1
+[06Jul2024 21:24:20.099] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 5, Max Possible Invasions: 1
+[06Jul2024 21:24:20.101] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 5, Max Possible Invasions: 1
+[06Jul2024 21:24:20.101] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 5, Max Possible Invasions: 1
+[06Jul2024 21:24:20.101] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 5, Max Possible Invasions: 1
+[06Jul2024 21:25:01.521] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 6, Max Possible Invasions: 1
+[06Jul2024 21:25:01.522] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 6, Max Possible Invasions: 1
+[06Jul2024 21:25:01.523] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 6, Max Possible Invasions: 1
+[06Jul2024 21:25:01.523] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 6, Max Possible Invasions: 1
+[06Jul2024 21:25:01.524] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[06Jul2024 21:25:01.525] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[06Jul2024 21:25:01.525] [Server thread/INFO] [puresuffering/]: ]
+[06Jul2024 21:28:30.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/46811, l='ServerLevel[world]', x=134.31, y=-14.27, z=212.40] died: Nova69 burned to death
