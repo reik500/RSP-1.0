@@ -7459,3 +7459,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 19:57:27.276] [Worker-Main-8/DEBUG] [ModernFix/]: Structure iceandfire:graveyard/graveyard_bottom is being run through DFU (hash 499a494d132f60a2cce77e9c63595fa13acaa9551ed6e9ccb4a0fd7ee55fe3a9), this will cause launch time delays
 [06Jul2024 19:58:22.934] [Worker-Main-9/DEBUG] [ModernFix/]: Structure joshie:village/ocean/centers/center is being run through DFU (hash d51fd406424b3efcf97a7a884af816b08d3e032eb2a4463c2276a3f746c54146), this will cause launch time delays
 [06Jul2024 19:59:20.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Stone Age]
+[06Jul2024 20:00:16.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 20:00:16.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 20:01:10.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Getting an Upgrade]
+[06Jul2024 20:02:45.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/5526, l='ServerLevel[world]', x=89.34, y=110.75, z=191.30] died: ABucketOfFriedChicken was slain by reik
+[06Jul2024 20:02:47.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Spore]
+[06Jul2024 20:03:14.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Monster Hunter]
+[06Jul2024 20:04:46.498] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 1, Max Possible Invasions: 1
+[06Jul2024 20:04:46.500] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 1, Max Possible Invasions: 1
+[06Jul2024 20:04:46.503] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 1, Max Possible Invasions: 1
+[06Jul2024 20:04:46.506] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 1, Max Possible Invasions: 1
+[06Jul2024 20:05:16.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 20:05:16.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
