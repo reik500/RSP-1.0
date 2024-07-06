@@ -2352,3 +2352,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 21:04:20.099] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 4, Max Possible Invasions: 1
 [06Jul2024 21:04:20.099] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 4, Max Possible Invasions: 1
 [06Jul2024 21:04:23.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Where Is The Stone Pen?]
+[06Jul2024 21:14:20.106] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 5, Max Possible Invasions: 1
+[06Jul2024 21:14:20.107] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 5, Max Possible Invasions: 1
+[06Jul2024 21:14:20.107] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 5, Max Possible Invasions: 1
+[06Jul2024 21:14:20.108] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 5, Max Possible Invasions: 1
