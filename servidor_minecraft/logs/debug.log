@@ -5473,3 +5473,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [06Jul2024 03:05:06.119] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 16, Max Possible Invasions: 1
 [06Jul2024 03:05:06.120] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 16, Max Possible Invasions: 1
 [06Jul2024 03:05:06.120] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 16, Max Possible Invasions: 1
+[06Jul2024 03:05:44.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:05:44.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:06:53.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43306, l='ServerLevel[world]', x=-362.47, y=64.06, z=-1060.71] died, message: 'Unemployed was slain by Zombie'
+[06Jul2024 03:09:03.165] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/43488, l='ServerLevel[world]', x=-380.80, y=64.50, z=-1073.39] died, message: 'Leatherworker was slain by Zombie'
+[06Jul2024 03:09:16.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/43440, l='ServerLevel[world]', x=-371.61, y=64.21, z=-1075.13] died, message: 'Leatherworker was slain by Zombie'
+[06Jul2024 03:10:44.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:10:44.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 03:15:06.121] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 17, Max Possible Invasions: 1
+[06Jul2024 03:15:06.122] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
+[06Jul2024 03:15:06.122] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 17, Max Possible Invasions: 1
+[06Jul2024 03:15:06.122] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 17, Max Possible Invasions: 1
+[06Jul2024 03:15:44.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 03:15:44.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
