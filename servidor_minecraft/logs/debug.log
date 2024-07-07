@@ -4628,3 +4628,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 01:16:50.136] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/58028, l='ServerLevel[world]', x=1926.36, y=62.91, z=-424.50] died: Belladonna was killed trying to hurt reik
 [07Jul2024 01:18:23.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2024 01:18:23.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 01:23:23.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 01:23:23.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 01:24:25.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/68479, l='ServerLevel[world]', x=1967.30, y=-27.30, z=-406.22] died: Whisper was shot by Skeleton
+[07Jul2024 01:24:25.590] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 17, Max Possible Invasions: 1
+[07Jul2024 01:24:25.591] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[07Jul2024 01:24:25.592] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:zombie - 1
+[07Jul2024 01:24:25.600] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 01:24:25.605] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 17, Max Possible Invasions: 1
+[07Jul2024 01:24:25.605] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 17, Max Possible Invasions: 1
+[07Jul2024 01:24:25.607] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
+[07Jul2024 01:28:23.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 01:28:23.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -231,3 +231,11 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 01:14:25.593] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
 [07Jul2024 01:15:01.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/60249, l='ServerLevel[world]', x=1903.70, y=-18.25, z=-387.70] died: xXFuryXx was shot by Skeleton
 [07Jul2024 01:16:50.136] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/58028, l='ServerLevel[world]', x=1926.36, y=62.91, z=-424.50] died: Belladonna was killed trying to hurt reik
+[07Jul2024 01:24:25.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/68479, l='ServerLevel[world]', x=1967.30, y=-27.30, z=-406.22] died: Whisper was shot by Skeleton
+[07Jul2024 01:24:25.590] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 17, Max Possible Invasions: 1
+[07Jul2024 01:24:25.591] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[07Jul2024 01:24:25.592] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:zombie - 1
+[07Jul2024 01:24:25.600] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 01:24:25.605] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 17, Max Possible Invasions: 1
+[07Jul2024 01:24:25.605] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 17, Max Possible Invasions: 1
+[07Jul2024 01:24:25.607] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
