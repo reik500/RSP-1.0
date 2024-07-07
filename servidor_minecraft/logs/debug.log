@@ -4579,3 +4579,29 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 00:56:47.843] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/39823, l='ServerLevel[world]', x=2015.85, y=17.95, z=-388.24] died: Ike was slain by Zombie
 [07Jul2024 00:58:23.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2024 00:58:23.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 01:02:34.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['bartsek009 '/45718, l='ServerLevel[world]', x=1943.50, y=6.00, z=-358.60] died: bartsek009  was blown up by Creeper
+[07Jul2024 01:03:23.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 01:03:23.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 01:04:25.599] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 16, Max Possible Invasions: 1
+[07Jul2024 01:04:25.600] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 16, Max Possible Invasions: 1
+[07Jul2024 01:04:25.601] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 16, Max Possible Invasions: 1
+[07Jul2024 01:04:25.601] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 16, Max Possible Invasions: 1
+[07Jul2024 01:04:35.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31679, l='ServerLevel[world]', x=2112.26, y=69.78, z=-361.82]
+[07Jul2024 01:04:35.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31680, l='ServerLevel[world]', x=2112.00, y=69.79, z=-360.48]
+[07Jul2024 01:04:35.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/31681, l='ServerLevel[world]', x=2112.47, y=69.79, z=-359.80]
+[07Jul2024 01:05:15.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik was slain by Myrmex Worker
+[07Jul2024 01:05:15.844] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[07Jul2024 01:05:15.856] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[07Jul2024 01:05:36.905] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID 0e3ca460-fb25-49d6-841f-09ec9db8fa09
+[07Jul2024 01:05:36.906] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1915 Y: 60 Z: -375
+[07Jul2024 01:05:36.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik was slain by Myrmex Worker
+[07Jul2024 01:05:36.909] [Server thread/DEBUG] [tombstone/]: A new grave of the player reik was created at position [x:1920, y:60, z:-381, dim:minecraft:overworld]
+[07Jul2024 01:05:38.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[07Jul2024 01:05:38.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[07Jul2024 01:05:52.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[07Jul2024 01:06:22.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Here They Come]
+[07Jul2024 01:07:25.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[07Jul2024 01:07:59.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[07Jul2024 01:08:06.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Bone Crusher]
+[07Jul2024 01:08:23.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 01:08:23.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
