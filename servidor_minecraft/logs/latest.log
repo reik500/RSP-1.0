@@ -212,3 +212,22 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 01:06:22.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Here They Come]
 [07Jul2024 01:07:59.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
 [07Jul2024 01:08:06.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has reached the goal [Bone Crusher]
+[07Jul2024 01:08:46.691] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:08:47.393] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:09:36.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:09:41.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:13:47.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:13:57.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:14:02.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:14:03.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:14:03.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:14:06.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:14:06.484] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:14:10.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:14:11.284] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 01:14:25.592] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 17, Max Possible Invasions: 1
+[07Jul2024 01:14:25.593] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 17, Max Possible Invasions: 1
+[07Jul2024 01:14:25.593] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 17, Max Possible Invasions: 1
+[07Jul2024 01:14:25.593] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
+[07Jul2024 01:15:01.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/60249, l='ServerLevel[world]', x=1903.70, y=-18.25, z=-387.70] died: xXFuryXx was shot by Skeleton
+[07Jul2024 01:16:50.136] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/58028, l='ServerLevel[world]', x=1926.36, y=62.91, z=-424.50] died: Belladonna was killed trying to hurt reik
