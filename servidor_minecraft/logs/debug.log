@@ -4538,3 +4538,26 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 00:37:44.847] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
 [07Jul2024 00:37:44.847] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
 [07Jul2024 00:37:44.847] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 00:38:23.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 00:38:23.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 00:41:54.263] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of spore:mega_biomass_tower
+[07Jul2024 00:41:55.100] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower
+[07Jul2024 00:42:02.172] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[07Jul2024 00:42:36.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik is bleeding. reik fell from a high place
+[07Jul2024 00:42:36.772] [Server thread/WARN] [tombstone/]: The death event of the player reik was canceled by another mod
+[07Jul2024 00:42:36.778] [Server thread/INFO] [tombstone/]: The player reik has successfully been saved
+[07Jul2024 00:43:04.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Creative Mode]
+[07Jul2024 00:43:15.558] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for reik with unique ID 45bcac4d-7bb6-491c-be2c-2b9ae2f55b26
+[07Jul2024 00:43:15.563] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1939 Y: 95 Z: -755
+[07Jul2024 00:43:15.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik fell from a high place
+[07Jul2024 00:43:15.576] [Server thread/DEBUG] [tombstone/]: A new grave of the player reik was created at position [x:1938, y:95, z:-755, dim:minecraft:overworld]
+[07Jul2024 00:43:23.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 00:43:23.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 00:45:42.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [reik: Set own game mode to Survival Mode]
+[07Jul2024 00:46:58.671] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[07Jul2024 00:47:44.797] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 15, Max Possible Invasions: 1
+[07Jul2024 00:47:44.808] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 15, Max Possible Invasions: 1
+[07Jul2024 00:47:44.809] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 15, Max Possible Invasions: 1
+[07Jul2024 00:47:44.809] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[07Jul2024 00:47:44.810] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 00:47:44.810] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 15, Max Possible Invasions: 1
