@@ -141,3 +141,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 00:17:01.119] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
 [07Jul2024 00:17:01.120] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
 [07Jul2024 00:17:01.121] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 00:22:02.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 00:22:27.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 00:22:27.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 00:22:30.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 00:23:31.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[07Jul2024 00:23:31.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[07Jul2024 00:25:43.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/100.126.227.16:53946] logged in with entity id 12096 at (1807.300000011921, 70.0, -901.6688941939819)
+[07Jul2024 00:25:44.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[07Jul2024 00:25:44.103] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[07Jul2024 00:27:01.095] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 14, Max Possible Invasions: 1
+[07Jul2024 00:27:01.097] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 14, Max Possible Invasions: 1
+[07Jul2024 00:27:01.097] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 14, Max Possible Invasions: 1
+[07Jul2024 00:27:01.098] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 14, Max Possible Invasions: 1
