@@ -292,3 +292,29 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 02:13:46.996] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 20, Max Possible Invasions: 1
 [07Jul2024 02:13:46.997] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 20, Max Possible Invasions: 1
 [07Jul2024 02:15:09.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/110336, l='ServerLevel[world]', x=1887.20, y=-18.00, z=-392.50] died: cheesepuff was slain by Spider
+[07Jul2024 02:23:46.997] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 20, Max Possible Invasions: 1
+[07Jul2024 02:23:46.998] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[07Jul2024 02:23:46.999] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:arachnophobia - 1
+[07Jul2024 02:23:46.999] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 02:23:47.000] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 20, Max Possible Invasions: 1
+[07Jul2024 02:23:47.000] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 20, Max Possible Invasions: 1
+[07Jul2024 02:23:47.000] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 20, Max Possible Invasions: 1
+[07Jul2024 02:23:47.001] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[07Jul2024 02:23:47.001] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[07Jul2024 02:23:47.002] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 02:26:53.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[07Jul2024 02:26:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[07Jul2024 02:26:53.290] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2024 02:29:20.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jul2024 02:29:20.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jul2024 02:29:20.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jul2024 02:29:20.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jul2024 02:29:20.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jul2024 02:29:20.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jul2024 02:29:20.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[07Jul2024 02:29:20.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jul2024 02:29:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jul2024 02:29:20.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jul2024 02:29:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[07Jul2024 02:29:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jul2024 02:29:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
