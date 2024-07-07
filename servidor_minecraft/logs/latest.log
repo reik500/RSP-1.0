@@ -259,3 +259,28 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: ]
 [07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 19, Max Possible Invasions: 1
 [07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 19, Max Possible Invasions: 1
+[07Jul2024 02:01:58.689] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/103927, l='ServerLevel[world]', x=1993.07, y=21.00, z=-401.74] died: Gistique was blown up by Creeper
+[07Jul2024 02:02:05.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[07Jul2024 02:02:05.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[07Jul2024 02:02:16.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/100.126.227.16:54292] logged in with entity id 104249 at (1920.6567606752385, 83.9375, -432.51597471873237)
+[07Jul2024 02:02:17.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[07Jul2024 02:02:17.048] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[07Jul2024 02:03:46.989] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 19, Max Possible Invasions: 1
+[07Jul2024 02:03:46.990] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 19, Max Possible Invasions: 1
+[07Jul2024 02:03:46.990] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 19, Max Possible Invasions: 1
+[07Jul2024 02:03:46.990] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[07Jul2024 02:03:46.991] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 02:03:46.991] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 19, Max Possible Invasions: 1
+[07Jul2024 02:04:02.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[07Jul2024 02:04:02.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[07Jul2024 02:05:20.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/100.126.227.16:54326] logged in with entity id 106044 at (1920.6567606752385, 83.9375, -432.51597471873237)
+[07Jul2024 02:05:20.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[07Jul2024 02:05:20.512] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[07Jul2024 02:06:02.294] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/106102, l='ServerLevel[world]', x=1881.31, y=-18.00, z=-390.77] died: The_Harbinger69 was shot by Skeleton
+[07Jul2024 02:06:26.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[07Jul2024 02:06:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[07Jul2024 02:06:39.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/100.126.227.16:54334] logged in with entity id 107546 at (1922.534257434739, 84.0, -435.0522922712796)
+[07Jul2024 02:06:39.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[07Jul2024 02:06:39.381] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[07Jul2024 02:07:48.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
+[07Jul2024 02:07:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
