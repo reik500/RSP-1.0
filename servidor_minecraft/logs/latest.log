@@ -284,3 +284,11 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 02:06:39.381] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
 [07Jul2024 02:07:48.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: reik lost connection: Disconnected
 [07Jul2024 02:07:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik left the game
+[07Jul2024 02:13:07.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: reik[/100.126.227.16:54390] logged in with entity id 108783 at (1921.2073014383748, 82.0, -437.48750001192093)
+[07Jul2024 02:13:07.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik joined the game
+[07Jul2024 02:13:07.158] [Server thread/INFO] [Jade/]: Syncing config to reik (f290035f-ef20-3efd-bb7d-00bded544cc5)
+[07Jul2024 02:13:46.994] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 20, Max Possible Invasions: 1
+[07Jul2024 02:13:46.996] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 20, Max Possible Invasions: 1
+[07Jul2024 02:13:46.996] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 20, Max Possible Invasions: 1
+[07Jul2024 02:13:46.997] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 20, Max Possible Invasions: 1
+[07Jul2024 02:15:09.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/110336, l='ServerLevel[world]', x=1887.20, y=-18.00, z=-392.50] died: cheesepuff was slain by Spider
