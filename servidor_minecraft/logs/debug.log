@@ -4640,3 +4640,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 01:24:25.607] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 17, Max Possible Invasions: 1
 [07Jul2024 01:28:23.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2024 01:28:23.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 01:29:10.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/73493, l='ServerLevel[world]', x=1963.91, y=-22.51, z=-413.70] died: Whisper tried to swim in lava
+[07Jul2024 01:29:31.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/72146, l='ServerLevel[world]', x=1938.57, y=6.00, z=-357.77] died: Nova69 was blown up by Creeper
+[07Jul2024 01:33:23.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 01:33:23.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 01:33:47.042] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 18, Max Possible Invasions: 1
+[07Jul2024 01:33:47.043] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 18, Max Possible Invasions: 1
+[07Jul2024 01:33:47.043] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 18, Max Possible Invasions: 1
+[07Jul2024 01:33:47.043] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 18, Max Possible Invasions: 1
+[07Jul2024 01:35:34.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/78413, l='ServerLevel[world]', x=2013.43, y=19.00, z=-395.70] died: Belladonna was shot by Skeleton
+[07Jul2024 01:38:23.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 01:38:23.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 01:38:27.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Neighborhood Brawl]
