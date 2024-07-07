@@ -4327,3 +4327,25 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 00:06:57.436] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 13, Max Possible Invasions: 1
 [07Jul2024 00:06:57.437] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 13, Max Possible Invasions: 1
 [07Jul2024 00:07:12.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
+[07Jul2024 00:08:23.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 00:08:23.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 00:13:04.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/727, l='ServerLevel[world]', x=1829.27, y=76.92, z=-942.40] died, message: 'Unemployed burned to death'
+[07Jul2024 00:13:23.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 00:13:23.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 00:15:06.404] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_small
+[07Jul2024 00:15:06.775] [Worker-Main-10/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[07Jul2024 00:15:06.998] [Worker-Main-10/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Jul2024 00:15:07.013] [Worker-Main-10/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Jul2024 00:15:28.766] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower
+[07Jul2024 00:15:30.911] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of spore:mega_biomass_tower
+[07Jul2024 00:15:33.619] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of spore:biomass_tower_tall
+[07Jul2024 00:17:01.092] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 13, Max Possible Invasions: 1
+[07Jul2024 00:17:01.096] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
+[07Jul2024 00:17:01.107] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:zombie - 1
+[07Jul2024 00:17:01.109] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 00:17:01.112] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 13, Max Possible Invasions: 1
+[07Jul2024 00:17:01.114] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 13, Max Possible Invasions: 1
+[07Jul2024 00:17:01.118] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 13, Max Possible Invasions: 1
+[07Jul2024 00:17:01.119] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[07Jul2024 00:17:01.120] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[07Jul2024 00:17:01.121] [Server thread/INFO] [puresuffering/]: ]
