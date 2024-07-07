@@ -252,3 +252,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 01:43:46.995] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 18, Max Possible Invasions: 1
 [07Jul2024 01:43:46.996] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 18, Max Possible Invasions: 1
 [07Jul2024 01:46:12.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/90050, l='ServerLevel[world]', x=1963.68, y=44.00, z=-333.63] died: hacie was slain by Zombie
+[07Jul2024 01:53:46.989] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 19, Max Possible Invasions: 1
+[07Jul2024 01:53:46.990] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 19, Max Possible Invasions: 1
+[07Jul2024 01:53:46.990] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 19, Max Possible Invasions: 1
+[07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 19, Max Possible Invasions: 1

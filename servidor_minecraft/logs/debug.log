@@ -4661,3 +4661,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 01:46:12.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/90050, l='ServerLevel[world]', x=1963.68, y=44.00, z=-333.63] died: hacie was slain by Zombie
 [07Jul2024 01:48:23.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2024 01:48:23.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 01:53:23.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 01:53:23.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2024 01:53:46.989] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 19, Max Possible Invasions: 1
+[07Jul2024 01:53:46.990] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 19, Max Possible Invasions: 1
+[07Jul2024 01:53:46.990] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 19, Max Possible Invasions: 1
+[07Jul2024 01:53:46.991] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 19, Max Possible Invasions: 1
+[07Jul2024 01:58:23.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2024 01:58:23.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
