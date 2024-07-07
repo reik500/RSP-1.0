@@ -154,3 +154,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 00:27:01.097] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 14, Max Possible Invasions: 1
 [07Jul2024 00:27:01.097] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 14, Max Possible Invasions: 1
 [07Jul2024 00:27:01.098] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 14, Max Possible Invasions: 1
+[07Jul2024 00:37:01.094] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 14, Max Possible Invasions: 1
+[07Jul2024 00:37:01.096] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 14, Max Possible Invasions: 1
+[07Jul2024 00:37:01.096] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[07Jul2024 00:37:01.100] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:porkinator - 1
+[07Jul2024 00:37:01.101] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 00:37:01.104] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 14, Max Possible Invasions: 1
+[07Jul2024 00:37:01.104] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 14, Max Possible Invasions: 1
+[07Jul2024 00:37:44.844] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 15, Max Possible Invasions: 1
+[07Jul2024 00:37:44.845] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 15, Max Possible Invasions: 1
+[07Jul2024 00:37:44.846] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 15, Max Possible Invasions: 1
+[07Jul2024 00:37:44.846] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 15, Max Possible Invasions: 1
+[07Jul2024 00:37:44.847] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[07Jul2024 00:37:44.847] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[07Jul2024 00:37:44.847] [Server thread/INFO] [puresuffering/]: ]
