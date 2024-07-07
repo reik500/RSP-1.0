@@ -182,3 +182,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 00:47:44.809] [Server thread/INFO] [puresuffering/]: Setting Default Night Invasions: [
 [07Jul2024 00:47:44.810] [Server thread/INFO] [puresuffering/]: ]
 [07Jul2024 00:47:44.810] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 15, Max Possible Invasions: 1
+[07Jul2024 00:51:00.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 00:51:07.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 00:51:28.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/34939, l='ServerLevel[world]', x=1935.58, y=6.65, z=-348.39] died: LoneGuy was slain by Zombie
+[07Jul2024 00:51:37.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2024 00:54:25.641] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Day: 16, Max Possible Invasions: 1
+[07Jul2024 00:54:25.642] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 16, Max Possible Invasions: 1
+[07Jul2024 00:54:25.643] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Day: 16, Max Possible Invasions: 1
+[07Jul2024 00:54:25.643] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 16, Max Possible Invasions: 1
+[07Jul2024 00:54:25.643] [Server thread/INFO] [puresuffering/]: Setting Default Fixed Invasions: [
+[07Jul2024 00:54:25.644] [Server thread/INFO] [puresuffering/]: Invasion 1: puresuffering:end_game - 1
+[07Jul2024 00:54:25.645] [Server thread/INFO] [puresuffering/]: ]
+[07Jul2024 00:56:47.843] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/39823, l='ServerLevel[world]', x=2015.85, y=17.95, z=-388.24] died: Ike was slain by Zombie
