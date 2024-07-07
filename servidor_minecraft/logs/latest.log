@@ -247,3 +247,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [07Jul2024 01:33:47.043] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 18, Max Possible Invasions: 1
 [07Jul2024 01:35:34.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/78413, l='ServerLevel[world]', x=2013.43, y=19.00, z=-395.70] died: Belladonna was shot by Skeleton
 [07Jul2024 01:38:27.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reik has made the advancement [Neighborhood Brawl]
+[07Jul2024 01:43:46.993] [Server thread/INFO] [puresuffering/]: [minecraft:overworld] Night: 18, Max Possible Invasions: 1
+[07Jul2024 01:43:46.995] [Server thread/INFO] [puresuffering/]: [minecraft:the_nether] Fixed: 18, Max Possible Invasions: 1
+[07Jul2024 01:43:46.995] [Server thread/INFO] [puresuffering/]: [lostcities:lostcity] Night: 18, Max Possible Invasions: 1
+[07Jul2024 01:43:46.996] [Server thread/INFO] [puresuffering/]: [minecraft:the_end] Fixed: 18, Max Possible Invasions: 1
+[07Jul2024 01:46:12.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/90050, l='ServerLevel[world]', x=1963.68, y=44.00, z=-333.63] died: hacie was slain by Zombie
